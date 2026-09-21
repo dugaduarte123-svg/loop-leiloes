@@ -1153,6 +1153,47 @@ function createServer() {
         }
       }
 
+      // A Hostinger bloqueia com 403 URLs de arquivos .jpg que nao existem no
+      // deploy antes de encaminha-las ao Node. Esta rota sem extensao entrega
+      // as fotos locais quando presentes e busca a copia oficial caso contrario.
+      if ((req.method === 'GET' || req.method === 'HEAD') && url.pathname === '/vehicle-image') {
+        const vehicleId = url.searchParams.get('vehicle') || '';
+        const filename = url.searchParams.get('file') || '';
+        if (!/^\d+$/.test(vehicleId) || !filename || path.basename(filename) !== filename) {
+          json(res, 400, { error: 'Imagem invalida' });
+          return;
+        }
+
+        const indexed = imageByFilename(filename);
+        if (!indexed) {
+          json(res, 404, { error: 'Imagem nao encontrada' });
+          return;
+        }
+
+        const local = findCapturedFile(PUBLIC_MEDIA_ROOT, indexed.relativePath);
+        if (local) {
+          serveFile(res, local, false);
+          return;
+        }
+
+        try {
+          const remote = await fetch(indexed.source, { signal: AbortSignal.timeout(15000) });
+          if (!remote.ok) throw new Error(`HTTP ${remote.status}`);
+          const body = Buffer.from(await remote.arrayBuffer());
+          res.writeHead(200, {
+            'Content-Type': mimeTypes[path.extname(filename).toLowerCase()] || 'image/jpeg',
+            'Content-Length': body.length,
+            'Cache-Control': 'public, max-age=86400, stale-while-revalidate=604800',
+            'X-Content-Type-Options': 'nosniff'
+          });
+          if (req.method === 'HEAD') res.end();
+          else res.end(body);
+        } catch {
+          json(res, 502, { error: 'Falha ao carregar imagem' });
+        }
+        return;
+      }
+
       if (url.pathname.startsWith('/media/')) {
         const relativeMediaPath = url.pathname.slice('/media/'.length);
         const file = findCapturedFile(PUBLIC_MEDIA_ROOT, relativeMediaPath);

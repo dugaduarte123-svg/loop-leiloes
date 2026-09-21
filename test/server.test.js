@@ -94,6 +94,17 @@ test('atende imagens otimizadas da home e redireciona assets publicos', async ()
   if (response.status === 302) assert.match(response.headers.get('location'), /oraclecloud\.com/);
 });
 
+test('entrega fotos de veiculos por uma rota aceita pela Hostinger', async () => {
+  const params = new URLSearchParams({
+    vehicle: '60102679',
+    file: 'chevrolet-prisma-1-4-mpfi-joy-8v-flex-4p-manual-frente-passageiro-ca0f7933.jpg'
+  });
+  const response = await fetch(`${origin}/vehicle-image?${params}`);
+  assert.equal(response.status, 200);
+  assert.match(response.headers.get('content-type'), /image\/jpeg/);
+  assert.ok((await response.arrayBuffer()).byteLength > 1000);
+});
+
 test('entrega as novas paginas publicas e o catalogo completo', async () => {
   const page = await fetch(`${origin}/estoque`, { headers: { accept: 'text/html' } });
   const html = await page.text();
