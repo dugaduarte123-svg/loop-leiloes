@@ -1,0 +1,666 @@
+{
+  "id": 168582,
+  "number": 4,
+  "description": "FIAT PALIO 1.0 2013/2014",
+  "status": "aberto_para_lance",
+  "classification": 3,
+  "isFinancing": false,
+  "closingDate": "2026-09-25 11:00:45",
+  "auction": {
+    "id": 2746,
+    "description": "EXCLUSIVO SUCATA",
+    "currentLot": null,
+    "commission": 5,
+    "type": "online"
+  },
+  "principal": {
+    "id": 53924,
+    "description": "CCR"
+  },
+  "vehicle": {
+    "id": 60050824,
+    "brand": "FIAT",
+    "model": "PALIO",
+    "version": "1.6 MPI ESSENCE 16V FLEX 4P MANUAL",
+    "category": "carros",
+    "fipePrice": 35824,
+    "webmotorsPrice": 36900,
+    "images": [
+      {
+        "uuid": "8e814547-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596372_K.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596372_K.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596372_K.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596372_K.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596372_K.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596372_K.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e81454e-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596370_J.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596370_J.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596370_J.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596370_J.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596370_J.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596370_J.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e814555-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596369_I.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596369_I.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596369_I.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596369_I.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596369_I.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596369_I.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e81455c-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596368_H.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596368_H.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596368_H.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596368_H.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596368_H.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596368_H.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e814563-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596367_G.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596367_G.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596367_G.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596367_G.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596367_G.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596367_G.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e814569-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596365_F.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596365_F.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596365_F.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596365_F.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596365_F.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596365_F.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e814570-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596364_E.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596364_E.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596364_E.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596364_E.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596364_E.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596364_E.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e814576-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596225_D.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596225_D.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596225_D.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596225_D.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596225_D.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596225_D.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e81457d-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596201_C.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596201_C.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596201_C.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596201_C.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596201_C.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596201_C.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e814584-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596159_B.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596159_B.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596159_B.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596159_B.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596159_B.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596159_B.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "8e81458a-64d1-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596131_A.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596131_A.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596131_A.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596131_A.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596131_A.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596131_A.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c4974-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596372_K.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596372_K.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596372_K.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596372_K.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596372_K.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596372_K.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c4983-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596370_J.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596370_J.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596370_J.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596370_J.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596370_J.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596370_J.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c4992-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596369_I.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596369_I.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596369_I.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596369_I.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596369_I.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596369_I.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c49a1-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596368_H.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596368_H.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596368_H.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596368_H.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596368_H.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596368_H.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c49b0-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596367_G.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596367_G.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596367_G.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596367_G.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596367_G.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596367_G.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c49bf-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596365_F.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596365_F.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596365_F.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596365_F.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596365_F.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596365_F.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c49cd-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596364_E.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596364_E.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596364_E.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596364_E.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596364_E.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596364_E.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c49dc-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596225_D.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596225_D.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596225_D.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596225_D.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596225_D.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596225_D.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c49ea-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596201_C.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596201_C.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596201_C.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596201_C.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596201_C.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596201_C.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c49f8-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596159_B.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596159_B.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596159_B.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596159_B.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596159_B.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596159_B.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "7e2c4a07-64ff-11f1-89bd-020017068daf",
+        "filename": "V_60050824_596131_A.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/V_60050824_596131_A.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/V_60050824_596131_A.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/V_60050824_596131_A.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/V_60050824_596131_A.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/V_60050824_596131_A.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      }
+    ],
+    "videoUrl": "",
+    "ipvaPaid": false
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Gasolina/Álcool/GNV",
+    "yearModel": 2014,
+    "yearManufacture": 2013,
+    "color": "Amarelo",
+    "mileage": 1,
+    "licensePlate": "F*****3"
+  },
+  "observation": "VEICULO SUCATA SEM DIREITO A DOCUMENTAÇÃO. A SUCATA É VENDIDA NO ESTADO EM QUE SE ENCONTRA. **. SEM CHAVE DE IGNIÇÃO.",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Gasolina/Álcool/GNV"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Sem chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Amarelo"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "2"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "1"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Ruim"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": ""
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de ferro"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEICULO SUCATA SEM DIREITO A DOCUMENTAÇÃO. A SUCATA É VENDIDA NO ESTADO EM QUE SE ENCONTRA. **. SEM CHAVE DE IGNIÇÃO."
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Mecânica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Veículo sem bateria"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "3"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    }
+  ],
+  "importantInfo": {
+    "seller": "CCR",
+    "additionalCharge": 15237,
+    "withdrawal": "",
+    "withdrawalType": null,
+    "transferServiceType": null,
+    "expeditor": "Loop",
+    "documentWithdrawal": "45 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "25/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Vila Brás Cubas - Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    }
+  },
+  "terms": {
+    "id": null
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    },
+    {
+      "id": 12,
+      "description": "Estadia",
+      "type": "fixed",
+      "value": 15187
+    },
+    {
+      "id": 17,
+      "description": "Despesas de Remessa",
+      "type": "fixed",
+      "value": 50
+    }
+  ]
+}

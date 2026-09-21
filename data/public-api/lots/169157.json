@@ -1,0 +1,593 @@
+{
+  "id": 169157,
+  "number": 40,
+  "description": "TOYOTA HILUX CD4X4 2009/2009",
+  "status": "aberto_para_lance",
+  "classification": 4,
+  "isFinancing": true,
+  "closingDate": "2026-09-23 15:09:45",
+  "auction": {
+    "id": 2762,
+    "description": "EXCLUSIVO EDP",
+    "currentLot": null,
+    "commission": 5,
+    "type": "online"
+  },
+  "principal": {
+    "id": 53959,
+    "description": "EDP"
+  },
+  "vehicle": {
+    "id": 60067845,
+    "brand": "TOYOTA",
+    "model": "HILUX",
+    "version": "2.5 STD 4X4 CD 16V TURBO DIESEL 4P MANUAL",
+    "category": "carros",
+    "fipePrice": 86705,
+    "webmotorsPrice": 86500,
+    "images": [
+      {
+        "uuid": "3cf73db4-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-frente-motorista-71b8a60d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-frente-motorista-71b8a60d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-frente-motorista-71b8a60d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-frente-motorista-71b8a60d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-frente-motorista-71b8a60d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-frente-motorista-71b8a60d.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73d7e-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-traseira-motorista-b1a3de12.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-traseira-motorista-b1a3de12.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-traseira-motorista-b1a3de12.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-traseira-motorista-b1a3de12.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-traseira-motorista-b1a3de12.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-traseira-motorista-b1a3de12.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73d8a-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-traseira-passageiro-3db9df4d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-traseira-passageiro-3db9df4d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-traseira-passageiro-3db9df4d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-traseira-passageiro-3db9df4d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-traseira-passageiro-3db9df4d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-traseira-passageiro-3db9df4d.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73da6-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-frente-passageiro-a7e6df38.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-frente-passageiro-a7e6df38.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-frente-passageiro-a7e6df38.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-frente-passageiro-a7e6df38.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-frente-passageiro-a7e6df38.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-frente-passageiro-a7e6df38.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73dc2-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-pneu-dianteiro-dir-4ab8d4a7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-pneu-dianteiro-dir-4ab8d4a7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-pneu-dianteiro-dir-4ab8d4a7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-pneu-dianteiro-dir-4ab8d4a7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-pneu-dianteiro-dir-4ab8d4a7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-pneu-dianteiro-dir-4ab8d4a7.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73dd0-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-porta-e-interior-passageiro-2ca83cda.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-porta-e-interior-passageiro-2ca83cda.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-porta-e-interior-passageiro-2ca83cda.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-porta-e-interior-passageiro-2ca83cda.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-porta-e-interior-passageiro-2ca83cda.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-porta-e-interior-passageiro-2ca83cda.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73dde-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-pneu-traseiro-dir-b25517e4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-pneu-traseiro-dir-b25517e4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-pneu-traseiro-dir-b25517e4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-pneu-traseiro-dir-b25517e4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-pneu-traseiro-dir-b25517e4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-pneu-traseiro-dir-b25517e4.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73dfb-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-porta-malas-208dad20.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-porta-malas-208dad20.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-porta-malas-208dad20.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-porta-malas-208dad20.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-porta-malas-208dad20.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-porta-malas-208dad20.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e09-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-pneu-traseiro-esq-0e2c19af.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-pneu-traseiro-esq-0e2c19af.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-pneu-traseiro-esq-0e2c19af.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-pneu-traseiro-esq-0e2c19af.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-pneu-traseiro-esq-0e2c19af.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-pneu-traseiro-esq-0e2c19af.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e16-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-painel-completo-d831b284.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-painel-completo-d831b284.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-painel-completo-d831b284.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-painel-completo-d831b284.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-painel-completo-d831b284.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-painel-completo-d831b284.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e23-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-bancos-traseiros-450440a6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-bancos-traseiros-450440a6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-bancos-traseiros-450440a6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-bancos-traseiros-450440a6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-bancos-traseiros-450440a6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-bancos-traseiros-450440a6.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e31-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-porta-e-interior-motorista-f0f07c76.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-porta-e-interior-motorista-f0f07c76.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-porta-e-interior-motorista-f0f07c76.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-porta-e-interior-motorista-f0f07c76.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-porta-e-interior-motorista-f0f07c76.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-porta-e-interior-motorista-f0f07c76.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e3f-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-pneu-dianteiro-esq-cff61c64.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-pneu-dianteiro-esq-cff61c64.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-pneu-dianteiro-esq-cff61c64.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-pneu-dianteiro-esq-cff61c64.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-pneu-dianteiro-esq-cff61c64.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-pneu-dianteiro-esq-cff61c64.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e63-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-motor-0f93f9c5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-motor-0f93f9c5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-motor-0f93f9c5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-motor-0f93f9c5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-motor-0f93f9c5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-motor-0f93f9c5.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e71-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-kit-multimidia-3813b148.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-kit-multimidia-3813b148.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-kit-multimidia-3813b148.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-kit-multimidia-3813b148.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-kit-multimidia-3813b148.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-kit-multimidia-3813b148.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf73e80-64cb-11f1-89bd-020017068daf",
+        "filename": "toyota-hilux-cd4x4-painel-km-a980842a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-hilux-cd4x4-painel-km-a980842a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-hilux-cd4x4-painel-km-a980842a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-hilux-cd4x4-painel-km-a980842a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-hilux-cd4x4-painel-km-a980842a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-hilux-cd4x4-painel-km-a980842a.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "TOYOTA",
+        "category": "main",
+        "properties": null
+      }
+    ],
+    "videoUrl": "",
+    "ipvaPaid": false
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Diesel",
+    "yearModel": 2009,
+    "yearManufacture": 2009,
+    "color": "Branca",
+    "mileage": 275498,
+    "licensePlate": "E*****7"
+  },
+  "observation": "LATARIA E PINTURA COM RISCOS E AMASSADOS. VEÍCULO NÃO FUNCIONA, SEM ESTEPE. PAINEL TRASEIRO AMASSADO(A), PAINEL DIANTEIRO INFERIOR AMASSADO(A), LONGARINA DIANTEIRA - DIREITA AMASSADO(A), ALÇA DO LACRE DE PLACA ROMPIDA, CONSTA RECALL, QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO ARREMATANTE.**",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Diesel"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Sem chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "275498"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Caminhonete"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Ruim"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": ""
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "LATARIA E PINTURA COM RISCOS E AMASSADOS. VEÍCULO NÃO FUNCIONA, SEM ESTEPE. PAINEL TRASEIRO AMASSADO(A), PAINEL DIANTEIRO INFERIOR AMASSADO(A), LONGARINA DIANTEIRA - DIREITA AMASSADO(A), ALÇA DO LACRE DE PLACA ROMPIDA, CONSTA RECALL, QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO ARREMATANTE.**"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "4"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    }
+  ],
+  "importantInfo": {
+    "seller": "EDP",
+    "additionalCharge": 10196,
+    "withdrawal": "30 dias úteis",
+    "withdrawalType": "Condicionado a liberação da documentação pós-venda",
+    "transferServiceType": "Com exigencia Transferência Completa (Loop)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "23/09/2026 15:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Vila Brás Cubas - Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    }
+  },
+  "terms": {
+    "id": 3076
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    },
+    {
+      "id": 8,
+      "description": "Transporte Comitente",
+      "type": "fixed",
+      "value": 1050
+    },
+    {
+      "id": 9,
+      "description": "Inspeção",
+      "type": "fixed",
+      "value": 190
+    },
+    {
+      "id": 11,
+      "description": "Despesas de Regularização",
+      "type": "fixed",
+      "value": 1600
+    },
+    {
+      "id": 12,
+      "description": "Estadia",
+      "type": "fixed",
+      "value": 7306
+    },
+    {
+      "id": 17,
+      "description": "Despesas de Remessa",
+      "type": "fixed",
+      "value": 50
+    }
+  ]
+}

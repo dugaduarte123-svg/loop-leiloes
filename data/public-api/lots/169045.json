@@ -1,0 +1,757 @@
+{
+  "id": 169045,
+  "number": 80,
+  "description": "YAMAHA NMAX 160 ABS  2022/2022",
+  "status": "aberto_para_lance",
+  "classification": 5,
+  "isFinancing": true,
+  "closingDate": "2026-09-22 12:05:50",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60109570,
+    "brand": "YAMAHA",
+    "model": "NMAX 160 ABS",
+    "version": null,
+    "category": "motos",
+    "fipePrice": 17322,
+    "webmotorsPrice": 18900,
+    "images": [
+      {
+        "uuid": "01a0677f-2ff4-72a3-99d6-ad046c532a32",
+        "filename": "yamaha-nmax-160-abs-frente-motorista-8d541205.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-frente-motorista-8d541205.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-frente-motorista-8d541205.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-frente-motorista-8d541205.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-frente-motorista-8d541205.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-frente-motorista-8d541205.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente esquerda da moto",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-352a-708e-9dde-fb46c83dd47b",
+        "filename": "yamaha-nmax-160-abs-porta-e-interior-motorista-078b6185.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-porta-e-interior-motorista-078b6185.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-porta-e-interior-motorista-078b6185.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-porta-e-interior-motorista-078b6185.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-porta-e-interior-motorista-078b6185.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-porta-e-interior-motorista-078b6185.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Lateral esquerda da moto",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-39d6-7abb-a8f4-af5722f5dfdf",
+        "filename": "yamaha-nmax-160-abs-painel-km-174d2201.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-painel-km-174d2201.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-painel-km-174d2201.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-painel-km-174d2201.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-painel-km-174d2201.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-painel-km-174d2201.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel da moto",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-3e61-79a5-9fea-c0481c8a31dd",
+        "filename": "yamaha-nmax-160-abs-painel-completo-0a6a0456.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-painel-completo-0a6a0456.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-painel-completo-0a6a0456.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-painel-completo-0a6a0456.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-painel-completo-0a6a0456.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-painel-completo-0a6a0456.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-4363-73d0-8bd9-5487bbf0b03d",
+        "filename": "yamaha-nmax-160-abs-bancos-traseiros-01ef7fa4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-bancos-traseiros-01ef7fa4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-bancos-traseiros-01ef7fa4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-bancos-traseiros-01ef7fa4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-bancos-traseiros-01ef7fa4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-bancos-traseiros-01ef7fa4.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos da moto",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-47d9-748e-a7b1-c642e6c5553c",
+        "filename": "yamaha-nmax-160-abs-traseira-motorista-7e2b51eb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-traseira-motorista-7e2b51eb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-traseira-motorista-7e2b51eb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-traseira-motorista-7e2b51eb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-traseira-motorista-7e2b51eb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-traseira-motorista-7e2b51eb.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira direita",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-4c5a-7836-84e3-79ab903c70fc",
+        "filename": "yamaha-nmax-160-abs-porta-malas-30d89ec3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-porta-malas-30d89ec3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-porta-malas-30d89ec3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-porta-malas-30d89ec3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-porta-malas-30d89ec3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-porta-malas-30d89ec3.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Bau",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-50ae-7ad0-9982-6b342b36bec6",
+        "filename": "yamaha-nmax-160-abs-traseira-passageiro-b46d3471.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-traseira-passageiro-b46d3471.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-traseira-passageiro-b46d3471.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-traseira-passageiro-b46d3471.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-traseira-passageiro-b46d3471.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-traseira-passageiro-b46d3471.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira esquerda",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-5f26-7f54-8d16-f95d89c38efb",
+        "filename": "yamaha-nmax-160-abs-porta-e-interior-passageiro-675629d1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-porta-e-interior-passageiro-675629d1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-porta-e-interior-passageiro-675629d1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-porta-e-interior-passageiro-675629d1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-porta-e-interior-passageiro-675629d1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-porta-e-interior-passageiro-675629d1.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Lateral direita da moto",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-6354-778f-8d92-2513159311f8",
+        "filename": "yamaha-nmax-160-abs-frente-passageiro-3bf8318f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-frente-passageiro-3bf8318f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-frente-passageiro-3bf8318f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-frente-passageiro-3bf8318f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-frente-passageiro-3bf8318f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-frente-passageiro-3bf8318f.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente direita da moto",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-6c64-7716-978d-2660af25fe07",
+        "filename": "yamaha-nmax-160-abs-motor-a6b5de68.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-motor-a6b5de68.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-motor-a6b5de68.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-motor-a6b5de68.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-motor-a6b5de68.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-motor-a6b5de68.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-712f-7c62-be1a-4152c45badbb",
+        "filename": "yamaha-nmax-160-abs-pneu-traseiro-direito-93aa99d5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-pneu-traseiro-direito-93aa99d5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-pneu-traseiro-direito-93aa99d5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-pneu-traseiro-direito-93aa99d5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-pneu-traseiro-direito-93aa99d5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-pneu-traseiro-direito-93aa99d5.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-7690-77b1-abaa-dd8282f85ca6",
+        "filename": "yamaha-nmax-160-abs-rightfronttire-b2394e27.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-rightfronttire-b2394e27.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-rightfronttire-b2394e27.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-rightfronttire-b2394e27.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-rightfronttire-b2394e27.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-rightfronttire-b2394e27.jpg"
+        },
+        "type": "rightFrontTire",
+        "isPublic": true,
+        "description": "Pneu dianteiro",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-7ae2-720f-9bde-4e05b54a6f7d",
+        "filename": "yamaha-nmax-160-abs-damages-1788442674885-e4ywk5-2bcd799c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442674885-e4ywk5-2bcd799c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442674885-e4ywk5-2bcd799c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442674885-e4ywk5-2bcd799c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442674885-e4ywk5-2bcd799c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442674885-e4ywk5-2bcd799c.jpg"
+        },
+        "type": "damages-1788442674885-e4ywk5",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-7f93-78bb-a037-11bc67cd9d29",
+        "filename": "yamaha-nmax-160-abs-damages-1788442680743-6l3y76-064e0064.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442680743-6l3y76-064e0064.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442680743-6l3y76-064e0064.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442680743-6l3y76-064e0064.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442680743-6l3y76-064e0064.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442680743-6l3y76-064e0064.jpg"
+        },
+        "type": "damages-1788442680743-6l3y76",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-844b-7875-8371-412d306a6bb0",
+        "filename": "yamaha-nmax-160-abs-damages-1788442689525-g7l1oz-8f961f2e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442689525-g7l1oz-8f961f2e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442689525-g7l1oz-8f961f2e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442689525-g7l1oz-8f961f2e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442689525-g7l1oz-8f961f2e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442689525-g7l1oz-8f961f2e.jpg"
+        },
+        "type": "damages-1788442689525-g7l1oz",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-88fb-7352-b0e2-5903a2e6b34d",
+        "filename": "yamaha-nmax-160-abs-damages-1788442696404-j29bd0-a3864a0e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442696404-j29bd0-a3864a0e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442696404-j29bd0-a3864a0e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442696404-j29bd0-a3864a0e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442696404-j29bd0-a3864a0e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442696404-j29bd0-a3864a0e.jpg"
+        },
+        "type": "damages-1788442696404-j29bd0",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-8e2a-7d91-9420-4755d5dec7c5",
+        "filename": "yamaha-nmax-160-abs-damages-1788442705301-hb7rf7-08cfeb20.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442705301-hb7rf7-08cfeb20.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442705301-hb7rf7-08cfeb20.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442705301-hb7rf7-08cfeb20.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442705301-hb7rf7-08cfeb20.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442705301-hb7rf7-08cfeb20.jpg"
+        },
+        "type": "damages-1788442705301-hb7rf7",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-9319-75af-ace5-886a90f919af",
+        "filename": "yamaha-nmax-160-abs-damages-1788442715517-ym8go2-acc1a226.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442715517-ym8go2-acc1a226.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442715517-ym8go2-acc1a226.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442715517-ym8go2-acc1a226.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442715517-ym8go2-acc1a226.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442715517-ym8go2-acc1a226.jpg"
+        },
+        "type": "damages-1788442715517-ym8go2",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-97fb-7530-a9d6-7829b33210f2",
+        "filename": "yamaha-nmax-160-abs-damages-1788442720679-qnavqe-c6017769.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-c6017769.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-c6017769.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-c6017769.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-c6017769.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-c6017769.jpg"
+        },
+        "type": "damages-1788442720679-qnavqe",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-d920-7f07-9f13-91e45ca93b69",
+        "filename": "yamaha-nmax-160-abs-damages-1788442720679-qnavqe-7b690c0a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-7b690c0a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-7b690c0a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-7b690c0a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-7b690c0a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442720679-qnavqe-7b690c0a.jpg"
+        },
+        "type": "damages-1788442720679-qnavqe",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-de32-744e-a39f-995617d16a6e",
+        "filename": "yamaha-nmax-160-abs-damages-1788442727856-xjpvx7-406177e2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442727856-xjpvx7-406177e2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442727856-xjpvx7-406177e2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442727856-xjpvx7-406177e2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442727856-xjpvx7-406177e2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442727856-xjpvx7-406177e2.jpg"
+        },
+        "type": "damages-1788442727856-xjpvx7",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-e267-756b-981b-12e07dca076d",
+        "filename": "yamaha-nmax-160-abs-damages-1788442735419-e25bcn-4dc6b624.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442735419-e25bcn-4dc6b624.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442735419-e25bcn-4dc6b624.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442735419-e25bcn-4dc6b624.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442735419-e25bcn-4dc6b624.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442735419-e25bcn-4dc6b624.jpg"
+        },
+        "type": "damages-1788442735419-e25bcn",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-e73e-73eb-a521-4e6713d9af9e",
+        "filename": "yamaha-nmax-160-abs-damages-1788442743489-20tub0-acb53f05.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442743489-20tub0-acb53f05.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442743489-20tub0-acb53f05.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442743489-20tub0-acb53f05.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442743489-20tub0-acb53f05.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442743489-20tub0-acb53f05.jpg"
+        },
+        "type": "damages-1788442743489-20tub0",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-eb5c-7ccf-a89a-4ae5cd63620e",
+        "filename": "yamaha-nmax-160-abs-damages-1788442752105-7ciwf7-b5f0ad5c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442752105-7ciwf7-b5f0ad5c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442752105-7ciwf7-b5f0ad5c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442752105-7ciwf7-b5f0ad5c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442752105-7ciwf7-b5f0ad5c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442752105-7ciwf7-b5f0ad5c.jpg"
+        },
+        "type": "damages-1788442752105-7ciwf7",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-efba-7852-8ad5-f272d37bb2b8",
+        "filename": "yamaha-nmax-160-abs-damages-1788442756880-a4ofy6-f9203b76.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442756880-a4ofy6-f9203b76.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442756880-a4ofy6-f9203b76.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442756880-a4ofy6-f9203b76.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442756880-a4ofy6-f9203b76.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442756880-a4ofy6-f9203b76.jpg"
+        },
+        "type": "damages-1788442756880-a4ofy6",
+        "isPublic": true,
+        "description": "Avarias 12",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-f41e-7e2f-8513-7d73e8a5fa2d",
+        "filename": "yamaha-nmax-160-abs-damages-1788442759896-luosk3-7857da9c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442759896-luosk3-7857da9c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442759896-luosk3-7857da9c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442759896-luosk3-7857da9c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442759896-luosk3-7857da9c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442759896-luosk3-7857da9c.jpg"
+        },
+        "type": "damages-1788442759896-luosk3",
+        "isPublic": true,
+        "description": "Avarias 13",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-f8ce-7962-8ca1-8c9d260ab930",
+        "filename": "yamaha-nmax-160-abs-damages-1788442766493-bnousg-f8bbe273.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442766493-bnousg-f8bbe273.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442766493-bnousg-f8bbe273.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442766493-bnousg-f8bbe273.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442766493-bnousg-f8bbe273.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442766493-bnousg-f8bbe273.jpg"
+        },
+        "type": "damages-1788442766493-bnousg",
+        "isPublic": true,
+        "description": "Avarias 14",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0677f-fcd3-725c-9c61-24a6e05b7bf4",
+        "filename": "yamaha-nmax-160-abs-damages-1788442769899-drvzvg-15331521.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442769899-drvzvg-15331521.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442769899-drvzvg-15331521.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442769899-drvzvg-15331521.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442769899-drvzvg-15331521.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442769899-drvzvg-15331521.jpg"
+        },
+        "type": "damages-1788442769899-drvzvg",
+        "isPublic": true,
+        "description": "Avarias 15",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06780-00fe-7495-b67b-5e63a1d9a8e8",
+        "filename": "yamaha-nmax-160-abs-damages-1788442778569-2w0l44-33714633.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/yamaha-nmax-160-abs-damages-1788442778569-2w0l44-33714633.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/yamaha-nmax-160-abs-damages-1788442778569-2w0l44-33714633.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/yamaha-nmax-160-abs-damages-1788442778569-2w0l44-33714633.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/yamaha-nmax-160-abs-damages-1788442778569-2w0l44-33714633.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/yamaha-nmax-160-abs-damages-1788442778569-2w0l44-33714633.jpg"
+        },
+        "type": "damages-1788442778569-2w0l44",
+        "isPublic": true,
+        "description": "Avarias 16",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": "https://youtu.be/fkzYwH30L8s?is=QfnJq3jsQD74Avxi",
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Gasolina",
+    "yearModel": 2022,
+    "yearManufacture": 2022,
+    "color": "Preta",
+    "mileage": 26543,
+    "licensePlate": "R*****8"
+  },
+  "observation": "VEÍCULO COM LATARIA E PINTURA COM RISCOS E AMASSADOS. VEICULO COM AVARIAS NAS CARENAGENS. POSSUI HISTÓRICO DE ROUBO/FURTO E INDICIO DE SINISTRO. LUIS ANTONIO DE SOUZA ALMEIDA FABIANA DA SILVA PEREIRA PERITO ANALISTA QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Cilindradas",
+      "type": "cautioninspection",
+      "description": "155"
+    },
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Preta"
+    },
+    {
+      "label": "Marchas",
+      "type": "vehicle",
+      "description": "5"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "26543"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Moto"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Apenas traseira"
+    },
+    {
+      "label": "Partida",
+      "type": "inspection",
+      "description": "Partida elétrica"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": "https://youtu.be/fkzYwH30L8s?is=QfnJq3jsQD74Avxi"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO COM LATARIA E PINTURA COM RISCOS E AMASSADOS. VEICULO COM AVARIAS NAS CARENAGENS. POSSUI HISTÓRICO DE ROUBO/FURTO E INDICIO DE SINISTRO. LUIS ANTONIO DE SOUZA ALMEIDA FABIANA DA SILVA PEREIRA PERITO ANALISTA QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, com carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Aprovado com apontamento"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "5"
+    },
+    {
+      "label": "Tipo de moto",
+      "type": "cautioninspection",
+      "description": "Combustão"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Baú",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "VEICULO COM AVARIAS NAS CARENAGENS. POSSUI HISTÓRICO DE ROUBO/FURTO E INDICIO DE SINISTRO. LUIS ANTONIO DE SOUZA ALMEIDA FABIANA DA SILVA PEREIRA PERITO ANALISTA"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Sim"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Penha Circular - Rio De Janeiro - RJ",
+      "url": "https://maps.google.com/?q=RUA+DO+ALHO%2C+1421+-+Rio+De+Janeiro%2C+RJ"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 500
+    }
+  ]
+}

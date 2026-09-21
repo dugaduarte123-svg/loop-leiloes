@@ -1,0 +1,1 @@
+export const READ_THREAD = 'READ_THREAD';

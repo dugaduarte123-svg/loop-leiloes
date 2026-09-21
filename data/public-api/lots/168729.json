@@ -1,0 +1,613 @@
+{
+  "id": 168729,
+  "number": 4,
+  "description": "HONDA CG 125 FAN KS 125 FAN KS 2015/2015",
+  "status": "aberto_para_lance",
+  "classification": 3,
+  "isFinancing": true,
+  "closingDate": "2026-09-21 11:00:45",
+  "auction": {
+    "id": 2757,
+    "description": "EXCLUSIVO EDSON QUEIROZ",
+    "currentLot": null,
+    "commission": 5,
+    "type": "online"
+  },
+  "principal": {
+    "id": 54338,
+    "description": "EDSON QUEIROZ"
+  },
+  "vehicle": {
+    "id": 60097620,
+    "brand": "HONDA",
+    "model": "CG 125 FAN KS",
+    "version": null,
+    "category": "motos",
+    "fipePrice": 9872,
+    "webmotorsPrice": 9245,
+    "images": [
+      {
+        "uuid": "b89e8d2f-2485-4840-9087-01e50f1e04f2",
+        "filename": "honda-cg-125-fan-ks-frente-motorista-d929fb5f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-frente-motorista-d929fb5f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-frente-motorista-d929fb5f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-frente-motorista-d929fb5f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-frente-motorista-d929fb5f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-frente-motorista-d929fb5f.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "fd8b695b-e5a4-4ca1-932a-a6acc5ca12fc",
+        "filename": "honda-cg-125-fan-ks-motor-7694239a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-motor-7694239a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-motor-7694239a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-motor-7694239a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-motor-7694239a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-motor-7694239a.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "a7277894-7863-4d90-8781-ca968f34c9e1",
+        "filename": "honda-cg-125-fan-ks-porta-e-interior-passageiro-602090d1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-porta-e-interior-passageiro-602090d1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-porta-e-interior-passageiro-602090d1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-porta-e-interior-passageiro-602090d1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-porta-e-interior-passageiro-602090d1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-porta-e-interior-passageiro-602090d1.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "481e5b57-ba00-4b59-8235-f0fb97824f32",
+        "filename": "honda-cg-125-fan-ks-frente-passageiro-ced89575.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-frente-passageiro-ced89575.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-frente-passageiro-ced89575.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-frente-passageiro-ced89575.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-frente-passageiro-ced89575.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-frente-passageiro-ced89575.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "496a4351-eb96-4e27-854e-cfbe9ea41032",
+        "filename": "honda-cg-125-fan-ks-painel-km-e4c2838f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-painel-km-e4c2838f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-painel-km-e4c2838f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-painel-km-e4c2838f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-painel-km-e4c2838f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-painel-km-e4c2838f.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "718a5d6e-53e9-4b02-9bb8-e780ddbc4243",
+        "filename": "honda-cg-125-fan-ks-kit-multimidia-87343b26.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-kit-multimidia-87343b26.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-kit-multimidia-87343b26.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-kit-multimidia-87343b26.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-kit-multimidia-87343b26.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-kit-multimidia-87343b26.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "b881d31e-a1c1-47ed-ac61-b51e2a3873b2",
+        "filename": "honda-cg-125-fan-ks-painel-completo-a61c5341.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-painel-completo-a61c5341.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-painel-completo-a61c5341.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-painel-completo-a61c5341.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-painel-completo-a61c5341.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-painel-completo-a61c5341.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "b5a3f30a-37a8-42f5-ac1e-2b2baaca6d6b",
+        "filename": "honda-cg-125-fan-ks-bancos-traseiros-a066da86.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-bancos-traseiros-a066da86.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-bancos-traseiros-a066da86.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-bancos-traseiros-a066da86.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-bancos-traseiros-a066da86.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-bancos-traseiros-a066da86.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "c2730ab6-e6f7-464e-a05b-f3643bb2e8fb",
+        "filename": "honda-cg-125-fan-ks-porta-e-interior-motorista-94c1c7b8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-porta-e-interior-motorista-94c1c7b8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-porta-e-interior-motorista-94c1c7b8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-porta-e-interior-motorista-94c1c7b8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-porta-e-interior-motorista-94c1c7b8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-porta-e-interior-motorista-94c1c7b8.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "189a0c61-320f-4570-ba1f-c20428423aba",
+        "filename": "honda-cg-125-fan-ks-porta-malas-590fb497.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-porta-malas-590fb497.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-porta-malas-590fb497.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-porta-malas-590fb497.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-porta-malas-590fb497.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-porta-malas-590fb497.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "14a7fb72-fae2-49f3-a3fe-35fb16feecab",
+        "filename": "honda-cg-125-fan-ks-traseira-motorista-291579c0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-traseira-motorista-291579c0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-traseira-motorista-291579c0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-traseira-motorista-291579c0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-traseira-motorista-291579c0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-traseira-motorista-291579c0.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "62ff25d8-f12c-4e63-bc00-ca588c64ed82",
+        "filename": "honda-cg-125-fan-ks-estepe-922b970f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-estepe-922b970f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-estepe-922b970f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-estepe-922b970f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-estepe-922b970f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-estepe-922b970f.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "e6efa6fa-fd38-4e01-8fb3-620720516fca",
+        "filename": "honda-cg-125-fan-ks-traseira-passageiro-e5d34f91.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-traseira-passageiro-e5d34f91.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-traseira-passageiro-e5d34f91.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-traseira-passageiro-e5d34f91.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-traseira-passageiro-e5d34f91.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-traseira-passageiro-e5d34f91.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "66770924-7781-43c2-8335-90d03047741c",
+        "filename": "honda-cg-125-fan-ks-pneu-dianteiro-dir-46c12783.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-pneu-dianteiro-dir-46c12783.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-pneu-dianteiro-dir-46c12783.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-pneu-dianteiro-dir-46c12783.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-pneu-dianteiro-dir-46c12783.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-pneu-dianteiro-dir-46c12783.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro",
+        "category": "tires",
+        "properties": {
+          "condition": "Faltando"
+        }
+      },
+      {
+        "uuid": "44f69efd-8612-4592-b584-d30181aa8637",
+        "filename": "honda-cg-125-fan-ks-pneu-dianteiro-esq-4eb8616b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-pneu-dianteiro-esq-4eb8616b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-pneu-dianteiro-esq-4eb8616b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-pneu-dianteiro-esq-4eb8616b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-pneu-dianteiro-esq-4eb8616b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-pneu-dianteiro-esq-4eb8616b.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro",
+        "category": "tires",
+        "properties": {
+          "condition": "Ruim: 1,7 até 3mm"
+        }
+      },
+      {
+        "uuid": "4bcd9433-46c7-4747-a393-5249f1dced09",
+        "filename": "honda-cg-125-fan-ks-pneu-traseiro-esq-fb56e015.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-pneu-traseiro-esq-fb56e015.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-pneu-traseiro-esq-fb56e015.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-pneu-traseiro-esq-fb56e015.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-pneu-traseiro-esq-fb56e015.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-pneu-traseiro-esq-fb56e015.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro",
+        "category": "tires",
+        "properties": {
+          "condition": "Regular: 3 até 6mm"
+        }
+      },
+      {
+        "uuid": "c8a2795d-20a1-443f-b361-b665ee4a8bdf",
+        "filename": "honda-cg-125-fan-ks-pneu-traseiro-dir-93690504.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/honda-cg-125-fan-ks-pneu-traseiro-dir-93690504.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/honda-cg-125-fan-ks-pneu-traseiro-dir-93690504.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/honda-cg-125-fan-ks-pneu-traseiro-dir-93690504.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/honda-cg-125-fan-ks-pneu-traseiro-dir-93690504.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/honda-cg-125-fan-ks-pneu-traseiro-dir-93690504.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro",
+        "category": "tires",
+        "properties": {
+          "condition": "Faltando"
+        }
+      },
+      {
+        "uuid": "f3527e78-7608-48d5-b0b5-1036e456eecc",
+        "filename": "avaria-01-e4dfe796.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-01-e4dfe796.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-01-e4dfe796.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-01-e4dfe796.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-01-e4dfe796.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-01-e4dfe796.jpg"
+        },
+        "type": "avaria",
+        "isPublic": true,
+        "description": " - ",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "c9974171-db9e-40f7-b8a3-1ceb967b574a",
+        "filename": "avaria-02-4cac7f9c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-02-4cac7f9c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-02-4cac7f9c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-02-4cac7f9c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-02-4cac7f9c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-02-4cac7f9c.jpg"
+        },
+        "type": "avaria",
+        "isPublic": true,
+        "description": " - ",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "74be6c40-0c18-439e-b7d9-ff07e8f9b116",
+        "filename": "avaria-04-d52f5f2d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-04-d52f5f2d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-04-d52f5f2d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-04-d52f5f2d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-04-d52f5f2d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-04-d52f5f2d.jpg"
+        },
+        "type": "avaria",
+        "isPublic": true,
+        "description": " - ",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "32fa3659-4a11-497c-a1d6-15b2bba6dd56",
+        "filename": "avaria-03-58f9a90f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-03-58f9a90f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-03-58f9a90f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-03-58f9a90f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-03-58f9a90f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-03-58f9a90f.jpg"
+        },
+        "type": "avaria",
+        "isPublic": true,
+        "description": " - ",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "4b8ab7b7-0f35-4728-b1e4-38826529a467",
+        "filename": "avaria-06-5011334a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-06-5011334a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-06-5011334a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-06-5011334a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-06-5011334a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-06-5011334a.jpg"
+        },
+        "type": "avaria",
+        "isPublic": true,
+        "description": " - ",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "10d55a71-1199-43d4-8f6c-1b4fbc21d201",
+        "filename": "avaria-05-e4667670.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-05-e4667670.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-05-e4667670.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-05-e4667670.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-05-e4667670.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-05-e4667670.jpg"
+        },
+        "type": "avaria",
+        "isPublic": true,
+        "description": " - ",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "6e87c9a3-5510-4170-8718-b71b47ddf4e9",
+        "filename": "avaria-08-9385f338.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-08-9385f338.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-08-9385f338.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-08-9385f338.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-08-9385f338.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-08-9385f338.jpg"
+        },
+        "type": "avaria",
+        "isPublic": true,
+        "description": " - ",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": false
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Gasolina",
+    "yearModel": 2015,
+    "yearManufacture": 2015,
+    "color": "Preta",
+    "mileage": 1,
+    "licensePlate": "O*****2"
+  },
+  "observation": "VEÍCULO NÃO FUNCIONA.  PAINEL QUEBRADO/SEM VISUALIZAÇÃO DE KM. SEM OS RETROVISORES.  PARALAMA DIANTEIRO QUEBRADO.  PINTURA COM RISCOS, COR DO VEICULO DIVERGENTE DA BASE (BIN), BASE CONSTA COR PRETA NO MOMENTO DA CONSULTA, KM NÃO VISÍVEL, CASO NECESSÁRIO REGULARIZAÇÃO DE ECV SERÁ TOTAL RESPONSABILIDADE DO ARREMATANTE, QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO ARREMATANTE.**",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Sem chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Preta"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "1"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Moto"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Apenas traseira"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de ferro"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO NÃO FUNCIONA.  PAINEL QUEBRADO/SEM VISUALIZAÇÃO DE KM. SEM OS RETROVISORES.  PARALAMA DIANTEIRO QUEBRADO.  PINTURA COM RISCOS, COR DO VEICULO DIVERGENTE DA BASE (BIN), BASE CONSTA COR PRETA NO MOMENTO DA CONSULTA, KM NÃO VISÍVEL, CASO NECESSÁRIO REGULARIZAÇÃO DE ECV SERÁ TOTAL RESPONSABILIDADE DO ARREMATANTE, QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO ARREMATANTE.**"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Aprovado"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "3"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "COR DO VEICULO DIVERGENTE DA BASE (BIN), BASE CONSTA COR PRETA NO MOMENTO DA CONSULTA, KM NÃO VISÍVEL, CASO NECESSÁRIO REGULARIZAÇÃO DE ECV SERÁ TOTAL RESPONSABILIDADE DO ARREMATANTE"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    }
+  ],
+  "importantInfo": {
+    "seller": "EDSON QUEIROZ",
+    "additionalCharge": 1985,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "21/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Vila Brás Cubas - Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    }
+  },
+  "terms": {
+    "id": 3078
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 500
+    },
+    {
+      "id": 8,
+      "description": "Transporte Comitente",
+      "type": "fixed",
+      "value": 750
+    },
+    {
+      "id": 9,
+      "description": "Inspeção",
+      "type": "fixed",
+      "value": 190
+    },
+    {
+      "id": 12,
+      "description": "Estadia",
+      "type": "fixed",
+      "value": 995
+    },
+    {
+      "id": 17,
+      "description": "Despesas de Remessa",
+      "type": "fixed",
+      "value": 50
+    }
+  ]
+}

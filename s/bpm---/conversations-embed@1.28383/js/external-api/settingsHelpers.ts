@@ -1,0 +1,13 @@
+import { getExternalApiSettings } from './getExternalApiSettings';
+export const shouldLoadImmediately = () => !!getExternalApiSettings().loadImmediately;
+export const shouldBeFullscreen = () => !!getExternalApiSettings().isFullscreen;
+export const getInlineEmbedSelector = () => getExternalApiSettings().inlineEmbedSelector;
+export const shouldEmbedInline = () => !!getExternalApiSettings().inlineEmbedSelector;
+export const shouldDisableAttachment = () => !!getExternalApiSettings().disableAttachment;
+export const shouldDisableInitialInputFocus = () => !!getExternalApiSettings().disableInitialInputFocus;
+export const getEnableWidgetCookieBanner = () => getExternalApiSettings().enableWidgetCookieBanner;
+export const getIdentificationEmail = () => getExternalApiSettings().identificationEmail;
+export const getIdentificationToken = () => getExternalApiSettings().identificationToken;
+export const shouldHideScrollToButton = () => getExternalApiSettings().hideScrollToButton;
+export const shouldHideNewThreadLink = () => getExternalApiSettings().hideNewThreadLink;
+export const isEmailCapturedEventEnabled = () => !!getExternalApiSettings().enableEmailCapturedEvent;

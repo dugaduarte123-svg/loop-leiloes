@@ -1,0 +1,929 @@
+{
+  "id": 169201,
+  "number": 145,
+  "description": "RENAULT KWID ZEN 1.0 12V SCE FLEX ZEN MANUAL 2019/2020",
+  "status": "aberto_para_lance",
+  "classification": 6,
+  "isFinancing": true,
+  "closingDate": "2026-09-22 13:00:00",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60104024,
+    "brand": "RENAULT",
+    "model": "KWID ZEN",
+    "version": "1.0 12V SCE FLEX ZEN MANUAL",
+    "category": "carros",
+    "fipePrice": 38017,
+    "webmotorsPrice": 42999,
+    "images": [
+      {
+        "uuid": "019fb449-75b1-72e2-afe3-66cc329e3588",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-frente-motorista-0a4c4e1a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-motorista-0a4c4e1a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-motorista-0a4c4e1a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-motorista-0a4c4e1a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-motorista-0a4c4e1a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-motorista-0a4c4e1a.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-2958-72fe-8bde-33f8bf5ceb09",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-motor-deed6a03.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-motor-deed6a03.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-motor-deed6a03.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-motor-deed6a03.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-motor-deed6a03.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-motor-deed6a03.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-305b-7031-9cbf-b90661447cbb",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-motorista-4278b209.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-motorista-4278b209.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-motorista-4278b209.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-motorista-4278b209.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-motorista-4278b209.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-motorista-4278b209.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-35da-729d-b01a-fad0a4995316",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-painel-km-1c2b6a58.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-km-1c2b6a58.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-km-1c2b6a58.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-km-1c2b6a58.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-km-1c2b6a58.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-km-1c2b6a58.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-3c0b-73d9-bbf6-8aa435969d9b",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-kit-multimidia-3c610288.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-kit-multimidia-3c610288.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-kit-multimidia-3c610288.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-kit-multimidia-3c610288.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-kit-multimidia-3c610288.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-kit-multimidia-3c610288.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-4181-73a5-801b-106f48563491",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-painel-completo-3a916cc1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-completo-3a916cc1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-completo-3a916cc1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-completo-3a916cc1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-completo-3a916cc1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-painel-completo-3a916cc1.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-4794-7f77-a623-bda5cda9736d",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-bancos-traseiros-cc9f5b25.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-bancos-traseiros-cc9f5b25.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-bancos-traseiros-cc9f5b25.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-bancos-traseiros-cc9f5b25.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-bancos-traseiros-cc9f5b25.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-bancos-traseiros-cc9f5b25.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-4d4c-772d-bcab-8ba8dd3a0c4a",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-porta-malas-1b05d36f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-malas-1b05d36f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-malas-1b05d36f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-malas-1b05d36f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-malas-1b05d36f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-malas-1b05d36f.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-538b-72c0-ac27-46fc9abb9549",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-estepe-51457936.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-estepe-51457936.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-estepe-51457936.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-estepe-51457936.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-estepe-51457936.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-estepe-51457936.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-5a81-799b-8f9d-b0629cbe7292",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-motorista-c29f0791.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-motorista-c29f0791.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-motorista-c29f0791.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-motorista-c29f0791.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-motorista-c29f0791.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-motorista-c29f0791.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-6e39-7bba-bb41-1a8164968c57",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-passageiro-1aa09840.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-passageiro-1aa09840.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-passageiro-1aa09840.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-passageiro-1aa09840.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-passageiro-1aa09840.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-traseira-passageiro-1aa09840.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-7c55-7c78-9c11-2a6c9be59539",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-passageiro-578d937e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-passageiro-578d937e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-passageiro-578d937e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-passageiro-578d937e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-passageiro-578d937e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-e-interior-passageiro-578d937e.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-8388-7de3-a508-9417500dfcac",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-frente-passageiro-6d6ae9c6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-passageiro-6d6ae9c6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-passageiro-6d6ae9c6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-passageiro-6d6ae9c6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-passageiro-6d6ae9c6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-frente-passageiro-6d6ae9c6.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-8e92-7e73-9194-df98d8a22fda",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-capo-59bf382f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-capo-59bf382f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-capo-59bf382f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-capo-59bf382f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-capo-59bf382f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-capo-59bf382f.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-943d-7d87-b44b-1681a7704090",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-esquerdo-02d7ff74.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-esquerdo-02d7ff74.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-esquerdo-02d7ff74.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-esquerdo-02d7ff74.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-esquerdo-02d7ff74.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-esquerdo-02d7ff74.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-9955-777c-a007-9afd3418bd63",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-esquerda-48d353b5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-esquerda-48d353b5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-esquerda-48d353b5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-esquerda-48d353b5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-esquerda-48d353b5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-esquerda-48d353b5.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-9e37-7943-9223-3915ed13ed84",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-esquerda-0696d659.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-esquerda-0696d659.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-esquerda-0696d659.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-esquerda-0696d659.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-esquerda-0696d659.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-esquerda-0696d659.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-a3fa-78c8-b309-328cd7f01cc3",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-esquerda-8d2b1c90.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-esquerda-8d2b1c90.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-esquerda-8d2b1c90.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-esquerda-8d2b1c90.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-esquerda-8d2b1c90.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-esquerda-8d2b1c90.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-a99f-76fc-8b74-aad45be3ce98",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-tampa-do-porta-malas-a6f69239.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-tampa-do-porta-malas-a6f69239.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-tampa-do-porta-malas-a6f69239.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-tampa-do-porta-malas-a6f69239.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-tampa-do-porta-malas-a6f69239.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-tampa-do-porta-malas-a6f69239.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-af16-7231-a17a-03de0d2bdc42",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-direita-15449624.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-direita-15449624.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-direita-15449624.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-direita-15449624.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-direita-15449624.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-lateral-traseira-direita-15449624.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-b3fa-7b08-b47f-f9fe859964bb",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-direita-f434d076.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-direita-f434d076.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-direita-f434d076.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-direita-f434d076.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-direita-f434d076.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-traseira-direita-f434d076.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-b8bb-7d50-9bb8-0bb6b5342146",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-direita-04675007.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-direita-04675007.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-direita-04675007.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-direita-04675007.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-direita-04675007.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-porta-dianteira-direita-04675007.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-be46-73d4-bac6-270a29304fc3",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-direito-94fa4b40.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-direito-94fa4b40.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-direito-94fa4b40.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-direito-94fa4b40.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-direito-94fa4b40.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-paralama-dianteiro-direito-94fa4b40.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-c3a8-7e67-ad34-ee8c60360579",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-teto-frente-110f36c7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-frente-110f36c7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-frente-110f36c7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-frente-110f36c7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-frente-110f36c7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-frente-110f36c7.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-c8a7-71a7-ab9f-5bd6f0dc0eb8",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-teto-traseira-b18097a7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-traseira-b18097a7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-traseira-b18097a7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-traseira-b18097a7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-traseira-b18097a7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-teto-traseira-b18097a7.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-ceb3-7b95-bb25-55cd662a9ba8",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-direito-5a17fa8e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-direito-5a17fa8e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-direito-5a17fa8e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-direito-5a17fa8e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-direito-5a17fa8e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-direito-5a17fa8e.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-d523-7e59-933a-edaf76e1520c",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-direito-e14565a0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-direito-e14565a0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-direito-e14565a0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-direito-e14565a0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-direito-e14565a0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-direito-e14565a0.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-db55-7e6a-91b5-5f1d985eaa68",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-esquerdo-b5676723.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-esquerdo-b5676723.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-esquerdo-b5676723.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-esquerdo-b5676723.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-esquerdo-b5676723.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-traseiro-esquerdo-b5676723.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-e0cf-7e8a-8808-3474dbb19281",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-esquerdo-2b921146.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-esquerdo-2b921146.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-esquerdo-2b921146.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-esquerdo-2b921146.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-esquerdo-2b921146.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-pneu-dianteiro-esquerdo-2b921146.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-e5d5-7891-86fe-cb297d6e59f6",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436031215-9j4qsk-07547b0c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436031215-9j4qsk-07547b0c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436031215-9j4qsk-07547b0c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436031215-9j4qsk-07547b0c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436031215-9j4qsk-07547b0c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436031215-9j4qsk-07547b0c.jpg"
+        },
+        "type": "damages-1785436031215-9j4qsk",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-eb17-7266-96f0-19bec0e7680d",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436039994-9tmwzg-6994b5d4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436039994-9tmwzg-6994b5d4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436039994-9tmwzg-6994b5d4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436039994-9tmwzg-6994b5d4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436039994-9tmwzg-6994b5d4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436039994-9tmwzg-6994b5d4.jpg"
+        },
+        "type": "damages-1785436039994-9tmwzg",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-f087-76bf-b8aa-b45e8a04b77d",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436054328-bs21b9-e19472e9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436054328-bs21b9-e19472e9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436054328-bs21b9-e19472e9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436054328-bs21b9-e19472e9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436054328-bs21b9-e19472e9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436054328-bs21b9-e19472e9.jpg"
+        },
+        "type": "damages-1785436054328-bs21b9",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-f674-7e7f-86eb-1011873d918f",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436070457-pwvx1e-1387a4f5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436070457-pwvx1e-1387a4f5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436070457-pwvx1e-1387a4f5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436070457-pwvx1e-1387a4f5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436070457-pwvx1e-1387a4f5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436070457-pwvx1e-1387a4f5.jpg"
+        },
+        "type": "damages-1785436070457-pwvx1e",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fb449-fb61-7232-af80-b073ce0ffcaf",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436079119-1079ss-8145b8cb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436079119-1079ss-8145b8cb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436079119-1079ss-8145b8cb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436079119-1079ss-8145b8cb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436079119-1079ss-8145b8cb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436079119-1079ss-8145b8cb.jpg"
+        },
+        "type": "damages-1785436079119-1079ss",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fb44a-009f-71bc-a402-4236f8aab043",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436085216-u36xpz-eed3f3a1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436085216-u36xpz-eed3f3a1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436085216-u36xpz-eed3f3a1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436085216-u36xpz-eed3f3a1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436085216-u36xpz-eed3f3a1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436085216-u36xpz-eed3f3a1.jpg"
+        },
+        "type": "damages-1785436085216-u36xpz",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fb44a-0650-717f-a1c3-384e5d724ddb",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436098121-ubedpg-43963e54.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436098121-ubedpg-43963e54.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436098121-ubedpg-43963e54.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436098121-ubedpg-43963e54.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436098121-ubedpg-43963e54.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436098121-ubedpg-43963e54.jpg"
+        },
+        "type": "damages-1785436098121-ubedpg",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fb44a-0c6f-784b-b826-60f8d4ff729a",
+        "filename": "renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436104509-tjdzt0-87dcc854.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436104509-tjdzt0-87dcc854.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436104509-tjdzt0-87dcc854.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436104509-tjdzt0-87dcc854.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436104509-tjdzt0-87dcc854.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/renault-kwid-1-0-12v-sce-flex-zen-manual-damages-1785436104509-tjdzt0-87dcc854.jpg"
+        },
+        "type": "damages-1785436104509-tjdzt0",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2020,
+    "yearManufacture": 2019,
+    "color": "Branca",
+    "mileage": null,
+    "licensePlate": "Q*****4"
+  },
+  "observation": "MOTOR DESMONTADO \nNÃO POSSUI ESTEPE \nPNEUS FURADOS\nNAO POSSUI BATERIA\nTAMPA PORTA LUVAS QUEBRADA\nDIVERSOS ARRANHADOS E AMASSADOS  VEÍCULO COM CÂMBIO OBSTRUÍDO/SEM ACESSO. TAMPA PORTA-MALAS COM REPAROS DE FUNILARIA E PINTURA. TAMPA PORTA LUVAS AUSENTE. VEICULO COM A BATERIA DESCARREGADA MESMO COM A AJUDA DO CABO AUXILIAR, IMPOSSIBILITANDO COLETAR KM QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Sem chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Ausente/Faltando peças"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Ruim"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de ferro"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "MOTOR DESMONTADO \nNÃO POSSUI ESTEPE \nPNEUS FURADOS\nNAO POSSUI BATERIA\nTAMPA PORTA LUVAS QUEBRADA\nDIVERSOS ARRANHADOS E AMASSADOS  VEÍCULO COM CÂMBIO OBSTRUÍDO/SEM ACESSO. TAMPA PORTA-MALAS COM REPAROS DE FUNILARIA E PINTURA. TAMPA PORTA LUVAS AUSENTE. VEICULO COM A BATERIA DESCARREGADA MESMO COM A AJUDA DO CABO AUXILIAR, IMPOSSIBILITANDO COLETAR KM QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Elétrica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Veículo sem bateria"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Aprovado com apontamento"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "6"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "VEÍCULO COM CÂMBIO OBSTRUÍDO/SEM ACESSO. TAMPA PORTA-MALAS COM REPAROS DE FUNILARIA E PINTURA. TAMPA PORTA LUVAS AUSENTE. VEICULO COM A BATERIA DESCARREGADA MESMO COM A AJUDA DO CABO AUXILIAR, IMPOSSIBILITANDO COLETAR KM"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não avaliado"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Anchieta - Porto Alegre - RS",
+      "url": "https://maps.google.com/?q=Rua+Giusepe+Mandeli%2C+265+-+Porto+Alegre%2C+RS"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

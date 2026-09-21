@@ -1,0 +1,671 @@
+{
+  "id": 168590,
+  "number": 12,
+  "description": "FIAT UNO VIVACE 1.0 2014/2014",
+  "status": "aberto_para_lance",
+  "classification": 1,
+  "isFinancing": false,
+  "closingDate": "2026-09-25 11:02:45",
+  "auction": {
+    "id": 2746,
+    "description": "EXCLUSIVO SUCATA",
+    "currentLot": null,
+    "commission": 5,
+    "type": "online"
+  },
+  "principal": {
+    "id": 53979,
+    "description": "ALGAR MULTIMíDIA S.A."
+  },
+  "vehicle": {
+    "id": 60072759,
+    "brand": "FIAT",
+    "model": "UNO",
+    "version": "1.0 EVO VIVACE 8V FLEX 2P MANUAL",
+    "category": "carros",
+    "fipePrice": 26172,
+    "webmotorsPrice": 26700,
+    "images": [
+      {
+        "uuid": "3cf80bf2-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-frente-motorista-8dada879.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-frente-motorista-8dada879.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-frente-motorista-8dada879.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-frente-motorista-8dada879.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-frente-motorista-8dada879.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-frente-motorista-8dada879.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b29-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-estepe-32ebcefb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-estepe-32ebcefb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-estepe-32ebcefb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-estepe-32ebcefb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-estepe-32ebcefb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-estepe-32ebcefb.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b37-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-porta-malas-30d33b8e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-porta-malas-30d33b8e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-porta-malas-30d33b8e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-porta-malas-30d33b8e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-porta-malas-30d33b8e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-porta-malas-30d33b8e.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b45-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-porta-e-interior-passageiro-033384c2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-porta-e-interior-passageiro-033384c2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-porta-e-interior-passageiro-033384c2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-porta-e-interior-passageiro-033384c2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-porta-e-interior-passageiro-033384c2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-porta-e-interior-passageiro-033384c2.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b53-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-pneu-dianteiro-dir-7a06dbc7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-pneu-dianteiro-dir-7a06dbc7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-pneu-dianteiro-dir-7a06dbc7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-pneu-dianteiro-dir-7a06dbc7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-pneu-dianteiro-dir-7a06dbc7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-pneu-dianteiro-dir-7a06dbc7.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b61-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-pneu-traseiro-dir-2f48e4a5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-pneu-traseiro-dir-2f48e4a5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-pneu-traseiro-dir-2f48e4a5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-pneu-traseiro-dir-2f48e4a5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-pneu-traseiro-dir-2f48e4a5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-pneu-traseiro-dir-2f48e4a5.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b6e-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-pneu-traseiro-esq-0340321f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-pneu-traseiro-esq-0340321f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-pneu-traseiro-esq-0340321f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-pneu-traseiro-esq-0340321f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-pneu-traseiro-esq-0340321f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-pneu-traseiro-esq-0340321f.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b7c-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-pneu-dianteiro-esq-06a7711e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-pneu-dianteiro-esq-06a7711e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-pneu-dianteiro-esq-06a7711e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-pneu-dianteiro-esq-06a7711e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-pneu-dianteiro-esq-06a7711e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-pneu-dianteiro-esq-06a7711e.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b8b-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-painel-completo-80b5a311.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-painel-completo-80b5a311.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-painel-completo-80b5a311.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-painel-completo-80b5a311.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-painel-completo-80b5a311.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-painel-completo-80b5a311.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80b9a-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-bancos-traseiros-b138bf8c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-bancos-traseiros-b138bf8c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-bancos-traseiros-b138bf8c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-bancos-traseiros-b138bf8c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-bancos-traseiros-b138bf8c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-bancos-traseiros-b138bf8c.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80ba9-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-kit-multimidia-1bfa3c88.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-kit-multimidia-1bfa3c88.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-kit-multimidia-1bfa3c88.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-kit-multimidia-1bfa3c88.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-kit-multimidia-1bfa3c88.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-kit-multimidia-1bfa3c88.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80bb7-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-porta-e-interior-motorista-bdf061c0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-porta-e-interior-motorista-bdf061c0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-porta-e-interior-motorista-bdf061c0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-porta-e-interior-motorista-bdf061c0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-porta-e-interior-motorista-bdf061c0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-porta-e-interior-motorista-bdf061c0.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80bc6-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-traseira-motorista-c9cc42f9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-traseira-motorista-c9cc42f9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-traseira-motorista-c9cc42f9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-traseira-motorista-c9cc42f9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-traseira-motorista-c9cc42f9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-traseira-motorista-c9cc42f9.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80bd4-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-traseira-passageiro-2a4f98f8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-traseira-passageiro-2a4f98f8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-traseira-passageiro-2a4f98f8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-traseira-passageiro-2a4f98f8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-traseira-passageiro-2a4f98f8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-traseira-passageiro-2a4f98f8.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80be3-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-frente-passageiro-74b504d9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-frente-passageiro-74b504d9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-frente-passageiro-74b504d9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-frente-passageiro-74b504d9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-frente-passageiro-74b504d9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-frente-passageiro-74b504d9.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80c00-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-motor-7b349c91.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-motor-7b349c91.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-motor-7b349c91.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-motor-7b349c91.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-motor-7b349c91.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-motor-7b349c91.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80c0f-64cb-11f1-89bd-020017068daf",
+        "filename": "fiat-uno-vivace-1-0-painel-km-bede6d2f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/fiat-uno-vivace-1-0-painel-km-bede6d2f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/fiat-uno-vivace-1-0-painel-km-bede6d2f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/fiat-uno-vivace-1-0-painel-km-bede6d2f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/fiat-uno-vivace-1-0-painel-km-bede6d2f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/fiat-uno-vivace-1-0-painel-km-bede6d2f.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80ab8-64cb-11f1-89bd-020017068daf",
+        "filename": "avaria-05-aa513d82.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-05-aa513d82.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-05-aa513d82.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-05-aa513d82.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-05-aa513d82.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-05-aa513d82.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80ac7-64cb-11f1-89bd-020017068daf",
+        "filename": "avaria-04-303bfa38.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-04-303bfa38.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-04-303bfa38.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-04-303bfa38.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-04-303bfa38.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-04-303bfa38.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80ad5-64cb-11f1-89bd-020017068daf",
+        "filename": "avaria-03-37a455d1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-03-37a455d1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-03-37a455d1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-03-37a455d1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-03-37a455d1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-03-37a455d1.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80ae4-64cb-11f1-89bd-020017068daf",
+        "filename": "avaria-02-b4bb9ce9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-02-b4bb9ce9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-02-b4bb9ce9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-02-b4bb9ce9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-02-b4bb9ce9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-02-b4bb9ce9.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "3cf80af1-64cb-11f1-89bd-020017068daf",
+        "filename": "avaria-01-6f47ab4d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-01-6f47ab4d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-01-6f47ab4d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-01-6f47ab4d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-01-6f47ab4d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-01-6f47ab4d.jpg"
+        },
+        "type": "undefined",
+        "isPublic": true,
+        "description": "FIAT",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": "",
+    "ipvaPaid": false
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2014,
+    "yearManufacture": 2014,
+    "color": "Branca",
+    "mileage": 114254,
+    "licensePlate": "O*****4"
+  },
+  "observation": "VEÍCULO SUCATA, SEM DIREITO A DOCUMENTAÇÃO, A SUCATA É VENDIDA NO ESTADO EM QUE SE ENCONTRA.**",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Sem chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "2"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "114254"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Ruim"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": ""
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de ferro"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO SUCATA, SEM DIREITO A DOCUMENTAÇÃO, A SUCATA É VENDIDA NO ESTADO EM QUE SE ENCONTRA.**"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Mecânica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "1"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    }
+  ],
+  "importantInfo": {
+    "seller": "ALGAR MULTIMíDIA S.A.",
+    "additionalCharge": 15443.1,
+    "withdrawal": "15 dias úteis",
+    "withdrawalType": "Após o Repasse para o comitente",
+    "transferServiceType": "Com exigencia Comunicado de Venda (Loop)",
+    "expeditor": "Outros",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "25/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Rodovia - Uberlândia - MG",
+      "url": "https://maps.google.com/?q=RODOVIA+BR+365+KM+610+A+%28ANEL+VIARIO+KM+17%2C5%29%2C+S%2FN%C2%BA+-+Uberl%C3%A2ndia%2C+MG"
+    }
+  },
+  "terms": {
+    "id": null
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    },
+    {
+      "id": 12,
+      "description": "Estadia",
+      "type": "fixed",
+      "value": 15393.1
+    },
+    {
+      "id": 17,
+      "description": "Despesas de Remessa",
+      "type": "fixed",
+      "value": 50
+    }
+  ]
+}

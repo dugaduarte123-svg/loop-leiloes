@@ -1,0 +1,930 @@
+{
+  "id": 81494,
+  "brand": "HYUNDAI",
+  "model": "HB20",
+  "version": "1.6 PREMIUM 16V FLEX 4P AUTOMÁTICO",
+  "type": "carros",
+  "classification": 6,
+  "images": [
+    {
+      "uuid": "0c4967f5-3839-4e05-8fb7-23cb04c28e36",
+      "filename": "frente-motorista-301b9e5f.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/frente-motorista-301b9e5f.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/frente-motorista-301b9e5f.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/frente-motorista-301b9e5f.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/frente-motorista-301b9e5f.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/frente-motorista-301b9e5f.jpg"
+      },
+      "type": "frente-motorista",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "f077e1b1-323e-40cc-83e8-6d01588596f7",
+      "filename": "porta-malas-394d7767.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/porta-malas-394d7767.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/porta-malas-394d7767.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/porta-malas-394d7767.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/porta-malas-394d7767.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/porta-malas-394d7767.jpg"
+      },
+      "type": "porta-malas",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "582d14f3-39fd-49c3-98ed-2f3facb684bd",
+      "filename": "estepe-4f182176.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/estepe-4f182176.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/estepe-4f182176.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/estepe-4f182176.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/estepe-4f182176.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/estepe-4f182176.jpg"
+      },
+      "type": "estepe",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "602951ec-e095-4594-bb2a-b63fa7771bf4",
+      "filename": "motor-68099b34.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/motor-68099b34.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/motor-68099b34.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/motor-68099b34.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/motor-68099b34.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/motor-68099b34.jpg"
+      },
+      "type": "motor",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "d5627853-aef8-4568-b7f4-c1885cd3903f",
+      "filename": "frente-passageiro-9dffcad4.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/frente-passageiro-9dffcad4.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/frente-passageiro-9dffcad4.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/frente-passageiro-9dffcad4.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/frente-passageiro-9dffcad4.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/frente-passageiro-9dffcad4.jpg"
+      },
+      "type": "frente-passageiro",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "c9b98f3e-5e5a-422d-b5bc-ce0b695f3ded",
+      "filename": "porta-e-interior-passageiro-8b62ae69.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/porta-e-interior-passageiro-8b62ae69.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/porta-e-interior-passageiro-8b62ae69.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/porta-e-interior-passageiro-8b62ae69.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/porta-e-interior-passageiro-8b62ae69.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/porta-e-interior-passageiro-8b62ae69.jpg"
+      },
+      "type": "porta-e-interior-passageiro",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "fb53c5fc-5276-4cec-9d40-f74b7bd6909a",
+      "filename": "porta-e-interior-passageiro-8c2efb9d.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/porta-e-interior-passageiro-8c2efb9d.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/porta-e-interior-passageiro-8c2efb9d.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/porta-e-interior-passageiro-8c2efb9d.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/porta-e-interior-passageiro-8c2efb9d.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/porta-e-interior-passageiro-8c2efb9d.jpg"
+      },
+      "type": "porta-e-interior-passageiro",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "b9801879-9066-4750-9ce3-36f5c4189913",
+      "filename": "porta-e-interior-motorista-a015e3f0.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/porta-e-interior-motorista-a015e3f0.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/porta-e-interior-motorista-a015e3f0.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/porta-e-interior-motorista-a015e3f0.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/porta-e-interior-motorista-a015e3f0.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/porta-e-interior-motorista-a015e3f0.jpg"
+      },
+      "type": "porta-e-interior-motorista",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "e45a679e-bafe-4cc8-b8dc-774b6cc98e24",
+      "filename": "painel-completo-a1cd56f4.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/painel-completo-a1cd56f4.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/painel-completo-a1cd56f4.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/painel-completo-a1cd56f4.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/painel-completo-a1cd56f4.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/painel-completo-a1cd56f4.jpg"
+      },
+      "type": "painel-completo",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "b6f62efd-db7c-4d50-bb6b-fa8e15410103",
+      "filename": "bancos-traseiros-31ca3dd8.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/bancos-traseiros-31ca3dd8.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/bancos-traseiros-31ca3dd8.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/bancos-traseiros-31ca3dd8.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/bancos-traseiros-31ca3dd8.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/bancos-traseiros-31ca3dd8.jpg"
+      },
+      "type": "bancos-traseiros",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "7aef9bcb-b03f-4a5c-b419-01d1ef8137f2",
+      "filename": "traseira-motorista-bf6f1168.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/traseira-motorista-bf6f1168.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/traseira-motorista-bf6f1168.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/traseira-motorista-bf6f1168.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/traseira-motorista-bf6f1168.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/traseira-motorista-bf6f1168.jpg"
+      },
+      "type": "traseira-motorista",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "773b33ed-6f4b-45d6-941d-50941d043fdf",
+      "filename": "traseira-passageiro-8a7b1206.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/traseira-passageiro-8a7b1206.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/traseira-passageiro-8a7b1206.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/traseira-passageiro-8a7b1206.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/traseira-passageiro-8a7b1206.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/traseira-passageiro-8a7b1206.jpg"
+      },
+      "type": "traseira-passageiro",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "63e2069f-2e45-4f05-9e7b-17b739d4e227",
+      "filename": "painel-km-9bbe1afb.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/painel-km-9bbe1afb.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/painel-km-9bbe1afb.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/painel-km-9bbe1afb.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/painel-km-9bbe1afb.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/painel-km-9bbe1afb.jpg"
+      },
+      "type": "painel-km",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "1b74fbf3-8e33-4f10-81c5-df40108d487e",
+      "filename": "kit-multimidia-f674661d.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/kit-multimidia-f674661d.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/kit-multimidia-f674661d.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/kit-multimidia-f674661d.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/kit-multimidia-f674661d.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/kit-multimidia-f674661d.jpg"
+      },
+      "type": "kit-multimidia",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "b355316a-992b-41a9-b2a8-2a534f11adc2",
+      "filename": "kit-multimidia-fe67626a.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/kit-multimidia-fe67626a.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/kit-multimidia-fe67626a.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/kit-multimidia-fe67626a.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/kit-multimidia-fe67626a.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/kit-multimidia-fe67626a.jpg"
+      },
+      "type": "kit-multimidia",
+      "isPublic": true,
+      "description": "",
+      "category": "main",
+      "properties": null
+    },
+    {
+      "uuid": "eee3e498-5714-4fad-8bb9-9dfd1a1e4726",
+      "filename": "pneu-dianteiro-esq-8ba732f6.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/pneu-dianteiro-esq-8ba732f6.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/pneu-dianteiro-esq-8ba732f6.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/pneu-dianteiro-esq-8ba732f6.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/pneu-dianteiro-esq-8ba732f6.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/pneu-dianteiro-esq-8ba732f6.jpg"
+      },
+      "type": "pneu-dianteiro-esquerdo",
+      "isPublic": true,
+      "description": "Pneu dianteiro esquerdo",
+      "category": "tires",
+      "properties": {
+        "condition": "Ruim: 1,7 até 3mm"
+      }
+    },
+    {
+      "uuid": "4ca0b100-a530-46fe-9b20-61a0536e7343",
+      "filename": "pneu-traseiro-esq-bd16be0a.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/pneu-traseiro-esq-bd16be0a.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/pneu-traseiro-esq-bd16be0a.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/pneu-traseiro-esq-bd16be0a.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/pneu-traseiro-esq-bd16be0a.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/pneu-traseiro-esq-bd16be0a.jpg"
+      },
+      "type": "pneu-traseiro-esquerdo",
+      "isPublic": true,
+      "description": "Pneu traseiro esquerdo",
+      "category": "tires",
+      "properties": {
+        "condition": "Ruim: 1,7 até 3mm"
+      }
+    },
+    {
+      "uuid": "2690cc2b-9a49-4f35-9ec7-c7305856e65a",
+      "filename": "pneu-traseiro-dir-f9f279e6.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/pneu-traseiro-dir-f9f279e6.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/pneu-traseiro-dir-f9f279e6.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/pneu-traseiro-dir-f9f279e6.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/pneu-traseiro-dir-f9f279e6.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/pneu-traseiro-dir-f9f279e6.jpg"
+      },
+      "type": "pneu-traseiro-direito",
+      "isPublic": true,
+      "description": "Pneu traseiro direito",
+      "category": "tires",
+      "properties": {
+        "condition": "Irregular: 0 até 1,6mm"
+      }
+    },
+    {
+      "uuid": "2aa42c87-589b-4d6d-9c0b-a1163f8b62fc",
+      "filename": "pneu-dianteiro-dir-c11b6205.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/pneu-dianteiro-dir-c11b6205.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/pneu-dianteiro-dir-c11b6205.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/pneu-dianteiro-dir-c11b6205.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/pneu-dianteiro-dir-c11b6205.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/pneu-dianteiro-dir-c11b6205.jpg"
+      },
+      "type": "pneu-dianteiro-direito",
+      "isPublic": true,
+      "description": "Pneu dianteiro direito",
+      "category": "tires",
+      "properties": {
+        "condition": "Ruim: 1,7 até 3mm"
+      }
+    },
+    {
+      "uuid": "af3f73c4-cea5-400d-9229-f982cfcab6d2",
+      "filename": "extra-01-d238ff84.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-01-d238ff84.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-01-d238ff84.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-01-d238ff84.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-01-d238ff84.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-01-d238ff84.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "494a4257-7f3f-4fa1-99e8-11a291b480cb",
+      "filename": "extra-02-a2b79e4c.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-02-a2b79e4c.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-02-a2b79e4c.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-02-a2b79e4c.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-02-a2b79e4c.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-02-a2b79e4c.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "37fb46e2-bf44-4050-acc0-52b4f5d833e6",
+      "filename": "extra-03-0ca85d04.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-03-0ca85d04.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-03-0ca85d04.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-03-0ca85d04.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-03-0ca85d04.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-03-0ca85d04.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "7bcc103c-97e6-4b58-83d8-ffb164ef393c",
+      "filename": "extra-04-eb2f9bdf.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-04-eb2f9bdf.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-04-eb2f9bdf.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-04-eb2f9bdf.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-04-eb2f9bdf.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-04-eb2f9bdf.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "02d6f483-3d89-4b50-8b5b-84794329a8d0",
+      "filename": "extra-05-7754dda5.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-05-7754dda5.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-05-7754dda5.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-05-7754dda5.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-05-7754dda5.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-05-7754dda5.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "bc0a6c88-968a-43d2-a2fe-ab367c053f73",
+      "filename": "extra-06-f2683e7d.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-06-f2683e7d.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-06-f2683e7d.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-06-f2683e7d.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-06-f2683e7d.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-06-f2683e7d.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "22875e57-1c1a-42bd-8d6b-996e280e226a",
+      "filename": "extra-07-a8b6a5a5.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-07-a8b6a5a5.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-07-a8b6a5a5.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-07-a8b6a5a5.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-07-a8b6a5a5.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-07-a8b6a5a5.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "c5e1b4b3-d1ed-4692-96ea-d99ae8d3b872",
+      "filename": "extra-08-4defbada.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-08-4defbada.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-08-4defbada.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-08-4defbada.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-08-4defbada.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-08-4defbada.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "25745e5f-12e9-4bcf-b20c-3ef959ddb0b1",
+      "filename": "extra-09-3fa206fd.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-09-3fa206fd.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-09-3fa206fd.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-09-3fa206fd.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-09-3fa206fd.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-09-3fa206fd.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "6afd608f-e61a-461f-9148-3d06f251763f",
+      "filename": "extra-010-0c7c7daf.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-010-0c7c7daf.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-010-0c7c7daf.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-010-0c7c7daf.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-010-0c7c7daf.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-010-0c7c7daf.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "957b7f5b-2ff8-4921-ba6f-da3b44b2ad20",
+      "filename": "extra-011-1cc7d34d.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-011-1cc7d34d.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-011-1cc7d34d.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-011-1cc7d34d.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-011-1cc7d34d.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-011-1cc7d34d.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "356da7fa-961d-472e-91c9-dd4d9233f019",
+      "filename": "extra-012-4b23dca4.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/extra-012-4b23dca4.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/extra-012-4b23dca4.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/extra-012-4b23dca4.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/extra-012-4b23dca4.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/extra-012-4b23dca4.jpg"
+      },
+      "type": "extra",
+      "isPublic": true,
+      "description": " - ",
+      "category": "extra",
+      "properties": null
+    },
+    {
+      "uuid": "dd2b11ee-f6d0-455c-b623-217c5554a344",
+      "filename": "avaria-01-de4c6f16.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-01-de4c6f16.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-01-de4c6f16.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-01-de4c6f16.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-01-de4c6f16.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-01-de4c6f16.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "34c81cb0-013c-4057-ac66-ad3acb935009",
+      "filename": "avaria-02-f28a636f.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-02-f28a636f.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-02-f28a636f.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-02-f28a636f.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-02-f28a636f.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-02-f28a636f.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "06752b9a-d984-4822-80d5-b99b92d68f8f",
+      "filename": "avaria-03-47a5d348.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-03-47a5d348.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-03-47a5d348.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-03-47a5d348.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-03-47a5d348.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-03-47a5d348.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "aa618b67-1a81-414f-8d2c-de2d1243b792",
+      "filename": "avaria-04-1a790b60.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-04-1a790b60.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-04-1a790b60.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-04-1a790b60.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-04-1a790b60.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-04-1a790b60.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "96fa1bca-3215-4a60-b516-ba446bfaccf0",
+      "filename": "avaria-05-e54fdfd2.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-05-e54fdfd2.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-05-e54fdfd2.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-05-e54fdfd2.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-05-e54fdfd2.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-05-e54fdfd2.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "5ca5b83a-1a8f-41dd-86d5-3cd47a019e56",
+      "filename": "avaria-06-0ec3454a.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-06-0ec3454a.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-06-0ec3454a.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-06-0ec3454a.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-06-0ec3454a.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-06-0ec3454a.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "f2e3cf6b-b579-416e-9848-d6e8793f6fa6",
+      "filename": "avaria-07-82271031.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-07-82271031.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-07-82271031.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-07-82271031.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-07-82271031.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-07-82271031.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "8b1f7141-0f84-4b11-ab30-73dc0c60e0a4",
+      "filename": "avaria-08-6764ff90.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-08-6764ff90.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-08-6764ff90.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-08-6764ff90.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-08-6764ff90.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-08-6764ff90.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "e4c2f735-c233-4c78-b6fb-c6153506b85e",
+      "filename": "avaria-09-c3b6a0cc.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-09-c3b6a0cc.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-09-c3b6a0cc.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-09-c3b6a0cc.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-09-c3b6a0cc.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-09-c3b6a0cc.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    },
+    {
+      "uuid": "c6740663-4a60-459b-a9d8-9e4d2e421384",
+      "filename": "avaria-010-61c18048.jpg",
+      "sizes": {
+        "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/avaria-010-61c18048.jpg",
+        "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/avaria-010-61c18048.jpg",
+        "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/avaria-010-61c18048.jpg",
+        "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/avaria-010-61c18048.jpg",
+        "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/avaria-010-61c18048.jpg"
+      },
+      "type": "avaria",
+      "isPublic": true,
+      "description": " - ",
+      "category": "damages",
+      "properties": null
+    }
+  ],
+  "videoUrl": "https://youtu.be/x4MfxoqCP1A?si=c0EH5naKbDYadvJ8",
+  "ipvaPaid": false,
+  "observation": "VEÍCULO FUNCIONA PORÉM BATERIA NÃO SEGURA CARGA. VEÍCULO POSSUI RISCOS E AMASSADOS LEVES. LANTERNA TRASEIRA LADO DIREITO AVARIADA. VEÍCULO NÃO POSSUI STEP. RETROVISOR LADO ESQUERDO AVARIADO. CENTRAL MULTIMÍDIA DANIFICADA. PARACHOQUE DIANTEIRO AVARIADO, CAIXA DE AR DIREITA AMASSADO(A), ALMA DO PARA-CHOQUE TRASEIRO DANIFICADO, QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO ARREMATANTE.**",
+  "slug": "60098471",
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2014,
+    "yearManufacture": 2014,
+    "color": "Branca",
+    "mileage": 101060,
+    "licensePlate": "F*****8",
+    "score": null
+  },
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "101060"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": "https://youtu.be/x4MfxoqCP1A?si=c0EH5naKbDYadvJ8"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO FUNCIONA PORÉM BATERIA NÃO SEGURA CARGA. VEÍCULO POSSUI RISCOS E AMASSADOS LEVES. LANTERNA TRASEIRA LADO DIREITO AVARIADA. VEÍCULO NÃO POSSUI STEP. RETROVISOR LADO ESQUERDO AVARIADO. CENTRAL MULTIMÍDIA DANIFICADA. PARACHOQUE DIANTEIRO AVARIADO, CAIXA DE AR DIREITA AMASSADO(A), ALMA DO PARA-CHOQUE TRASEIRO DANIFICADO, QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO ARREMATANTE.**"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "6"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "CAIXA DE AR DIREITA AMASSADO(A), ALMA DO PARA-CHOQUE TRASEIRO DANIFICADO"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    }
+  ]
+}

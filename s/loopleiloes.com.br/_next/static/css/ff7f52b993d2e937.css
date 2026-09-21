@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+html {
+    height: 100%;
+    scroll-behavior: smooth
+}
+
+#__next,
+body {
+    height: inherit
+}
+
+#__next {
+    display: flex;
+    flex-direction: column
+}
+
+#__next>:not(footer, header, aside) {
+    flex-grow: 1
+}
+
+button,
+input {
+    font-family: Poppins, sans-serif
+}
+
+fieldset {
+    outline: unset;
+    border: unset
+}
+
+ul {
+    list-style-type: none
+}
+
+img {
+    max-width: 100%
+}
+
+img,
+svg {
+    display: block
+}
+
+a {
+    text-decoration: inherit;
+    color: inherit
+}

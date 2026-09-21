@@ -1,0 +1,982 @@
+{
+  "id": 169185,
+  "number": 129,
+  "description": "CHEVROLET COBALT 1.4 MPFI LT 8V FLEX 4P MANUAL 2013/2014",
+  "status": "aberto_para_lance",
+  "classification": 6,
+  "isFinancing": false,
+  "closingDate": "2026-09-22 12:46:40",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60109347,
+    "brand": "CHEVROLET",
+    "model": "COBALT",
+    "version": "1.4 MPFI LT 8V FLEX 4P MANUAL",
+    "category": "carros",
+    "fipePrice": 38800,
+    "webmotorsPrice": 41950,
+    "images": [
+      {
+        "uuid": "01a05e9a-51bd-7a59-93f3-307f2ec8db25",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-motorista-683fddb3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-motorista-683fddb3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-motorista-683fddb3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-motorista-683fddb3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-motorista-683fddb3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-motorista-683fddb3.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-34fa-78be-9d93-d56eed287700",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-motor-df7dd406.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-motor-df7dd406.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-motor-df7dd406.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-motor-df7dd406.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-motor-df7dd406.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-motor-df7dd406.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-44e1-785d-91a2-86f96bf9294d",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-malas-e546c25b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-malas-e546c25b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-malas-e546c25b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-malas-e546c25b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-malas-e546c25b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-malas-e546c25b.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-4bd3-7468-b5ac-4f32ff72b37f",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-estepe-2b42e3c3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-estepe-2b42e3c3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-estepe-2b42e3c3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-estepe-2b42e3c3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-estepe-2b42e3c3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-estepe-2b42e3c3.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-5688-73c3-ac23-a02948fee2f5",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-motorista-260a4ba5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-motorista-260a4ba5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-motorista-260a4ba5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-motorista-260a4ba5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-motorista-260a4ba5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-motorista-260a4ba5.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-5b06-7ac5-a458-255a0b34bf00",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-km-a98bd6d0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-km-a98bd6d0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-km-a98bd6d0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-km-a98bd6d0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-km-a98bd6d0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-km-a98bd6d0.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-5f69-7ccd-b751-074fdb3e9dee",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-kit-multimidia-2758b8a2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-kit-multimidia-2758b8a2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-kit-multimidia-2758b8a2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-kit-multimidia-2758b8a2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-kit-multimidia-2758b8a2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-kit-multimidia-2758b8a2.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-64d1-7b41-93bb-58ba0f5a0afd",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-completo-d50c7e0a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-completo-d50c7e0a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-completo-d50c7e0a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-completo-d50c7e0a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-completo-d50c7e0a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-painel-completo-d50c7e0a.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-69fd-7536-8e76-78f6b0b195af",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-bancos-traseiros-62fa9323.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-bancos-traseiros-62fa9323.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-bancos-traseiros-62fa9323.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-bancos-traseiros-62fa9323.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-bancos-traseiros-62fa9323.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-bancos-traseiros-62fa9323.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-6e8c-7f69-a8fa-3f6d827a4e57",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-motorista-64216c45.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-motorista-64216c45.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-motorista-64216c45.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-motorista-64216c45.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-motorista-64216c45.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-motorista-64216c45.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-738a-787d-8352-fed62c765d16",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-passageiro-2f5a3f2d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-passageiro-2f5a3f2d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-passageiro-2f5a3f2d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-passageiro-2f5a3f2d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-passageiro-2f5a3f2d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-traseira-passageiro-2f5a3f2d.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-7827-7b75-99c6-d5ee9f95059e",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-passageiro-fa958bb3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-passageiro-fa958bb3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-passageiro-fa958bb3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-passageiro-fa958bb3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-passageiro-fa958bb3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-e-interior-passageiro-fa958bb3.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-7d93-795c-afbb-fc2e7d1b8537",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-passageiro-d806cd8d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-passageiro-d806cd8d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-passageiro-d806cd8d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-passageiro-d806cd8d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-passageiro-d806cd8d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-frente-passageiro-d806cd8d.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-827d-7804-8380-9ee09ff06f2a",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-capo-7422def4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-capo-7422def4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-capo-7422def4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-capo-7422def4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-capo-7422def4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-capo-7422def4.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-8802-77e1-8455-49a4a5a1e245",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-esquerdo-d723fc1e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-esquerdo-d723fc1e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-esquerdo-d723fc1e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-esquerdo-d723fc1e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-esquerdo-d723fc1e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-esquerdo-d723fc1e.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-8e42-7497-b0b9-7fa07eb3db51",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-esquerda-ec233a1e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-esquerda-ec233a1e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-esquerda-ec233a1e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-esquerda-ec233a1e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-esquerda-ec233a1e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-esquerda-ec233a1e.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-93e0-76e1-9c6c-4158b55f19f8",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-esquerda-eba1f44e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-esquerda-eba1f44e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-esquerda-eba1f44e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-esquerda-eba1f44e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-esquerda-eba1f44e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-esquerda-eba1f44e.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-98ab-7e9c-bb31-07f07a3b5d26",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-esquerda-8b788b10.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-esquerda-8b788b10.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-esquerda-8b788b10.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-esquerda-8b788b10.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-esquerda-8b788b10.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-esquerda-8b788b10.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-9d17-72b0-aa84-dd3abffabe3d",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-tampa-do-porta-malas-d6744729.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-tampa-do-porta-malas-d6744729.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-tampa-do-porta-malas-d6744729.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-tampa-do-porta-malas-d6744729.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-tampa-do-porta-malas-d6744729.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-tampa-do-porta-malas-d6744729.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-a1b3-7162-ada9-47b3d795fdad",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-direita-ace2a917.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-direita-ace2a917.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-direita-ace2a917.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-direita-ace2a917.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-direita-ace2a917.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-lateral-traseira-direita-ace2a917.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-a6a1-70b2-b3a9-f3ea7df768b0",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-direita-4832cfff.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-direita-4832cfff.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-direita-4832cfff.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-direita-4832cfff.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-direita-4832cfff.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-traseira-direita-4832cfff.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-acaf-7f13-af99-8caf231289b8",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-direita-fb336a59.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-direita-fb336a59.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-direita-fb336a59.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-direita-fb336a59.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-direita-fb336a59.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-porta-dianteira-direita-fb336a59.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-b26b-7dce-91c7-32bd55d96dbb",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-direito-2d092113.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-direito-2d092113.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-direito-2d092113.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-direito-2d092113.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-direito-2d092113.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-paralama-dianteiro-direito-2d092113.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-b6eb-7c34-8a1f-986ac5083279",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-frente-70ce88b8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-frente-70ce88b8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-frente-70ce88b8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-frente-70ce88b8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-frente-70ce88b8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-frente-70ce88b8.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-bb30-7a3d-98a2-8ae716d3fa26",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-traseira-7b3fa1eb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-traseira-7b3fa1eb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-traseira-7b3fa1eb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-traseira-7b3fa1eb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-traseira-7b3fa1eb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-teto-traseira-7b3fa1eb.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-c057-7475-88ad-ad69e4bcf6ac",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-esquerdo-41952b9f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-esquerdo-41952b9f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-esquerdo-41952b9f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-esquerdo-41952b9f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-esquerdo-41952b9f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-esquerdo-41952b9f.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-c679-77b0-852a-0300ca2d6e44",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-direito-8b6e801f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-direito-8b6e801f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-direito-8b6e801f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-direito-8b6e801f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-direito-8b6e801f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-dianteiro-direito-8b6e801f.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-cc30-7c98-8a50-6df83c3ec297",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-direito-2def86f5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-direito-2def86f5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-direito-2def86f5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-direito-2def86f5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-direito-2def86f5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-direito-2def86f5.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-d2b9-7d19-853c-f4316c78963b",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-esquerdo-1f454a13.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-esquerdo-1f454a13.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-esquerdo-1f454a13.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-esquerdo-1f454a13.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-esquerdo-1f454a13.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-pneu-traseiro-esquerdo-1f454a13.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-d80d-79fd-b585-bfe00c39cdf0",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293280728-dv3jtx-0f180f57.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293280728-dv3jtx-0f180f57.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293280728-dv3jtx-0f180f57.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293280728-dv3jtx-0f180f57.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293280728-dv3jtx-0f180f57.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293280728-dv3jtx-0f180f57.jpg"
+        },
+        "type": "damages-1788293280728-dv3jtx",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-dddd-7f8a-a0b9-9bf1ce0b9da4",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293283758-fz97mn-6684ad1b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293283758-fz97mn-6684ad1b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293283758-fz97mn-6684ad1b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293283758-fz97mn-6684ad1b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293283758-fz97mn-6684ad1b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293283758-fz97mn-6684ad1b.jpg"
+        },
+        "type": "damages-1788293283758-fz97mn",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-e42f-7f85-ab71-5bc432119b79",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293289741-202kzg-0fe57546.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293289741-202kzg-0fe57546.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293289741-202kzg-0fe57546.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293289741-202kzg-0fe57546.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293289741-202kzg-0fe57546.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293289741-202kzg-0fe57546.jpg"
+        },
+        "type": "damages-1788293289741-202kzg",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-e945-763c-9712-0fb15d46c42d",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293292357-tvw0c1-40a0383d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293292357-tvw0c1-40a0383d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293292357-tvw0c1-40a0383d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293292357-tvw0c1-40a0383d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293292357-tvw0c1-40a0383d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293292357-tvw0c1-40a0383d.jpg"
+        },
+        "type": "damages-1788293292357-tvw0c1",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-edc1-729d-b168-d992aacfd4a8",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293299716-5mfe2b-c47b6d49.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293299716-5mfe2b-c47b6d49.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293299716-5mfe2b-c47b6d49.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293299716-5mfe2b-c47b6d49.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293299716-5mfe2b-c47b6d49.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293299716-5mfe2b-c47b6d49.jpg"
+        },
+        "type": "damages-1788293299716-5mfe2b",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-f33b-7c2a-9809-d6453352a3c5",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293303207-b4bmby-252a9d3b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293303207-b4bmby-252a9d3b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293303207-b4bmby-252a9d3b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293303207-b4bmby-252a9d3b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293303207-b4bmby-252a9d3b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293303207-b4bmby-252a9d3b.jpg"
+        },
+        "type": "damages-1788293303207-b4bmby",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-f8a1-72b4-8d63-7249083492cf",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293306183-9wp7wy-9c2a1339.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293306183-9wp7wy-9c2a1339.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293306183-9wp7wy-9c2a1339.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293306183-9wp7wy-9c2a1339.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293306183-9wp7wy-9c2a1339.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293306183-9wp7wy-9c2a1339.jpg"
+        },
+        "type": "damages-1788293306183-9wp7wy",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9a-fdba-7822-9a58-f688c1bdb942",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293308999-m9lfww-7aa26b91.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293308999-m9lfww-7aa26b91.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293308999-m9lfww-7aa26b91.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293308999-m9lfww-7aa26b91.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293308999-m9lfww-7aa26b91.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293308999-m9lfww-7aa26b91.jpg"
+        },
+        "type": "damages-1788293308999-m9lfww",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9b-02b7-740b-aed0-205cce30b951",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293316619-5c55m4-98749710.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293316619-5c55m4-98749710.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293316619-5c55m4-98749710.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293316619-5c55m4-98749710.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293316619-5c55m4-98749710.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293316619-5c55m4-98749710.jpg"
+        },
+        "type": "damages-1788293316619-5c55m4",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9b-07a6-740a-b704-7c4675dd6603",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293323603-awobaj-e9518ecf.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293323603-awobaj-e9518ecf.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293323603-awobaj-e9518ecf.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293323603-awobaj-e9518ecf.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293323603-awobaj-e9518ecf.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293323603-awobaj-e9518ecf.jpg"
+        },
+        "type": "damages-1788293323603-awobaj",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a05e9b-0c5d-7f20-aef7-5a153536e572",
+        "filename": "chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293330582-wfcwyl-f5632d86.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293330582-wfcwyl-f5632d86.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293330582-wfcwyl-f5632d86.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293330582-wfcwyl-f5632d86.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293330582-wfcwyl-f5632d86.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-cobalt-1-4-mpfi-lt-8v-flex-4p-manual-damages-1788293330582-wfcwyl-f5632d86.jpg"
+        },
+        "type": "damages-1788293330582-wfcwyl",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2014,
+    "yearManufacture": 2013,
+    "color": "Branca",
+    "mileage": 398575,
+    "licensePlate": "I*****6"
+  },
+  "observation": "Riscos e amassados na lataria em geral sem chave porta-malas não abre  VEICULO COM ALERTAS DE SINISTRO E LEILAO ATIVO, VEICULO TAMBEM COM PARALAMA INTERNO REPARADO, COLUNA TRASEIRA ESQUERDA, LATERAL ESQUERDA, PAINEL TRASEIRO, COM SOLDA E REPARADOS, E O VEICULO TODO POSSUI MASSA COM REPINTURAS AO REDOR DELE | ALERTAS: LEILAO: CONSTA — CONSTA REGISTRO DE LEILAO! QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Sem chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "398575"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "Riscos e amassados na lataria em geral sem chave porta-malas não abre  VEICULO COM ALERTAS DE SINISTRO E LEILAO ATIVO, VEICULO TAMBEM COM PARALAMA INTERNO REPARADO, COLUNA TRASEIRA ESQUERDA, LATERAL ESQUERDA, PAINEL TRASEIRO, COM SOLDA E REPARADOS, E O VEICULO TODO POSSUI MASSA COM REPINTURAS AO REDOR DELE | ALERTAS: LEILAO: CONSTA — CONSTA REGISTRO DE LEILAO! QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "6"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "VEICULO COM ALERTAS DE SINISTRO E LEILAO ATIVO, VEICULO TAMBEM COM PARALAMA INTERNO REPARADO, COLUNA TRASEIRA ESQUERDA, LATERAL ESQUERDA, PAINEL TRASEIRO, COM SOLDA E REPARADOS, E O VEICULO TODO POSSUI MASSA COM REPINTURAS AO REDOR DELE | ALERTAS: LEILAO: CONSTA — CONSTA REGISTRO DE LEILAO!"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não avaliado"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Anchieta - Porto Alegre - RS",
+      "url": "https://maps.google.com/?q=Rua+Giusepe+Mandeli%2C+265+-+Porto+Alegre%2C+RS"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

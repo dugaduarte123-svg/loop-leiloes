@@ -1,0 +1,934 @@
+{
+  "id": 169018,
+  "number": 53,
+  "description": "CHEVROLET CAPTIVA 3.6 SFI AWD V6 24V GASOLINA 4P AUTOMÁTICO 2008/2009",
+  "status": "aberto_para_lance",
+  "classification": 4,
+  "isFinancing": false,
+  "closingDate": "2026-09-22 11:43:20",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60102477,
+    "brand": "CHEVROLET",
+    "model": "CAPTIVA",
+    "version": "3.6 SFI AWD V6 24V GASOLINA 4P AUTOMÁTICO",
+    "category": "carros",
+    "fipePrice": 31213,
+    "webmotorsPrice": 38250,
+    "images": [
+      {
+        "uuid": "019fc87d-4e85-726d-af77-85b4963eb922",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-motorista-902b3c56.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-motorista-902b3c56.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-motorista-902b3c56.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-motorista-902b3c56.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-motorista-902b3c56.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-motorista-902b3c56.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-04ac-76d6-bfa9-6b9a4d4159cd",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-motor-95d616fb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-motor-95d616fb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-motor-95d616fb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-motor-95d616fb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-motor-95d616fb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-motor-95d616fb.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-130d-7d5a-9acf-95ef674d2492",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-motorista-037d00db.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-motorista-037d00db.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-motorista-037d00db.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-motorista-037d00db.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-motorista-037d00db.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-motorista-037d00db.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-1918-764b-8c8d-a11ee36f404a",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-km-b30b3f66.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-km-b30b3f66.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-km-b30b3f66.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-km-b30b3f66.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-km-b30b3f66.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-km-b30b3f66.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-1f0b-79ca-a1ce-35c8b16fd18c",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-kit-multimidia-caf8bada.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-kit-multimidia-caf8bada.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-kit-multimidia-caf8bada.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-kit-multimidia-caf8bada.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-kit-multimidia-caf8bada.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-kit-multimidia-caf8bada.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-25e9-711a-88a9-3318d0055653",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-completo-6676b677.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-completo-6676b677.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-completo-6676b677.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-completo-6676b677.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-completo-6676b677.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-painel-completo-6676b677.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-2b64-7b7b-87e0-ab2ec6260d0e",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-bancos-traseiros-808e13a5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-bancos-traseiros-808e13a5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-bancos-traseiros-808e13a5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-bancos-traseiros-808e13a5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-bancos-traseiros-808e13a5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-bancos-traseiros-808e13a5.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-3392-70c6-b7fc-e279b1bc2034",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-estepe-8026db54.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-estepe-8026db54.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-estepe-8026db54.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-estepe-8026db54.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-estepe-8026db54.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-estepe-8026db54.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-3930-749e-b323-807946f354ed",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-malas-2ec556f1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-malas-2ec556f1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-malas-2ec556f1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-malas-2ec556f1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-malas-2ec556f1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-malas-2ec556f1.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-56a6-73e2-8193-b788bbdb7916",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-passageiro-36b531b5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-passageiro-36b531b5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-passageiro-36b531b5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-passageiro-36b531b5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-passageiro-36b531b5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-frente-passageiro-36b531b5.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-5d78-77c1-8f00-dde4a2181cc2",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-motorista-f9c9c06f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-motorista-f9c9c06f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-motorista-f9c9c06f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-motorista-f9c9c06f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-motorista-f9c9c06f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-motorista-f9c9c06f.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-637c-7443-b2c1-af1e61a76909",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-passageiro-393f020d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-passageiro-393f020d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-passageiro-393f020d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-passageiro-393f020d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-passageiro-393f020d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-traseira-passageiro-393f020d.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-68f4-794c-816b-50c19168d2d1",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-passageiro-786333d4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-passageiro-786333d4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-passageiro-786333d4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-passageiro-786333d4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-passageiro-786333d4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-e-interior-passageiro-786333d4.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-6f32-7ce4-8bd8-dd0cd20cc540",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-capo-33ab8ee3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-capo-33ab8ee3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-capo-33ab8ee3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-capo-33ab8ee3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-capo-33ab8ee3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-capo-33ab8ee3.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-766e-775c-92de-d7c2fac22479",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-esquerdo-6ff1b0a7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-esquerdo-6ff1b0a7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-esquerdo-6ff1b0a7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-esquerdo-6ff1b0a7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-esquerdo-6ff1b0a7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-esquerdo-6ff1b0a7.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-7b4d-7396-bb71-3984dd54c834",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-esquerda-b55951e3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-esquerda-b55951e3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-esquerda-b55951e3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-esquerda-b55951e3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-esquerda-b55951e3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-esquerda-b55951e3.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-803a-7af9-bd45-23965e1445e6",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-esquerda-1f8dc7cf.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-esquerda-1f8dc7cf.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-esquerda-1f8dc7cf.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-esquerda-1f8dc7cf.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-esquerda-1f8dc7cf.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-esquerda-1f8dc7cf.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-856e-7ea4-ae06-00dedcf80a7a",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-esquerda-180388da.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-esquerda-180388da.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-esquerda-180388da.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-esquerda-180388da.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-esquerda-180388da.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-esquerda-180388da.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-8bbb-761e-aac6-abc9417c797d",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-tampa-do-porta-malas-73902f84.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-tampa-do-porta-malas-73902f84.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-tampa-do-porta-malas-73902f84.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-tampa-do-porta-malas-73902f84.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-tampa-do-porta-malas-73902f84.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-tampa-do-porta-malas-73902f84.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-91a3-755b-b6ed-1baeebb67752",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-direita-d3d70598.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-direita-d3d70598.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-direita-d3d70598.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-direita-d3d70598.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-direita-d3d70598.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-lateral-traseira-direita-d3d70598.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-96d6-7cab-bc62-cfaf67ad5028",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-direita-bdd3a216.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-direita-bdd3a216.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-direita-bdd3a216.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-direita-bdd3a216.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-direita-bdd3a216.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-traseira-direita-bdd3a216.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-9e6f-7199-9634-1484f2598f6c",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-direita-bc5defe9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-direita-bc5defe9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-direita-bc5defe9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-direita-bc5defe9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-direita-bc5defe9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-porta-dianteira-direita-bc5defe9.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-a4d0-71e4-821b-64ff9db38ae4",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-direito-f10b170f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-direito-f10b170f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-direito-f10b170f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-direito-f10b170f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-direito-f10b170f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-paralama-dianteiro-direito-f10b170f.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-a9e8-7b6b-a8d1-12af781668bd",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-frente-d5acc9d5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-frente-d5acc9d5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-frente-d5acc9d5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-frente-d5acc9d5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-frente-d5acc9d5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-frente-d5acc9d5.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-afe5-7517-ace6-ffa3f4c18dc4",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-traseira-c1ddde27.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-traseira-c1ddde27.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-traseira-c1ddde27.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-traseira-c1ddde27.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-traseira-c1ddde27.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-teto-traseira-c1ddde27.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-b4f6-765e-8021-d545693966f6",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-esquerdo-afb91b1b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-esquerdo-afb91b1b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-esquerdo-afb91b1b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-esquerdo-afb91b1b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-esquerdo-afb91b1b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-esquerdo-afb91b1b.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-b9bf-7da3-b342-635d8de2b0d4",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-esquerdo-5e425836.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-esquerdo-5e425836.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-esquerdo-5e425836.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-esquerdo-5e425836.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-esquerdo-5e425836.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-esquerdo-5e425836.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-bf0a-7a27-b72e-b029f0b32f6c",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-direito-9355ae36.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-direito-9355ae36.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-direito-9355ae36.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-direito-9355ae36.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-direito-9355ae36.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-traseiro-direito-9355ae36.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-c51c-78fa-bd4b-853670eff82e",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-direito-ed9bc25f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-direito-ed9bc25f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-direito-ed9bc25f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-direito-ed9bc25f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-direito-ed9bc25f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-pneu-dianteiro-direito-ed9bc25f.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-cbd4-7751-90db-bf16c7a8feee",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775051182-xjg2t6-630d6e81.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775051182-xjg2t6-630d6e81.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775051182-xjg2t6-630d6e81.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775051182-xjg2t6-630d6e81.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775051182-xjg2t6-630d6e81.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775051182-xjg2t6-630d6e81.jpg"
+        },
+        "type": "damages-1785775051182-xjg2t6",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87d-d31f-7a8a-aa59-ff3f54d0d763",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775060284-7lhx5o-594d948d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775060284-7lhx5o-594d948d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775060284-7lhx5o-594d948d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775060284-7lhx5o-594d948d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775060284-7lhx5o-594d948d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775060284-7lhx5o-594d948d.jpg"
+        },
+        "type": "damages-1785775060284-7lhx5o",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87e-2cff-79ce-b7f3-8dd00f656765",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775068444-e6zh26-84a5143a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775068444-e6zh26-84a5143a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775068444-e6zh26-84a5143a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775068444-e6zh26-84a5143a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775068444-e6zh26-84a5143a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775068444-e6zh26-84a5143a.jpg"
+        },
+        "type": "damages-1785775068444-e6zh26",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87e-33af-7475-9bd2-612e332e6da2",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775076911-mjzccs-0f9d5295.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775076911-mjzccs-0f9d5295.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775076911-mjzccs-0f9d5295.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775076911-mjzccs-0f9d5295.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775076911-mjzccs-0f9d5295.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775076911-mjzccs-0f9d5295.jpg"
+        },
+        "type": "damages-1785775076911-mjzccs",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87e-39ed-7ee2-97d1-5fd98decad4d",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775083360-lz4jso-a36ec598.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775083360-lz4jso-a36ec598.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775083360-lz4jso-a36ec598.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775083360-lz4jso-a36ec598.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775083360-lz4jso-a36ec598.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775083360-lz4jso-a36ec598.jpg"
+        },
+        "type": "damages-1785775083360-lz4jso",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87e-4103-7c29-9c63-7e0d3bed348d",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775101589-hqli7e-b215b8c5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775101589-hqli7e-b215b8c5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775101589-hqli7e-b215b8c5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775101589-hqli7e-b215b8c5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775101589-hqli7e-b215b8c5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775101589-hqli7e-b215b8c5.jpg"
+        },
+        "type": "damages-1785775101589-hqli7e",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87e-4821-7ab3-818c-453a8c27acf3",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775129188-fivd23-a1962de1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775129188-fivd23-a1962de1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775129188-fivd23-a1962de1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775129188-fivd23-a1962de1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775129188-fivd23-a1962de1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775129188-fivd23-a1962de1.jpg"
+        },
+        "type": "damages-1785775129188-fivd23",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019fc87e-4f2c-7531-82c0-3864f05c66f9",
+        "filename": "chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775137107-lh67t7-c9b2fdb4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775137107-lh67t7-c9b2fdb4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775137107-lh67t7-c9b2fdb4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775137107-lh67t7-c9b2fdb4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775137107-lh67t7-c9b2fdb4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-captiva-3-6-sfi-awd-v6-24v-gasolina-4p-automatico-damages-1785775137107-lh67t7-c9b2fdb4.jpg"
+        },
+        "type": "damages-1785775137107-lh67t7",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": "Não funciona ",
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Gasolina",
+    "yearModel": 2009,
+    "yearManufacture": 2008,
+    "color": "Preta",
+    "mileage": null,
+    "licensePlate": "H*****8"
+  },
+  "observation": "Veiculo nao funiona, algumas avarias na pintura. VEÍCULO COM CÂMBIO OBSTRUÍDO/SEM ACESSO. FOLHA DA LATERAL AMBOS OS LADOS POR FUNILARIA E PINTURA. TAMPA DO PORTA-MALAS ESTÁ TRAVADO, IMPOSSIBILITANDO ANALISE DE ESTRUTURA NO LOCAL. PARALAMAS DIANTEIRO LADO ESQUERDO AMASSADO. SEM CARGA NA BATERIA MESMO USANDO AUXILIAR DE PARTIDA, IMPOSSIBILITANDO COLETAR KM. PARA-BRISA NÃO ORIGINAL COM GRAVAÇÃO PARALELA. CONSTAM REGISTRO(S) DE LEILÃO | ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Preta"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Couro/Sintético"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Caminhonete"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": "Não funciona "
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "Veiculo nao funiona, algumas avarias na pintura. VEÍCULO COM CÂMBIO OBSTRUÍDO/SEM ACESSO. FOLHA DA LATERAL AMBOS OS LADOS POR FUNILARIA E PINTURA. TAMPA DO PORTA-MALAS ESTÁ TRAVADO, IMPOSSIBILITANDO ANALISE DE ESTRUTURA NO LOCAL. PARALAMAS DIANTEIRO LADO ESQUERDO AMASSADO. SEM CARGA NA BATERIA MESMO USANDO AUXILIAR DE PARTIDA, IMPOSSIBILITANDO COLETAR KM. PARA-BRISA NÃO ORIGINAL COM GRAVAÇÃO PARALELA. CONSTAM REGISTRO(S) DE LEILÃO | ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Aprovado com apontamento"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "4"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "VEÍCULO COM CÂMBIO OBSTRUÍDO/SEM ACESSO. FOLHA DA LATERAL AMBOS OS LADOS POR FUNILARIA E PINTURA. TAMPA DO PORTA-MALAS ESTÁ TRAVADO, IMPOSSIBILITANDO ANALISE DE ESTRUTURA NO LOCAL. PARALAMAS DIANTEIRO LADO ESQUERDO AMASSADO. SEM CARGA NA BATERIA MESMO USANDO AUXILIAR DE PARTIDA, IMPOSSIBILITANDO COLETAR KM. PARA-BRISA NÃO ORIGINAL COM GRAVAÇÃO PARALELA. CONSTAM REGISTRO(S) DE LEILÃO | ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não avaliado"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Forquilhinha - São José - SC",
+      "url": "https://maps.google.com/?q=RUA+MIHAIL+DIMITRI+ALVES%2C+50+-+S%C3%A3o+Jos%C3%A9%2C+SC"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

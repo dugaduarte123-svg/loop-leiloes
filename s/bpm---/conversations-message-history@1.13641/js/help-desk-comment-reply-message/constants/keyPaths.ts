@@ -1,0 +1,16 @@
+export const NOTE_CREATED_BY_AGENT_ID = ['noteCreatedByAgentIdAndType', 'agentId'];
+export const NOTE_CREATED_BY_AGENT_TYPE = ['noteCreatedByAgentIdAndType', 'agentType'];
+export const COMMENT_CREATED_BY_AGENT_ID = ['commentCreatedByAgentIdAndType', 'agentId'];
+export const COMMENT_CREATED_BY_AGENT_TYPE = ['commentCreatedByAgentIdAndType', 'agentType'];
+export const NOTE_ID = ['noteId'];
+export const SENDER = ['senders'];
+export const MESSAGE_DELETED_STATUS = ['messageDeletedStatus'];
+export const TIMESTAMP = ['timestamp'];
+export const ID = ['id'];
+export const TYPE = ['@type'];
+export const COMMENT_CREATED_BY_ACTOR_ID = ['commentCreatedByActorId'];
+export const COMMENT_CREATED_AT_TIMESTAMP = ['commentCreatedAtTimestamp'];
+export const CLIENT_TYPE = ['clientType'];
+export const COMMENT_ID = ['commentId'];
+export const ABLY_TS = ['ablyTs'];
+export const IS_MULTIPLE_SENDERS = ['isMultipleSenders'];

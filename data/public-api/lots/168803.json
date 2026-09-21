@@ -1,0 +1,961 @@
+{
+  "id": 168803,
+  "number": 1,
+  "description": "CHERY ARRIZO 5 1.5 VVT TURBO iFLEX RX CVT 2018/2019",
+  "status": "aberto_para_lance",
+  "classification": 5,
+  "isFinancing": true,
+  "closingDate": "2026-09-22 11:00:00",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60108139,
+    "brand": "CHERY",
+    "model": "ARRIZO 5",
+    "version": "1.5 VVT TURBO iFLEX RX CVT",
+    "category": "carros",
+    "fipePrice": 57234,
+    "webmotorsPrice": 61500,
+    "images": [
+      {
+        "uuid": "019ffb84-8320-7e10-ae6c-f28f648fea1a",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-motorista-714d84fe.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-motorista-714d84fe.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-motorista-714d84fe.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-motorista-714d84fe.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-motorista-714d84fe.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-motorista-714d84fe.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-a35f-7948-b479-05073f90f627",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-km-6e6847d9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-km-6e6847d9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-km-6e6847d9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-km-6e6847d9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-km-6e6847d9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-km-6e6847d9.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-a85b-76e7-92aa-3f8bd54fd9a9",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-kit-multimidia-0791b0da.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-kit-multimidia-0791b0da.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-kit-multimidia-0791b0da.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-kit-multimidia-0791b0da.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-kit-multimidia-0791b0da.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-kit-multimidia-0791b0da.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-ad3b-70ba-ba9a-7024a00a88f2",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-completo-3e29eb0c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-completo-3e29eb0c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-completo-3e29eb0c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-completo-3e29eb0c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-completo-3e29eb0c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-painel-completo-3e29eb0c.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-b2bc-716e-97bf-1eb29c7efe82",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-bancos-traseiros-41863e27.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-bancos-traseiros-41863e27.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-bancos-traseiros-41863e27.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-bancos-traseiros-41863e27.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-bancos-traseiros-41863e27.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-bancos-traseiros-41863e27.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-b924-757c-964e-c3ac8430e164",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-malas-f67caa8b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-malas-f67caa8b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-malas-f67caa8b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-malas-f67caa8b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-malas-f67caa8b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-malas-f67caa8b.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-c90d-7cff-a298-63b4654417df",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-estepe-d970294f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-estepe-d970294f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-estepe-d970294f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-estepe-d970294f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-estepe-d970294f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-estepe-d970294f.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-cf37-793e-933c-baa94ce151b5",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-passageiro-77d11899.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-passageiro-77d11899.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-passageiro-77d11899.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-passageiro-77d11899.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-passageiro-77d11899.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-passageiro-77d11899.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-d4bc-768f-9187-764d14ab17b4",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-motorista-2af1d762.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-motorista-2af1d762.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-motorista-2af1d762.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-motorista-2af1d762.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-motorista-2af1d762.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-traseira-motorista-2af1d762.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-d9a0-7284-bcb9-ca7c39407dc6",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-motorista-6a14db41.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-motorista-6a14db41.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-motorista-6a14db41.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-motorista-6a14db41.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-motorista-6a14db41.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-motorista-6a14db41.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-de9c-773f-aa6b-ec3ee5c64202",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-passageiro-c8364cb4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-passageiro-c8364cb4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-passageiro-c8364cb4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-passageiro-c8364cb4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-passageiro-c8364cb4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-e-interior-passageiro-c8364cb4.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-e47b-7b56-a242-ea11dce40c84",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-motor-2908ecb4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-motor-2908ecb4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-motor-2908ecb4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-motor-2908ecb4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-motor-2908ecb4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-motor-2908ecb4.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-7d06-7589-8191-2fc10ed11ec4",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-passageiro-a754be79.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-passageiro-a754be79.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-passageiro-a754be79.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-passageiro-a754be79.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-passageiro-a754be79.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-frente-passageiro-a754be79.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-e91f-7881-ba7b-6a8b248225ce",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-capo-802328e0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-capo-802328e0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-capo-802328e0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-capo-802328e0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-capo-802328e0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-capo-802328e0.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-eec2-707d-a2aa-af68994899be",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-esquerdo-46948177.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-esquerdo-46948177.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-esquerdo-46948177.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-esquerdo-46948177.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-esquerdo-46948177.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-esquerdo-46948177.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-f3cc-7387-8ee1-f76f3c117e65",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-esquerda-7bec9883.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-esquerda-7bec9883.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-esquerda-7bec9883.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-esquerda-7bec9883.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-esquerda-7bec9883.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-esquerda-7bec9883.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-f8a2-77ef-80c5-7a835f9b9798",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-esquerda-733c09ee.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-esquerda-733c09ee.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-esquerda-733c09ee.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-esquerda-733c09ee.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-esquerda-733c09ee.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-esquerda-733c09ee.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb83-fd2c-7ca4-a543-b6eb1221c473",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-esquerda-827250c5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-esquerda-827250c5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-esquerda-827250c5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-esquerda-827250c5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-esquerda-827250c5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-esquerda-827250c5.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-0211-7cda-9c33-f4a391fcb815",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-tampa-do-porta-malas-a7a33c84.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-tampa-do-porta-malas-a7a33c84.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-tampa-do-porta-malas-a7a33c84.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-tampa-do-porta-malas-a7a33c84.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-tampa-do-porta-malas-a7a33c84.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-tampa-do-porta-malas-a7a33c84.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-0705-78ee-8f04-ca7b2f35aa27",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-direita-79d6f640.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-direita-79d6f640.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-direita-79d6f640.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-direita-79d6f640.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-direita-79d6f640.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-lateral-traseira-direita-79d6f640.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-0c0e-75b7-85ca-5af660371485",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-direita-d14694ce.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-direita-d14694ce.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-direita-d14694ce.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-direita-d14694ce.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-direita-d14694ce.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-traseira-direita-d14694ce.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-11d6-796b-bb4c-a89d87fcdfd0",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-direita-945b5f38.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-direita-945b5f38.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-direita-945b5f38.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-direita-945b5f38.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-direita-945b5f38.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-porta-dianteira-direita-945b5f38.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-17cd-7709-a0ce-c4bbc82dfbfa",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-direito-6533df9c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-direito-6533df9c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-direito-6533df9c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-direito-6533df9c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-direito-6533df9c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-paralama-dianteiro-direito-6533df9c.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-1cef-7b51-a401-6651c1a54b00",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-frente-7031655e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-frente-7031655e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-frente-7031655e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-frente-7031655e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-frente-7031655e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-frente-7031655e.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-2141-74b8-8701-5b87b2ad8073",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-traseira-d20045c2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-traseira-d20045c2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-traseira-d20045c2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-traseira-d20045c2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-traseira-d20045c2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-teto-traseira-d20045c2.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-2742-7482-b96d-6de889049ff5",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-direito-308935a1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-direito-308935a1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-direito-308935a1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-direito-308935a1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-direito-308935a1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-direito-308935a1.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-2cf7-769d-a1fb-9e4d270bfde1",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-direito-5524ffa9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-direito-5524ffa9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-direito-5524ffa9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-direito-5524ffa9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-direito-5524ffa9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-direito-5524ffa9.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-3354-7c39-b53e-5cf0db3959cd",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-esquerdo-b4ebc5e1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-esquerdo-b4ebc5e1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-esquerdo-b4ebc5e1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-esquerdo-b4ebc5e1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-esquerdo-b4ebc5e1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-traseiro-esquerdo-b4ebc5e1.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-3930-7dd3-b375-82eebd207e53",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-esquerdo-6f2250c3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-esquerdo-6f2250c3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-esquerdo-6f2250c3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-esquerdo-6f2250c3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-esquerdo-6f2250c3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-pneu-dianteiro-esquerdo-6f2250c3.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-3ed0-7b73-ad65-466cdb5f3536",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631015787-crmiii-f75dc27e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631015787-crmiii-f75dc27e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631015787-crmiii-f75dc27e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631015787-crmiii-f75dc27e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631015787-crmiii-f75dc27e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631015787-crmiii-f75dc27e.jpg"
+        },
+        "type": "damages-1786631015787-crmiii",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-48ed-70ed-82b4-055077035f17",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631020186-a3gvut-6b0ce1fa.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631020186-a3gvut-6b0ce1fa.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631020186-a3gvut-6b0ce1fa.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631020186-a3gvut-6b0ce1fa.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631020186-a3gvut-6b0ce1fa.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631020186-a3gvut-6b0ce1fa.jpg"
+        },
+        "type": "damages-1786631020186-a3gvut",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-4edf-77be-afb8-80e190f13210",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631026461-sllob6-f10ae635.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631026461-sllob6-f10ae635.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631026461-sllob6-f10ae635.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631026461-sllob6-f10ae635.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631026461-sllob6-f10ae635.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631026461-sllob6-f10ae635.jpg"
+        },
+        "type": "damages-1786631026461-sllob6",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-533e-7f5e-90da-f6d0fad45fdc",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631032287-41c6r2-367b78e4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631032287-41c6r2-367b78e4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631032287-41c6r2-367b78e4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631032287-41c6r2-367b78e4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631032287-41c6r2-367b78e4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631032287-41c6r2-367b78e4.jpg"
+        },
+        "type": "damages-1786631032287-41c6r2",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-5805-70d6-8be5-fc9ad544a859",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631038119-wk0xtd-1483703a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631038119-wk0xtd-1483703a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631038119-wk0xtd-1483703a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631038119-wk0xtd-1483703a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631038119-wk0xtd-1483703a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631038119-wk0xtd-1483703a.jpg"
+        },
+        "type": "damages-1786631038119-wk0xtd",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-5d73-70c4-93d0-1650aed529af",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631042998-2fac0n-f15903b9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631042998-2fac0n-f15903b9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631042998-2fac0n-f15903b9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631042998-2fac0n-f15903b9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631042998-2fac0n-f15903b9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631042998-2fac0n-f15903b9.jpg"
+        },
+        "type": "damages-1786631042998-2fac0n",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-632c-7ba8-9c9f-2b11175d0499",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631047995-dm7kql-f2be01fc.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631047995-dm7kql-f2be01fc.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631047995-dm7kql-f2be01fc.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631047995-dm7kql-f2be01fc.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631047995-dm7kql-f2be01fc.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631047995-dm7kql-f2be01fc.jpg"
+        },
+        "type": "damages-1786631047995-dm7kql",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-68c1-7506-bab9-1606c044bf58",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631052919-fkhw88-5568918a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631052919-fkhw88-5568918a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631052919-fkhw88-5568918a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631052919-fkhw88-5568918a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631052919-fkhw88-5568918a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631052919-fkhw88-5568918a.jpg"
+        },
+        "type": "damages-1786631052919-fkhw88",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-6d2b-7997-8336-f1a64baa1604",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631056914-mdmd79-e2b054e1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631056914-mdmd79-e2b054e1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631056914-mdmd79-e2b054e1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631056914-mdmd79-e2b054e1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631056914-mdmd79-e2b054e1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631056914-mdmd79-e2b054e1.jpg"
+        },
+        "type": "damages-1786631056914-mdmd79",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ffb84-71fe-71ac-8814-0935417cd6b0",
+        "filename": "chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631059867-790wy7-c8058d71.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631059867-790wy7-c8058d71.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631059867-790wy7-c8058d71.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631059867-790wy7-c8058d71.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631059867-790wy7-c8058d71.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chery-arrizo-5-1-5-vvt-turbo-iflex-rx-cvt-damages-1786631059867-790wy7-c8058d71.jpg"
+        },
+        "type": "damages-1786631059867-790wy7",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Diesel",
+    "yearModel": 2019,
+    "yearManufacture": 2018,
+    "color": "Preta",
+    "mileage": null,
+    "licensePlate": "P*****0"
+  },
+  "observation": "Riscos e amassados na lataria em geral sem motor . COMPARTIMENTO DO MOTOR DESMONTADO E ARMAZENADO NA MALA, TODA LATARIA COM REPAROS DE MASSA E REPINTURA E VEÍCULO NÃO LIGA DEVIDO VÁRIOS FIOS DESCONECTADOS.*** VIDROS: PARA-BRISA NÃO ORIGINAL.*** QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Diesel"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Preta"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Ausente/faltando peças"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Ausente/Faltando peças"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "Riscos e amassados na lataria em geral sem motor . COMPARTIMENTO DO MOTOR DESMONTADO E ARMAZENADO NA MALA, TODA LATARIA COM REPAROS DE MASSA E REPINTURA E VEÍCULO NÃO LIGA DEVIDO VÁRIOS FIOS DESCONECTADOS.*** VIDROS: PARA-BRISA NÃO ORIGINAL.*** QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não funciona"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "5"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "RESTRIÇÕES: RESTRICAO JUDICIAL: CONSTA  COMPARTIMENTO DO MOTOR DESMONTADO E ARMAZENADO NA MALA, TODA LATARIA COM REPAROS DE MASSA E REPINTURA E VEÍCULO NÃO LIGA DEVIDO VÁRIOS FIOS DESCONECTADOS.*** VIDROS: PARA-BRISA NÃO ORIGINAL.***"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não avaliado"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Anchieta - Porto Alegre - RS",
+      "url": "https://maps.google.com/?q=Rua+Giusepe+Mandeli%2C+265+-+Porto+Alegre%2C+RS"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

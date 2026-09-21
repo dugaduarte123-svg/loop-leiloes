@@ -1,0 +1,1 @@
+export const getIsInForeground = state => state.clientData.isInForeground;

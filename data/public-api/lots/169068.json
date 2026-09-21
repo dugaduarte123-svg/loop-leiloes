@@ -1,0 +1,1238 @@
+{
+  "id": 169068,
+  "number": 103,
+  "description": "FORD KA 1.0 TI-VCT FLEX SE MANUAL 2017/2018",
+  "status": "aberto_para_lance",
+  "classification": 5,
+  "isFinancing": true,
+  "closingDate": "2026-09-22 12:25:00",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60108626,
+    "brand": "FORD",
+    "model": "KA",
+    "version": "1.0 TI-VCT FLEX SE MANUAL",
+    "category": "carros",
+    "fipePrice": 41047,
+    "webmotorsPrice": 44900,
+    "images": [
+      {
+        "uuid": "01a0357b-efac-723f-a547-bed1f8a90192",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-frente-motorista-f0c5ec70.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-frente-motorista-f0c5ec70.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-frente-motorista-f0c5ec70.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-frente-motorista-f0c5ec70.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-frente-motorista-f0c5ec70.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-frente-motorista-f0c5ec70.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0354f-559b-7a59-9173-f42fd8fc0e3f",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-motor-974705be.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-motor-974705be.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-motor-974705be.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-motor-974705be.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-motor-974705be.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-motor-974705be.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-9a70-7cef-8c83-4281ffb61c21",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-malas-8f8f2228.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-malas-8f8f2228.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-malas-8f8f2228.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-malas-8f8f2228.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-malas-8f8f2228.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-malas-8f8f2228.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-9fa4-761b-9394-e854fa3b4406",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-estepe-724d2669.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-estepe-724d2669.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-estepe-724d2669.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-estepe-724d2669.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-estepe-724d2669.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-estepe-724d2669.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-a472-7eb6-9172-dcea05778a00",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-bancos-traseiros-40a10316.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-bancos-traseiros-40a10316.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-bancos-traseiros-40a10316.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-bancos-traseiros-40a10316.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-bancos-traseiros-40a10316.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-bancos-traseiros-40a10316.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-a8d2-789e-92d5-84cc876cb661",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-painel-completo-dc8643d6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-painel-completo-dc8643d6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-painel-completo-dc8643d6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-painel-completo-dc8643d6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-painel-completo-dc8643d6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-painel-completo-dc8643d6.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-bd0d-70ea-a1d9-ba28a0f21ee2",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-passageiro-c0103ee8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-passageiro-c0103ee8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-passageiro-c0103ee8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-passageiro-c0103ee8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-passageiro-c0103ee8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-passageiro-c0103ee8.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-c321-73ce-8cbc-b26caf89bbb7",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-painel-km-b661b2f4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-painel-km-b661b2f4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-painel-km-b661b2f4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-painel-km-b661b2f4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-painel-km-b661b2f4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-painel-km-b661b2f4.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-c8a1-7ae8-a049-a59c37331801",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-cb046fd5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-cb046fd5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-cb046fd5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-cb046fd5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-cb046fd5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-cb046fd5.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-cbe7-7007-9c69-887035a5f1b7",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-6faefd0d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-6faefd0d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-6faefd0d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-6faefd0d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-6faefd0d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-kit-multimidia-6faefd0d.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357b-f464-72f2-bbd3-6dbea6a4ba88",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-motorista-7964c05c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-motorista-7964c05c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-motorista-7964c05c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-motorista-7964c05c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-motorista-7964c05c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-e-interior-motorista-7964c05c.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357b-f93f-7267-904d-f7c7fdf21c1e",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-traseira-motorista-e515a9f2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-traseira-motorista-e515a9f2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-traseira-motorista-e515a9f2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-traseira-motorista-e515a9f2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-traseira-motorista-e515a9f2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-traseira-motorista-e515a9f2.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357b-ff0f-7175-b536-df4699d0d657",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-traseira-passageiro-4fa73c2f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-traseira-passageiro-4fa73c2f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-traseira-passageiro-4fa73c2f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-traseira-passageiro-4fa73c2f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-traseira-passageiro-4fa73c2f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-traseira-passageiro-4fa73c2f.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357c-03be-76b2-861c-33dffc162c70",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-frente-passageiro-00fc7a3a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-frente-passageiro-00fc7a3a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-frente-passageiro-00fc7a3a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-frente-passageiro-00fc7a3a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-frente-passageiro-00fc7a3a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-frente-passageiro-00fc7a3a.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-9031-7483-8b88-ba78737a3a7c",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603059794-8ndsio-1fd77013.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603059794-8ndsio-1fd77013.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603059794-8ndsio-1fd77013.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603059794-8ndsio-1fd77013.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603059794-8ndsio-1fd77013.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603059794-8ndsio-1fd77013.jpg"
+        },
+        "type": "damages-1787603059794-8ndsio",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-94f9-713a-8b28-532987cfe2e2",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603063564-dxh86e-426822ab.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603063564-dxh86e-426822ab.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603063564-dxh86e-426822ab.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603063564-dxh86e-426822ab.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603063564-dxh86e-426822ab.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603063564-dxh86e-426822ab.jpg"
+        },
+        "type": "damages-1787603063564-dxh86e",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-cdc5-76c2-93da-d65bbeddfdef",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-b0e1ac62.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-b0e1ac62.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-b0e1ac62.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-b0e1ac62.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-b0e1ac62.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-b0e1ac62.jpg"
+        },
+        "type": "damages-1787603221245-qyfvjt",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-d0ab-7591-97a2-a7fadbd9c261",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-6660eb06.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-6660eb06.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-6660eb06.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-6660eb06.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-6660eb06.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603221245-qyfvjt-6660eb06.jpg"
+        },
+        "type": "damages-1787603221245-qyfvjt",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-d2b6-7289-b6bb-eee929be6b88",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-ef374e89.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-ef374e89.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-ef374e89.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-ef374e89.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-ef374e89.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-ef374e89.jpg"
+        },
+        "type": "damages-1787603225047-5ybaaq",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-d5b0-7b91-9937-653188b60dab",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-4f14085b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-4f14085b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-4f14085b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-4f14085b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-4f14085b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603225047-5ybaaq-4f14085b.jpg"
+        },
+        "type": "damages-1787603225047-5ybaaq",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-d762-77ed-ae75-8a3454aaddae",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-91c9d5f5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-91c9d5f5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-91c9d5f5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-91c9d5f5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-91c9d5f5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-91c9d5f5.jpg"
+        },
+        "type": "damages-1787603231236-zv280m",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-da6f-77dd-be9e-ce610b9c93ac",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-c270acd8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-c270acd8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-c270acd8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-c270acd8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-c270acd8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603231236-zv280m-c270acd8.jpg"
+        },
+        "type": "damages-1787603231236-zv280m",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-de64-777b-9ed0-a02b95702a1e",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-e973b89d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-e973b89d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-e973b89d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-e973b89d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-e973b89d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-e973b89d.jpg"
+        },
+        "type": "damages-1787603235499-4zrhpv",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-e0b1-7b2a-808f-67a72e9cfeb0",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-68f39f77.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-68f39f77.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-68f39f77.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-68f39f77.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-68f39f77.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603235499-4zrhpv-68f39f77.jpg"
+        },
+        "type": "damages-1787603235499-4zrhpv",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-e3eb-7aab-b054-4299e1de9306",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-bce090f8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-bce090f8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-bce090f8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-bce090f8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-bce090f8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-bce090f8.jpg"
+        },
+        "type": "damages-1787603238969-3271vi",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-e5e5-7b60-b308-f57257c37ef8",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-983acd5e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-983acd5e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-983acd5e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-983acd5e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-983acd5e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603238969-3271vi-983acd5e.jpg"
+        },
+        "type": "damages-1787603238969-3271vi",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-e8a7-7cb4-954d-1a163c0ce047",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-af8da55d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-af8da55d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-af8da55d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-af8da55d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-af8da55d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-af8da55d.jpg"
+        },
+        "type": "damages-1787603243300-wmnq1b",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-eb36-795c-98cc-d8a760b694b1",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-aa23d5ae.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-aa23d5ae.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-aa23d5ae.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-aa23d5ae.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-aa23d5ae.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603243300-wmnq1b-aa23d5ae.jpg"
+        },
+        "type": "damages-1787603243300-wmnq1b",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-ed6b-7358-9a3f-b32791f7a6c1",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-fb667d25.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-fb667d25.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-fb667d25.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-fb667d25.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-fb667d25.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-fb667d25.jpg"
+        },
+        "type": "damages-1787603247016-gmmt3g",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-f0bb-7cbd-8f44-4615241f827f",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-674d0b3e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-674d0b3e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-674d0b3e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-674d0b3e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-674d0b3e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603247016-gmmt3g-674d0b3e.jpg"
+        },
+        "type": "damages-1787603247016-gmmt3g",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-f31b-70cb-994c-4b89d1d5f0cb",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-3331f4ca.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-3331f4ca.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-3331f4ca.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-3331f4ca.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-3331f4ca.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-3331f4ca.jpg"
+        },
+        "type": "damages-1787603251837-nwl448",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-f65f-7d61-b390-6f4388b46ac3",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-f452636b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-f452636b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-f452636b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-f452636b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-f452636b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603251837-nwl448-f452636b.jpg"
+        },
+        "type": "damages-1787603251837-nwl448",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-f860-7306-a8b4-dbe7d83f2f8a",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-04d732b9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-04d732b9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-04d732b9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-04d732b9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-04d732b9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-04d732b9.jpg"
+        },
+        "type": "damages-1787603260830-chi2ro",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-fb05-7953-a182-83880d10fa3f",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-6b656070.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-6b656070.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-6b656070.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-6b656070.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-6b656070.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603260830-chi2ro-6b656070.jpg"
+        },
+        "type": "damages-1787603260830-chi2ro",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03577-fdcd-7eeb-8638-d0c68264be85",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-16e40cba.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-16e40cba.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-16e40cba.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-16e40cba.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-16e40cba.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-16e40cba.jpg"
+        },
+        "type": "damages-1787603266568-ucdwnu",
+        "isPublic": true,
+        "description": "Avarias 12",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03578-0097-79e1-8de8-58311274a1ab",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-c40fe6ec.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-c40fe6ec.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-c40fe6ec.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-c40fe6ec.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-c40fe6ec.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-damages-1787603266568-ucdwnu-c40fe6ec.jpg"
+        },
+        "type": "damages-1787603266568-ucdwnu",
+        "isPublic": true,
+        "description": "Avarias 12",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a03578-02a2-782a-9c7a-c8a3d90bab0a",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-ce63825a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-ce63825a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-ce63825a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-ce63825a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-ce63825a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-ce63825a.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a03578-05d2-7524-95f6-347b9de8a389",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-531e2c9a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-531e2c9a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-531e2c9a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-531e2c9a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-531e2c9a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-esquerdo-531e2c9a.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a03578-0a79-7997-8cc5-aa482781f064",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-esquerdo-1301083c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-esquerdo-1301083c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-esquerdo-1301083c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-esquerdo-1301083c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-esquerdo-1301083c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-esquerdo-1301083c.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-49ef-741e-a63b-7b032733dce7",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-direito-23e240b4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-direito-23e240b4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-direito-23e240b4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-direito-23e240b4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-direito-23e240b4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-pneu-traseiro-direito-23e240b4.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-4fd6-7adb-884a-47adb447a293",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-direito-16e83c23.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-direito-16e83c23.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-direito-16e83c23.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-direito-16e83c23.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-direito-16e83c23.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-pneu-dianteiro-direito-16e83c23.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-54d8-7a21-bb78-8688c7d0c5be",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-capo-f43b6c01.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-capo-f43b6c01.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-capo-f43b6c01.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-capo-f43b6c01.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-capo-f43b6c01.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-capo-f43b6c01.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-5939-7113-8253-3c0fd1bedc1e",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-esquerdo-ccc41ae3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-esquerdo-ccc41ae3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-esquerdo-ccc41ae3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-esquerdo-ccc41ae3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-esquerdo-ccc41ae3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-esquerdo-ccc41ae3.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-5e01-7a57-a660-fc3cd6b01025",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-teto-frente-934fe2da.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-teto-frente-934fe2da.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-teto-frente-934fe2da.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-teto-frente-934fe2da.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-teto-frente-934fe2da.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-teto-frente-934fe2da.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-62db-768d-b57c-e4e097719eac",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-esquerda-3fa41cd9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-esquerda-3fa41cd9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-esquerda-3fa41cd9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-esquerda-3fa41cd9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-esquerda-3fa41cd9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-esquerda-3fa41cd9.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-6736-73d3-9395-27e9b5ba8100",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-esquerda-e014a726.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-esquerda-e014a726.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-esquerda-e014a726.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-esquerda-e014a726.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-esquerda-e014a726.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-esquerda-e014a726.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-6ccf-7885-b599-57c4cb9210fc",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-esquerda-0d48b35c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-esquerda-0d48b35c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-esquerda-0d48b35c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-esquerda-0d48b35c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-esquerda-0d48b35c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-esquerda-0d48b35c.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-70c7-74c8-9ca1-99b444eba208",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-tampa-do-porta-malas-976f6bf6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-tampa-do-porta-malas-976f6bf6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-tampa-do-porta-malas-976f6bf6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-tampa-do-porta-malas-976f6bf6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-tampa-do-porta-malas-976f6bf6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-tampa-do-porta-malas-976f6bf6.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-7a55-7e33-9817-5c7cf17647f8",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-direita-c774c9ee.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-direita-c774c9ee.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-direita-c774c9ee.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-direita-c774c9ee.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-direita-c774c9ee.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-lateral-traseira-direita-c774c9ee.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-7ec3-790c-bf34-2ba8aee35cf6",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-direita-501cfa7c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-direita-501cfa7c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-direita-501cfa7c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-direita-501cfa7c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-direita-501cfa7c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-traseira-direita-501cfa7c.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-8340-71a4-8546-241b5cc7883a",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-a3df5c16.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-a3df5c16.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-a3df5c16.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-a3df5c16.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-a3df5c16.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-a3df5c16.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-837e-7ed2-8471-6bee94b8c271",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-6d722023.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-6d722023.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-6d722023.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-6d722023.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-6d722023.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-porta-dianteira-direita-6d722023.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-882d-7045-9959-2cdc1237c326",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-45d126d5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-45d126d5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-45d126d5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-45d126d5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-45d126d5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-45d126d5.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-883b-7d85-9512-99e5dde786e8",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-c7511760.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-c7511760.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-c7511760.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-c7511760.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-c7511760.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-paralama-dianteiro-direito-c7511760.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-8cf2-74fb-9e10-90e1c9680435",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-362ac64e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-362ac64e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-362ac64e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-362ac64e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-362ac64e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-362ac64e.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a0357a-8d05-7671-9d9e-94e9c66f865c",
+        "filename": "ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-86c8f36f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-86c8f36f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-86c8f36f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-86c8f36f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-86c8f36f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-ka-1-0-ti-vct-flex-se-manual-teto-traseira-86c8f36f.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2018,
+    "yearManufacture": 2017,
+    "color": "Branca",
+    "mileage": 0,
+    "licensePlate": "G*****5"
+  },
+  "observation": "VEÍCULO NÃO FUNCIONA, POSSÍVEL FALTA DE PEÇAS. VEÍCULO POSSUI RISCOS E AMASSADOS LEVES. VEÍCULO NÃO POSSUI BATERIA. VEÍCULO NÃO POSSUI STEP. MOTOR AUSENTE. VEÍCULO COM GRAVAÇÃO DO CÂMBIO OBSTRUÍDO/SEM ACESSO. REGIÃO FRONTAL COM REPAROS. FOLHAS LATERAIS AMASSADAS. PAINEL TRASEIRO E ESTRUTURA INTERNA DIANTEIRA ESQUERDA COM AVARIAS. MOTOR DESMONTADO E GUARDADO NO BANCO. POSSUÍ REGISTRO DE LEILÃO E INDICIO DE SINISTRO | ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "0"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de ferro"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO NÃO FUNCIONA, POSSÍVEL FALTA DE PEÇAS. VEÍCULO POSSUI RISCOS E AMASSADOS LEVES. VEÍCULO NÃO POSSUI BATERIA. VEÍCULO NÃO POSSUI STEP. MOTOR AUSENTE. VEÍCULO COM GRAVAÇÃO DO CÂMBIO OBSTRUÍDO/SEM ACESSO. REGIÃO FRONTAL COM REPAROS. FOLHAS LATERAIS AMASSADAS. PAINEL TRASEIRO E ESTRUTURA INTERNA DIANTEIRA ESQUERDA COM AVARIAS. MOTOR DESMONTADO E GUARDADO NO BANCO. POSSUÍ REGISTRO DE LEILÃO E INDICIO DE SINISTRO | ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Elétrica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Veículo sem bateria"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Aprovado com apontamento"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "5"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "VEÍCULO COM GRAVAÇÃO DO CÂMBIO OBSTRUÍDO/SEM ACESSO. REGIÃO FRONTAL COM REPAROS. FOLHAS LATERAIS AMASSADAS. PAINEL TRASEIRO E ESTRUTURA INTERNA DIANTEIRA ESQUERDA COM AVARIAS. MOTOR DESMONTADO E GUARDADO NO BANCO. POSSUÍ REGISTRO DE LEILÃO E INDICIO DE SINISTRO | ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não avaliado"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Vila Água Funda - São Paulo - SP",
+      "url": "https://maps.google.com/?q=Rua+Alexandre+Aliperti%2C+351+-+S%C3%A3o+Paulo%2C+SP"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

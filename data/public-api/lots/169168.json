@@ -1,0 +1,918 @@
+{
+  "id": 169168,
+  "number": 112,
+  "description": "CHEVROLET ONIX 1.0 MPFI JOY 8V FLEX 4P MANUAL 2017/2017",
+  "status": "aberto_para_lance",
+  "classification": 6,
+  "isFinancing": true,
+  "closingDate": "2026-09-22 12:32:30",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60108461,
+    "brand": "CHEVROLET",
+    "model": "ONIX",
+    "version": "1.0 MPFI JOY 8V FLEX 4P MANUAL",
+    "category": "carros",
+    "fipePrice": 44792,
+    "webmotorsPrice": 47899,
+    "images": [
+      {
+        "uuid": "01a01a3e-0d85-72d7-be7f-bbd1e84af8cd",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-motorista-3e5afe9e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-motorista-3e5afe9e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-motorista-3e5afe9e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-motorista-3e5afe9e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-motorista-3e5afe9e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-motorista-3e5afe9e.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3d-c879-766c-b3b1-cf6c5ff07c8a",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-motor-119cffb2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-motor-119cffb2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-motor-119cffb2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-motor-119cffb2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-motor-119cffb2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-motor-119cffb2.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3d-ed16-7b96-9af0-df2d91d23517",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-estepe-5d1d59f8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-estepe-5d1d59f8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-estepe-5d1d59f8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-estepe-5d1d59f8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-estepe-5d1d59f8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-estepe-5d1d59f8.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3d-f770-7dc6-a956-945a607a2eb7",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-malas-8a075583.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-malas-8a075583.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-malas-8a075583.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-malas-8a075583.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-malas-8a075583.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-malas-8a075583.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3d-ff7f-7041-b9bd-9cefe9abdd8d",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-bancos-traseiros-f51e1b5d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-bancos-traseiros-f51e1b5d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-bancos-traseiros-f51e1b5d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-bancos-traseiros-f51e1b5d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-bancos-traseiros-f51e1b5d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-bancos-traseiros-f51e1b5d.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-0690-73bc-b567-0e83452cfd8b",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-completo-d10634e4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-completo-d10634e4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-completo-d10634e4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-completo-d10634e4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-completo-d10634e4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-completo-d10634e4.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-1ef1-7f11-a437-d143dd2abf08",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-motorista-b79e43c5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-motorista-b79e43c5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-motorista-b79e43c5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-motorista-b79e43c5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-motorista-b79e43c5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-motorista-b79e43c5.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-271f-710d-aaf2-9322a28afd91",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-motorista-251800f0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-motorista-251800f0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-motorista-251800f0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-motorista-251800f0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-motorista-251800f0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-motorista-251800f0.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-2f8f-79ea-9e84-1337674701f4",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-passageiro-77e226bb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-passageiro-77e226bb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-passageiro-77e226bb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-passageiro-77e226bb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-passageiro-77e226bb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-traseira-passageiro-77e226bb.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-364b-7438-998d-75f2f1a7215c",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-passageiro-1375b7b8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-passageiro-1375b7b8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-passageiro-1375b7b8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-passageiro-1375b7b8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-passageiro-1375b7b8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-e-interior-passageiro-1375b7b8.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-3e69-7f06-b38e-75255b81932f",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-passageiro-4b47b562.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-passageiro-4b47b562.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-passageiro-4b47b562.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-passageiro-4b47b562.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-passageiro-4b47b562.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-frente-passageiro-4b47b562.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-e784-7574-83eb-022536da442d",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-km-9ae99322.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-km-9ae99322.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-km-9ae99322.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-km-9ae99322.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-km-9ae99322.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-painel-km-9ae99322.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-ed9d-7e09-b56e-615858d01781",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-kit-multimidia-214206f9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-kit-multimidia-214206f9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-kit-multimidia-214206f9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-kit-multimidia-214206f9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-kit-multimidia-214206f9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-kit-multimidia-214206f9.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-4580-7398-bc87-4c0f853b5863",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-capo-7e173b58.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-capo-7e173b58.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-capo-7e173b58.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-capo-7e173b58.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-capo-7e173b58.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-capo-7e173b58.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-4e25-79d0-aa73-3a43806ecd23",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-esquerdo-9fc6c07c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-esquerdo-9fc6c07c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-esquerdo-9fc6c07c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-esquerdo-9fc6c07c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-esquerdo-9fc6c07c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-esquerdo-9fc6c07c.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-5515-7b74-b937-9b2d2134e660",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-esquerda-38cea109.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-esquerda-38cea109.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-esquerda-38cea109.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-esquerda-38cea109.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-esquerda-38cea109.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-esquerda-38cea109.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-5a55-74b2-8ff6-3ddc04b62b5f",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-esquerda-10d17931.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-esquerda-10d17931.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-esquerda-10d17931.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-esquerda-10d17931.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-esquerda-10d17931.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-esquerda-10d17931.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-620b-7cb5-822b-0c031082f417",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-esquerda-c16ec645.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-esquerda-c16ec645.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-esquerda-c16ec645.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-esquerda-c16ec645.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-esquerda-c16ec645.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-esquerda-c16ec645.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-6d31-797c-b6b6-dedb1ec8ba89",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-tampa-do-porta-malas-d4158566.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-tampa-do-porta-malas-d4158566.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-tampa-do-porta-malas-d4158566.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-tampa-do-porta-malas-d4158566.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-tampa-do-porta-malas-d4158566.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-tampa-do-porta-malas-d4158566.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-7374-7859-878c-95c6beec8ea0",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-direita-97194534.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-direita-97194534.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-direita-97194534.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-direita-97194534.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-direita-97194534.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-lateral-traseira-direita-97194534.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-7870-79cf-84ee-f9535d7f471b",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-direita-268fe3dc.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-direita-268fe3dc.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-direita-268fe3dc.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-direita-268fe3dc.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-direita-268fe3dc.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-traseira-direita-268fe3dc.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-7ed2-79ac-b8b6-6e4e0b171976",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-direita-9443d8b2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-direita-9443d8b2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-direita-9443d8b2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-direita-9443d8b2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-direita-9443d8b2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-porta-dianteira-direita-9443d8b2.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-8746-7d82-956a-aaca33fed8bc",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-direito-32a5c415.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-direito-32a5c415.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-direito-32a5c415.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-direito-32a5c415.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-direito-32a5c415.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-paralama-dianteiro-direito-32a5c415.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-9069-7d60-bff4-5e6f85fa9238",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-frente-9c64bcc7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-frente-9c64bcc7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-frente-9c64bcc7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-frente-9c64bcc7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-frente-9c64bcc7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-frente-9c64bcc7.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-9743-7e46-99fa-d7d192f85599",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-traseira-0cc10d04.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-traseira-0cc10d04.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-traseira-0cc10d04.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-traseira-0cc10d04.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-traseira-0cc10d04.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-teto-traseira-0cc10d04.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-9f79-72b2-af20-66e0e3de5f64",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-esquerdo-497271ef.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-esquerdo-497271ef.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-esquerdo-497271ef.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-esquerdo-497271ef.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-esquerdo-497271ef.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-esquerdo-497271ef.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-a8d9-779f-8c53-b75d024cecd6",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-esquerdo-22a49ec3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-esquerdo-22a49ec3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-esquerdo-22a49ec3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-esquerdo-22a49ec3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-esquerdo-22a49ec3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-esquerdo-22a49ec3.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-b3cf-72ed-8cd8-fa5ebdded3b5",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-direito-b2f1ce90.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-direito-b2f1ce90.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-direito-b2f1ce90.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-direito-b2f1ce90.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-direito-b2f1ce90.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-traseiro-direito-b2f1ce90.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-bb42-7d34-90df-e68571af27b5",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-direito-7a0d2b73.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-direito-7a0d2b73.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-direito-7a0d2b73.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-direito-7a0d2b73.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-direito-7a0d2b73.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-pneu-dianteiro-direito-7a0d2b73.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-c2c8-72cb-ad74-3610438a3709",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146297738-ljjoi3-c8342eb4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146297738-ljjoi3-c8342eb4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146297738-ljjoi3-c8342eb4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146297738-ljjoi3-c8342eb4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146297738-ljjoi3-c8342eb4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146297738-ljjoi3-c8342eb4.jpg"
+        },
+        "type": "damages-1787146297738-ljjoi3",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-c805-7b94-a679-472c5b3d9c79",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146309596-ybkl8z-39246d75.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146309596-ybkl8z-39246d75.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146309596-ybkl8z-39246d75.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146309596-ybkl8z-39246d75.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146309596-ybkl8z-39246d75.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146309596-ybkl8z-39246d75.jpg"
+        },
+        "type": "damages-1787146309596-ybkl8z",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-ce04-74c3-96e3-7e9dd2bea44a",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146313710-dx69nz-cb1f143c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146313710-dx69nz-cb1f143c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146313710-dx69nz-cb1f143c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146313710-dx69nz-cb1f143c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146313710-dx69nz-cb1f143c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146313710-dx69nz-cb1f143c.jpg"
+        },
+        "type": "damages-1787146313710-dx69nz",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-d283-7d6c-969c-fffb12ce5dab",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146318432-ymai6b-f5794971.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146318432-ymai6b-f5794971.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146318432-ymai6b-f5794971.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146318432-ymai6b-f5794971.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146318432-ymai6b-f5794971.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146318432-ymai6b-f5794971.jpg"
+        },
+        "type": "damages-1787146318432-ymai6b",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-d8e2-7262-a6fc-2462ca5ea0b4",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146326303-n7s94q-068a2cd8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146326303-n7s94q-068a2cd8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146326303-n7s94q-068a2cd8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146326303-n7s94q-068a2cd8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146326303-n7s94q-068a2cd8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146326303-n7s94q-068a2cd8.jpg"
+        },
+        "type": "damages-1787146326303-n7s94q",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3e-de68-7d17-a389-6a3198b87790",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146329696-3ccyyu-e364b6fc.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146329696-3ccyyu-e364b6fc.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146329696-3ccyyu-e364b6fc.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146329696-3ccyyu-e364b6fc.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146329696-3ccyyu-e364b6fc.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146329696-3ccyyu-e364b6fc.jpg"
+        },
+        "type": "damages-1787146329696-3ccyyu",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a01a3f-4bdc-77b9-b3a4-11dbb2685d82",
+        "filename": "chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146647384-2ic0gx-023f68b3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146647384-2ic0gx-023f68b3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146647384-2ic0gx-023f68b3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146647384-2ic0gx-023f68b3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146647384-2ic0gx-023f68b3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-onix-1-0-mpfi-joy-8v-flex-4p-manual-damages-1787146647384-2ic0gx-023f68b3.jpg"
+        },
+        "type": "damages-1787146647384-2ic0gx",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2017,
+    "yearManufacture": 2017,
+    "color": "Branca",
+    "mileage": 119856,
+    "licensePlate": "I*****5"
+  },
+  "observation": "Riscos e amassados na lataria em geral porta-malas não abre chave não liga o carro o carro liga só  fazendo ligação direta  NÚMERO CHASSI ESTADO INICIAL DE CORROSÃO, AIR BAG NAO AVALIADO, ASSOALHO CENTRAL ESQUERDO DANIFICADO(A), CAIXA DE RODA DIANTEIRA ESQUERDA DANIFICADO(A), LONGARINA DIANTEIRA ESQUERDA DANIFICADO(A), LONGARINAS TRASEIRAS (DIR/ESQ) DANIFICADO ENGATE FIXADO, PAINEL TRASEIRO DANIFICADO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "119856"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "Riscos e amassados na lataria em geral porta-malas não abre chave não liga o carro o carro liga só  fazendo ligação direta  NÚMERO CHASSI ESTADO INICIAL DE CORROSÃO, AIR BAG NAO AVALIADO, ASSOALHO CENTRAL ESQUERDO DANIFICADO(A), CAIXA DE RODA DIANTEIRA ESQUERDA DANIFICADO(A), LONGARINA DIANTEIRA ESQUERDA DANIFICADO(A), LONGARINAS TRASEIRAS (DIR/ESQ) DANIFICADO ENGATE FIXADO, PAINEL TRASEIRO DANIFICADO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Elétrica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, com carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "6"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "NÚMERO CHASSI ESTADO INICIAL DE CORROSÃO, AIR BAG NAO AVALIADO, ASSOALHO CENTRAL ESQUERDO DANIFICADO(A), CAIXA DE RODA DIANTEIRA ESQUERDA DANIFICADO(A), LONGARINA DIANTEIRA ESQUERDA DANIFICADO(A), LONGARINAS TRASEIRAS (DIR/ESQ) DANIFICADO ENGATE FIXADO, PAINEL TRASEIRO DANIFICADO"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Anchieta - Porto Alegre - RS",
+      "url": "https://maps.google.com/?q=Rua+Giusepe+Mandeli%2C+265+-+Porto+Alegre%2C+RS"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

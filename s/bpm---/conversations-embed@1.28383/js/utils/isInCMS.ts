@@ -1,0 +1,1 @@
+export const isInCMS = () => window.hsVars !== undefined;

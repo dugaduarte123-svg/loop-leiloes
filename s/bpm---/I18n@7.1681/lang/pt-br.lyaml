@@ -1,0 +1,3 @@
+export const visit = (vm, at) => {
+at({ "pt-br": { "i18n": { "duration": { "seconds": "{{ seconds }} s", "minutes": "{{ minutes }} m", "hours": "{{ hours }} h", "hoursAndMinutes": "{{ hours }} h {{ minutes }} m", "days": { "one": "{{ count }} dia", "other": "{{ count }} dias", "many": "{{ count }} de dias" }, "shortForm": { "seconds": "{{ seconds }}s", "minutes": "{{ minutes }}m", "hours": "{{ hours }}h", "days": "{{ days }}d", "hoursAndMinutes": "{{ hours }}h {{ minutes }}m" } }, "dateTime": { "quarterAndYear": "T{{quarterNumber}} {{yearNumber}}" }, "numberRepresentation": { "fraction": "{{ numerator }}/{{ denominator }}", "numberWithCurrencyCode": "{{currencyCode}} {{amountNumberValue}}", "phoneNumberWithExtension": "{{phoneNumber}}, ramal {{extension}}" } } } });
+};

@@ -1,0 +1,5 @@
+export const HS_EMAIL_ADDRESS = 'HS_EMAIL_ADDRESS';
+export const HS_PHONE_NUMBER = 'HS_PHONE_NUMBER';
+export const HS_SHORT_CODE = 'HS_SHORT_CODE';
+export const CHANNEL_SPECIFIC_OPAQUE_ID = 'CHANNEL_SPECIFIC_OPAQUE_ID';
+export const EMAIL = 'email';

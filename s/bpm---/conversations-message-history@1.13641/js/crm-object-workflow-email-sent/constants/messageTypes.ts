@@ -1,0 +1,2 @@
+export const CRM_OBJECT_WORKFLOW_EMAIL_SENT = 'CRM_OBJECT_WORKFLOW_EMAIL_SENT';
+export const MESSAGE_TYPE_ID = '@type';

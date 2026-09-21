@@ -1,0 +1,1 @@
+export const FILTERED_CHANGE = 'FILTERED_CHANGE';

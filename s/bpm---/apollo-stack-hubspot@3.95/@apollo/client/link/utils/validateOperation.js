@@ -1,0 +1,15 @@
+"use es6";
+
+import {
+    newInvariantError
+} from "apollo-stack-hubspot/@apollo/client/utilities/globals/index";
+export function validateOperation(operation) {
+    var OPERATION_FIELDS = ["query", "operationName", "variables", "extensions", "context"];
+    for (var _i = 0, _a = Object.keys(operation); _i < _a.length; _i++) {
+        var key = _a[_i];
+        if (OPERATION_FIELDS.indexOf(key) < 0) {
+            throw newInvariantError(44, key);
+        }
+    }
+    return operation;
+}

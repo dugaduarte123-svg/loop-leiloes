@@ -1,0 +1,9 @@
+export const ACTIVE = 'hs-messages-widget-open';
+export const MOBILE = 'hs-messages-mobile';
+export const SHADOW_CONTAINER = 'hs-shadow-container';
+export const INTERNAL = 'internal';
+export const ALIGNED_LEFT_CLASS = 'widget-align-left';
+export const ALIGNED_RIGHT_CLASS = 'widget-align-right';
+export const WIDGET_HIDE_ON_PRINT = 'hs-widget-hide-on-print';
+export const ALIGNED_CENTER_CLASS = 'widget-align-center';
+export const LIGHTBOX_EXPANDED = 'hs-messages-lightbox-expanded';

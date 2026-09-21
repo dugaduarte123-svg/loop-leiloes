@@ -1,0 +1,2 @@
+import { DETACHED_WINDOW_QUERY_PARAM } from 'conversations-visitor-experience-components/contexts/DetachedWindowContext';
+export const isDetachedWindow = () => new URLSearchParams(window.location.search).get(DETACHED_WINDOW_QUERY_PARAM) === 'true';

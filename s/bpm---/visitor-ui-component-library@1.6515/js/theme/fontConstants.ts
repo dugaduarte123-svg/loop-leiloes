@@ -1,0 +1,2 @@
+export const DEFAULT_FONT_FAMILY = 'Helvetica, Arial, sans-serif';
+export const SYSTEM_UI_FONT_FAMILY = 'system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';

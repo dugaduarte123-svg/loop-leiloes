@@ -1,0 +1,1 @@
+export const parseStringBoolean = (stringBoolean, truthyBoolean = 'true') => !!stringBoolean && truthyBoolean.includes(stringBoolean);

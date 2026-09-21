@@ -1,0 +1,6 @@
+export const VISITOR_SENDER = 'VISITOR_SENDER';
+export const AGENT_SENDER = 'AGENT_SENDER';
+export const BOT_SENDER = 'BOT_SENDER';
+export const SYSTEM_SENDER = 'SYSTEM_SENDER';
+export const VID_SENDER = 'VID_SENDER';
+export const INTEGRATOR_SENDER = 'INTEGRATOR_SENDER';

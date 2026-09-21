@@ -1,0 +1,934 @@
+{
+  "id": 168830,
+  "number": 27,
+  "description": "FORD FIESTA 1.6 TITANIUM SEDAN 16V FLEX 4P POWERSHIFT 2014/2014",
+  "status": "aberto_para_lance",
+  "classification": 3,
+  "isFinancing": false,
+  "closingDate": "2026-09-22 11:21:40",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60109123,
+    "brand": "FORD",
+    "model": "FIESTA",
+    "version": "1.6 TITANIUM SEDAN 16V FLEX 4P POWERSHIFT",
+    "category": "carros",
+    "fipePrice": 41428,
+    "webmotorsPrice": 41900,
+    "images": [
+      {
+        "uuid": "01a0a534-2c8e-7dc8-ad41-bd8444987264",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-motorista-103cb75e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-motorista-103cb75e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-motorista-103cb75e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-motorista-103cb75e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-motorista-103cb75e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-motorista-103cb75e.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a51c-fbb4-7a6a-82dd-70c74b8e8ecd",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-km-b57561cb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-km-b57561cb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-km-b57561cb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-km-b57561cb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-km-b57561cb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-km-b57561cb.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-bb71-79bb-8e28-6bbe5ae3e6db",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-kit-multimidia-64305735.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-kit-multimidia-64305735.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-kit-multimidia-64305735.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-kit-multimidia-64305735.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-kit-multimidia-64305735.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-kit-multimidia-64305735.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-c038-7e1e-83bf-e4e4c9ac394e",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-motorista-0b3fbad9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-motorista-0b3fbad9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-motorista-0b3fbad9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-motorista-0b3fbad9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-motorista-0b3fbad9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-motorista-0b3fbad9.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-c4d1-7ee1-b7c0-975a8a4644aa",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-bancos-traseiros-af3f74e7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-bancos-traseiros-af3f74e7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-bancos-traseiros-af3f74e7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-bancos-traseiros-af3f74e7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-bancos-traseiros-af3f74e7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-bancos-traseiros-af3f74e7.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-c9ea-7477-a049-bad6789612b4",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-completo-5a5ec8a1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-completo-5a5ec8a1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-completo-5a5ec8a1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-completo-5a5ec8a1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-completo-5a5ec8a1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-painel-completo-5a5ec8a1.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-ced8-7ed4-83de-951645628e2b",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-malas-51eceec9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-malas-51eceec9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-malas-51eceec9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-malas-51eceec9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-malas-51eceec9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-malas-51eceec9.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-d398-772d-aa36-d9d25ff026db",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-estepe-cadf38dd.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-estepe-cadf38dd.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-estepe-cadf38dd.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-estepe-cadf38dd.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-estepe-cadf38dd.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-estepe-cadf38dd.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-d86a-73a2-9e0d-995369063e67",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-passageiro-5dabaab3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-passageiro-5dabaab3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-passageiro-5dabaab3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-passageiro-5dabaab3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-passageiro-5dabaab3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-e-interior-passageiro-5dabaab3.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-ddd6-76cb-8a7d-def583129053",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-motor-591c7e37.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-motor-591c7e37.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-motor-591c7e37.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-motor-591c7e37.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-motor-591c7e37.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-motor-591c7e37.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a534-31fc-7d0a-95b3-af00ee7ceddb",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-passageiro-d24420b9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-passageiro-d24420b9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-passageiro-d24420b9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-passageiro-d24420b9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-passageiro-d24420b9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-frente-passageiro-d24420b9.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a534-3b64-7522-a1f5-5b2c603d6084",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-passageiro-1faf8a51.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-passageiro-1faf8a51.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-passageiro-1faf8a51.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-passageiro-1faf8a51.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-passageiro-1faf8a51.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-passageiro-1faf8a51.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a534-4045-78ab-89ea-d52d9cdf89b9",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-motorista-f804b841.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-motorista-f804b841.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-motorista-f804b841.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-motorista-f804b841.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-motorista-f804b841.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-traseira-motorista-f804b841.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a0a533-e24c-7410-ad06-3f9ef6340798",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-capo-41cb95c0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-capo-41cb95c0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-capo-41cb95c0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-capo-41cb95c0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-capo-41cb95c0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-capo-41cb95c0.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a533-e6e8-7d79-aeba-e295c500f63e",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-esquerdo-16f0b748.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-esquerdo-16f0b748.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-esquerdo-16f0b748.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-esquerdo-16f0b748.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-esquerdo-16f0b748.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-esquerdo-16f0b748.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a533-eb7c-7671-9690-370ef40d1f94",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-esquerda-5ca9ed73.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-esquerda-5ca9ed73.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-esquerda-5ca9ed73.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-esquerda-5ca9ed73.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-esquerda-5ca9ed73.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-esquerda-5ca9ed73.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a533-efd1-773a-9ba3-94295f0ee5b7",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-esquerda-ea1dbc46.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-esquerda-ea1dbc46.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-esquerda-ea1dbc46.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-esquerda-ea1dbc46.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-esquerda-ea1dbc46.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-esquerda-ea1dbc46.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a533-f4a0-71b0-b355-878d8acf8309",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-esquerda-a7be0cb2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-esquerda-a7be0cb2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-esquerda-a7be0cb2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-esquerda-a7be0cb2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-esquerda-a7be0cb2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-esquerda-a7be0cb2.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a533-f8cb-7d18-b96a-3413ddce72d2",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-tampa-do-porta-malas-3507ec9d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-tampa-do-porta-malas-3507ec9d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-tampa-do-porta-malas-3507ec9d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-tampa-do-porta-malas-3507ec9d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-tampa-do-porta-malas-3507ec9d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-tampa-do-porta-malas-3507ec9d.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a533-fd7a-7afd-864e-9883155e77f1",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-direita-2aaaf124.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-direita-2aaaf124.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-direita-2aaaf124.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-direita-2aaaf124.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-direita-2aaaf124.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-lateral-traseira-direita-2aaaf124.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-01dc-7493-a768-aba6566f054b",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-direita-7e1f816e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-direita-7e1f816e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-direita-7e1f816e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-direita-7e1f816e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-direita-7e1f816e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-traseira-direita-7e1f816e.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-05fc-7897-80d1-e3379f306b8b",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-direita-c1113117.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-direita-c1113117.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-direita-c1113117.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-direita-c1113117.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-direita-c1113117.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-porta-dianteira-direita-c1113117.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-0a37-7d84-b058-d149a60bb49e",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-direito-a46b91cd.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-direito-a46b91cd.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-direito-a46b91cd.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-direito-a46b91cd.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-direito-a46b91cd.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-paralama-dianteiro-direito-a46b91cd.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-0e8c-762f-b2a7-03abef8c16a4",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-frente-c8f9c0b0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-frente-c8f9c0b0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-frente-c8f9c0b0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-frente-c8f9c0b0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-frente-c8f9c0b0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-frente-c8f9c0b0.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-133a-758d-bfd8-28f69ea7e3ce",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-traseira-67c55dd1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-traseira-67c55dd1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-traseira-67c55dd1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-traseira-67c55dd1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-traseira-67c55dd1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-teto-traseira-67c55dd1.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-1857-7b5c-96a4-73ccdf9324ad",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-direito-2db75355.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-direito-2db75355.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-direito-2db75355.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-direito-2db75355.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-direito-2db75355.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-direito-2db75355.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-1d78-7de0-8e89-e88ba39f9d05",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-direito-a45092bf.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-direito-a45092bf.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-direito-a45092bf.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-direito-a45092bf.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-direito-a45092bf.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-direito-a45092bf.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-22bc-7a52-85ea-ba8a163ca1dc",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-esquerdo-24b9a70c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-esquerdo-24b9a70c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-esquerdo-24b9a70c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-esquerdo-24b9a70c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-esquerdo-24b9a70c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-traseiro-esquerdo-24b9a70c.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-2765-7d68-830e-310e2dfada39",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-esquerdo-2525c405.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-esquerdo-2525c405.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-esquerdo-2525c405.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-esquerdo-2525c405.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-esquerdo-2525c405.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-pneu-dianteiro-esquerdo-2525c405.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-d6c7-75a5-9ae7-77d4cbd68e16",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478046763-klsjvw-527a9155.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478046763-klsjvw-527a9155.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478046763-klsjvw-527a9155.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478046763-klsjvw-527a9155.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478046763-klsjvw-527a9155.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478046763-klsjvw-527a9155.jpg"
+        },
+        "type": "damages-1789478046763-klsjvw",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-db17-7470-988d-f8fff5a8b217",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478051679-4xbbo8-1217c6dd.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478051679-4xbbo8-1217c6dd.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478051679-4xbbo8-1217c6dd.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478051679-4xbbo8-1217c6dd.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478051679-4xbbo8-1217c6dd.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478051679-4xbbo8-1217c6dd.jpg"
+        },
+        "type": "damages-1789478051679-4xbbo8",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-df8b-7b27-b781-fafd42e7c5c8",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478057645-re5lrv-dbc7f55d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478057645-re5lrv-dbc7f55d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478057645-re5lrv-dbc7f55d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478057645-re5lrv-dbc7f55d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478057645-re5lrv-dbc7f55d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478057645-re5lrv-dbc7f55d.jpg"
+        },
+        "type": "damages-1789478057645-re5lrv",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-e56a-7c6b-b8ac-c0a29e1d08a1",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478063668-x2p319-9b54fd42.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478063668-x2p319-9b54fd42.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478063668-x2p319-9b54fd42.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478063668-x2p319-9b54fd42.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478063668-x2p319-9b54fd42.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478063668-x2p319-9b54fd42.jpg"
+        },
+        "type": "damages-1789478063668-x2p319",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-e9e6-7c5a-a8b0-1cebca4775d9",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478071168-a52avd-abf16e60.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478071168-a52avd-abf16e60.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478071168-a52avd-abf16e60.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478071168-a52avd-abf16e60.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478071168-a52avd-abf16e60.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478071168-a52avd-abf16e60.jpg"
+        },
+        "type": "damages-1789478071168-a52avd",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-ee76-7796-81a7-ed330b185abb",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478078655-hvdy4v-f613ec34.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478078655-hvdy4v-f613ec34.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478078655-hvdy4v-f613ec34.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478078655-hvdy4v-f613ec34.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478078655-hvdy4v-f613ec34.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478078655-hvdy4v-f613ec34.jpg"
+        },
+        "type": "damages-1789478078655-hvdy4v",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-f2a8-76c4-880a-8a5e78793ba3",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478083347-hihc14-fdea1bbe.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478083347-hihc14-fdea1bbe.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478083347-hihc14-fdea1bbe.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478083347-hihc14-fdea1bbe.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478083347-hihc14-fdea1bbe.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478083347-hihc14-fdea1bbe.jpg"
+        },
+        "type": "damages-1789478083347-hihc14",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": []
+      },
+      {
+        "uuid": "01a0a534-f760-7dfe-bb76-c9d564e725b0",
+        "filename": "ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478087088-6gb1rk-37b56859.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478087088-6gb1rk-37b56859.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478087088-6gb1rk-37b56859.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478087088-6gb1rk-37b56859.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478087088-6gb1rk-37b56859.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/ford-fiesta-1-6-titanium-sedan-16v-flex-4p-powershift-damages-1789478087088-6gb1rk-37b56859.jpg"
+        },
+        "type": "damages-1789478087088-6gb1rk",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": []
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2014,
+    "yearManufacture": 2014,
+    "color": "Preta",
+    "mileage": 176781,
+    "licensePlate": "F*****0"
+  },
+  "observation": "VEÍCULO NÃO FUNCIONA.  PINTURA COM RISCOS. SEM BATERIA.  VEÍCULO VISTORIADO APRESENTA: PARABRISA NÃO ORIGINAL, PAINEL TRASEIRO AMASSADO, LONGARINA TRASEIRA DIREITA AMASSADA, PAINEL DIANTEIRO AMASSADO, PARALAMA DIANTEIRO DIREITO AMASSADO, LONGARINA DIANTEIRA DIREITA AVARIADA. NUMERAÇÃO DO CÂMBIO AUSENTE, CASO NECESSITE DE REGULARIZAÇÃO SERÁ POR CONTA DO FUTURO COMPRADOR QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Preta"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "176781"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de ferro"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO NÃO FUNCIONA.  PINTURA COM RISCOS. SEM BATERIA.  VEÍCULO VISTORIADO APRESENTA: PARABRISA NÃO ORIGINAL, PAINEL TRASEIRO AMASSADO, LONGARINA TRASEIRA DIREITA AMASSADA, PAINEL DIANTEIRO AMASSADO, PARALAMA DIANTEIRO DIREITO AMASSADO, LONGARINA DIANTEIRA DIREITA AVARIADA. NUMERAÇÃO DO CÂMBIO AUSENTE, CASO NECESSITE DE REGULARIZAÇÃO SERÁ POR CONTA DO FUTURO COMPRADOR QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Direção",
+      "type": "optional",
+      "description": "Direção Elétrica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Veículo sem bateria"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "3"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "VEÍCULO VISTORIADO APRESENTA: PARABRISA NÃO ORIGINAL, PAINEL TRASEIRO AMASSADO, LONGARINA TRASEIRA DIREITA AMASSADA, PAINEL DIANTEIRO AMASSADO, PARALAMA DIANTEIRO DIREITO AMASSADO, LONGARINA DIANTEIRA DIREITA AVARIADA. NUMERAÇÃO DO CÂMBIO AUSENTE, CASO NECESSITE DE REGULARIZAÇÃO SERÁ POR CONTA DO FUTURO COMPRADOR"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Vila Brás Cubas - Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

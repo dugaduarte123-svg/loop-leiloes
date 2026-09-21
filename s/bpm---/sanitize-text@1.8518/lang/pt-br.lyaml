@@ -1,0 +1,3 @@
+export const visit = (vm, at) => {
+at({ "pt-br": { "sanitizedEmail": { "imageError": "Esta imagem \xE9 muito grande para ser exibida.", "expandEmailButtonText": "Expandir", "collapseEmailButtonText": "Recolher", "hideEmailRepliesButtonText": "Ocultar conte\xFAdo cortado", "showEmailRepliesButtonText": "Ver conte\xFAdo cortado" } } });
+};

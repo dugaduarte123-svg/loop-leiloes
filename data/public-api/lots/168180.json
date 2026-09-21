@@ -1,0 +1,998 @@
+{
+  "id": 168180,
+  "number": 68,
+  "description": "CHEVROLET PRISMA 1.4 MPFI LT 8V FLEX 4P AUTOMÁTICO 2013/2014",
+  "status": "condicional",
+  "classification": 6,
+  "isFinancing": false,
+  "closingDate": "2026-09-19 11:43:59",
+  "auction": {
+    "id": 2743,
+    "description": "EXCLUSIVO LIMPA PÁTIO",
+    "currentLot": 168366,
+    "commission": 5,
+    "type": "online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60103775,
+    "brand": "CHEVROLET",
+    "model": "PRISMA",
+    "version": "1.4 MPFI LT 8V FLEX 4P AUTOMÁTICO",
+    "category": "carros",
+    "fipePrice": 50452,
+    "webmotorsPrice": 49900,
+    "images": [
+      {
+        "uuid": "019f1ec6-f4a9-7e81-a534-09380d517edc",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-motorista-b5ac8e49.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-motorista-b5ac8e49.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-motorista-b5ac8e49.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-motorista-b5ac8e49.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-motorista-b5ac8e49.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-motorista-b5ac8e49.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-8faf-72f5-9618-b61c28d3acca",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-motor-60143062.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-motor-60143062.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-motor-60143062.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-motor-60143062.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-motor-60143062.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-motor-60143062.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-9872-7402-9dbe-089be1f91582",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-passageiro-31fd493b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-passageiro-31fd493b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-passageiro-31fd493b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-passageiro-31fd493b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-passageiro-31fd493b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-passageiro-31fd493b.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-a34e-73eb-8457-be0363203577",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-malas-f7b3ba2c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-malas-f7b3ba2c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-malas-f7b3ba2c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-malas-f7b3ba2c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-malas-f7b3ba2c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-malas-f7b3ba2c.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-a9c2-7905-abff-8e71aac5f6c1",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-estepe-b572d90c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-estepe-b572d90c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-estepe-b572d90c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-estepe-b572d90c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-estepe-b572d90c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-estepe-b572d90c.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-b9f4-7b91-a5ca-ba39cccfe29c",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-bancos-traseiros-27411503.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-bancos-traseiros-27411503.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-bancos-traseiros-27411503.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-bancos-traseiros-27411503.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-bancos-traseiros-27411503.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-bancos-traseiros-27411503.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-c09e-73ba-b2e4-c432f39c07ad",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-motorista-d5ddbe6f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-motorista-d5ddbe6f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-motorista-d5ddbe6f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-motorista-d5ddbe6f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-motorista-d5ddbe6f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-e-interior-motorista-d5ddbe6f.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-c8cd-7d15-a7dc-bec24d193e49",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-km-3f72f743.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-km-3f72f743.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-km-3f72f743.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-km-3f72f743.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-km-3f72f743.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-km-3f72f743.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-d146-7b4f-bebd-7243a9f951e0",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-kit-multimidia-77d51e2b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-kit-multimidia-77d51e2b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-kit-multimidia-77d51e2b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-kit-multimidia-77d51e2b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-kit-multimidia-77d51e2b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-kit-multimidia-77d51e2b.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-db34-7a34-9fdd-91f996743e15",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-completo-6630ee1d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-completo-6630ee1d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-completo-6630ee1d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-completo-6630ee1d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-completo-6630ee1d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-painel-completo-6630ee1d.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec6-fd47-7472-9b4f-be739efe3834",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-passageiro-18fe684d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-passageiro-18fe684d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-passageiro-18fe684d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-passageiro-18fe684d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-passageiro-18fe684d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-frente-passageiro-18fe684d.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-0615-7876-9275-3be907da33e6",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-passageiro-0a95709a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-passageiro-0a95709a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-passageiro-0a95709a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-passageiro-0a95709a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-passageiro-0a95709a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-passageiro-0a95709a.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-0dea-7b0a-be1d-024a42201d5c",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-motorista-91c756d9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-motorista-91c756d9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-motorista-91c756d9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-motorista-91c756d9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-motorista-91c756d9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-traseira-motorista-91c756d9.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-1314-77c7-97dd-a0b66fec7752",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-capo-2f19851f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-capo-2f19851f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-capo-2f19851f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-capo-2f19851f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-capo-2f19851f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-capo-2f19851f.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-1880-7e14-86ea-d4bf6e80331a",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-esquerdo-7251d2c7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-esquerdo-7251d2c7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-esquerdo-7251d2c7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-esquerdo-7251d2c7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-esquerdo-7251d2c7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-esquerdo-7251d2c7.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-1f03-7570-9cd6-52ca987bf955",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-esquerda-4549cf34.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-esquerda-4549cf34.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-esquerda-4549cf34.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-esquerda-4549cf34.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-esquerda-4549cf34.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-esquerda-4549cf34.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-2542-782c-af45-4318dc69817a",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-esquerda-0b31d6b9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-esquerda-0b31d6b9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-esquerda-0b31d6b9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-esquerda-0b31d6b9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-esquerda-0b31d6b9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-esquerda-0b31d6b9.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-2b64-73a9-9bd6-3cf1b1968cfd",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-esquerda-e777ea0b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-esquerda-e777ea0b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-esquerda-e777ea0b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-esquerda-e777ea0b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-esquerda-e777ea0b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-esquerda-e777ea0b.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-335d-7b46-a50d-3f6fbc0529dd",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-tampa-do-porta-malas-dc99d68a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-tampa-do-porta-malas-dc99d68a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-tampa-do-porta-malas-dc99d68a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-tampa-do-porta-malas-dc99d68a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-tampa-do-porta-malas-dc99d68a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-tampa-do-porta-malas-dc99d68a.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-3965-75ba-9540-e3c1eba30b50",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-direita-37165044.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-direita-37165044.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-direita-37165044.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-direita-37165044.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-direita-37165044.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-lateral-traseira-direita-37165044.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-3f51-7b63-9f89-f9013478df7e",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-direita-3d88ce2f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-direita-3d88ce2f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-direita-3d88ce2f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-direita-3d88ce2f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-direita-3d88ce2f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-traseira-direita-3d88ce2f.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-4596-7e67-96e9-10ae7dfaf2fd",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-direita-d9e0a417.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-direita-d9e0a417.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-direita-d9e0a417.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-direita-d9e0a417.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-direita-d9e0a417.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-porta-dianteira-direita-d9e0a417.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-4c26-7567-853a-a80b16b27307",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-direito-714e0c85.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-direito-714e0c85.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-direito-714e0c85.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-direito-714e0c85.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-direito-714e0c85.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-paralama-dianteiro-direito-714e0c85.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-5136-7eef-9af0-a10b9edab426",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-frente-a14035c9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-frente-a14035c9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-frente-a14035c9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-frente-a14035c9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-frente-a14035c9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-frente-a14035c9.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-5642-720e-8fee-d43166df461c",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-traseira-bb84e97e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-traseira-bb84e97e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-traseira-bb84e97e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-traseira-bb84e97e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-traseira-bb84e97e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-teto-traseira-bb84e97e.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-5e04-7252-abf8-49c3d0f1ebb1",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-direito-ad505042.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-direito-ad505042.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-direito-ad505042.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-direito-ad505042.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-direito-ad505042.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-direito-ad505042.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-655f-7f63-abcb-3d94b8826304",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-direito-a884a0c5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-direito-a884a0c5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-direito-a884a0c5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-direito-a884a0c5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-direito-a884a0c5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-direito-a884a0c5.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-6b94-71a8-8e6d-4a98ef8510f6",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-esquerdo-d156f4ec.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-esquerdo-d156f4ec.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-esquerdo-d156f4ec.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-esquerdo-d156f4ec.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-esquerdo-d156f4ec.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-traseiro-esquerdo-d156f4ec.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-7401-750e-9445-71befbe25145",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-esquerdo-4d099d62.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-esquerdo-4d099d62.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-esquerdo-4d099d62.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-esquerdo-4d099d62.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-esquerdo-4d099d62.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-pneu-dianteiro-esquerdo-4d099d62.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-7d8a-751b-b8e2-06371b498e77",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927410164-388yyy-2ab7196d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927410164-388yyy-2ab7196d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927410164-388yyy-2ab7196d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927410164-388yyy-2ab7196d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927410164-388yyy-2ab7196d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927410164-388yyy-2ab7196d.jpg"
+        },
+        "type": "damages-1782927410164-388yyy",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-82a6-7ad4-a0c7-510e02d74f47",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927429070-15w8ng-56a3a1d7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927429070-15w8ng-56a3a1d7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927429070-15w8ng-56a3a1d7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927429070-15w8ng-56a3a1d7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927429070-15w8ng-56a3a1d7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927429070-15w8ng-56a3a1d7.jpg"
+        },
+        "type": "damages-1782927429070-15w8ng",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-8788-7208-8097-f1160a8c099d",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927439697-9axte2-a13ad795.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927439697-9axte2-a13ad795.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927439697-9axte2-a13ad795.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927439697-9axte2-a13ad795.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927439697-9axte2-a13ad795.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927439697-9axte2-a13ad795.jpg"
+        },
+        "type": "damages-1782927439697-9axte2",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-8e91-7c06-9fd9-1c655a817031",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927450101-9ysmy3-556e238d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927450101-9ysmy3-556e238d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927450101-9ysmy3-556e238d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927450101-9ysmy3-556e238d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927450101-9ysmy3-556e238d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927450101-9ysmy3-556e238d.jpg"
+        },
+        "type": "damages-1782927450101-9ysmy3",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-9448-7f21-8a6d-b0d8f344e80d",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927466109-gzml79-6d935ab9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927466109-gzml79-6d935ab9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927466109-gzml79-6d935ab9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927466109-gzml79-6d935ab9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927466109-gzml79-6d935ab9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927466109-gzml79-6d935ab9.jpg"
+        },
+        "type": "damages-1782927466109-gzml79",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-9ced-7582-97b0-3175c230f73a",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927497394-hof35j-0b7a2068.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927497394-hof35j-0b7a2068.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927497394-hof35j-0b7a2068.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927497394-hof35j-0b7a2068.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927497394-hof35j-0b7a2068.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927497394-hof35j-0b7a2068.jpg"
+        },
+        "type": "damages-1782927497394-hof35j",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-a329-747e-a9a1-893c4b200bd0",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927553620-awajfp-2d55f4b2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927553620-awajfp-2d55f4b2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927553620-awajfp-2d55f4b2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927553620-awajfp-2d55f4b2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927553620-awajfp-2d55f4b2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927553620-awajfp-2d55f4b2.jpg"
+        },
+        "type": "damages-1782927553620-awajfp",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-a846-7d86-874f-72dbb171679a",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927574136-dujs5s-b0d1e68d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927574136-dujs5s-b0d1e68d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927574136-dujs5s-b0d1e68d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927574136-dujs5s-b0d1e68d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927574136-dujs5s-b0d1e68d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927574136-dujs5s-b0d1e68d.jpg"
+        },
+        "type": "damages-1782927574136-dujs5s",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-ad74-70c8-94ed-44c9b57a0cc8",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927596098-407pim-0ba91478.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927596098-407pim-0ba91478.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927596098-407pim-0ba91478.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927596098-407pim-0ba91478.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927596098-407pim-0ba91478.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927596098-407pim-0ba91478.jpg"
+        },
+        "type": "damages-1782927596098-407pim",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-b2ec-7603-af05-7dc397282b30",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927609042-anxi14-90ff130e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927609042-anxi14-90ff130e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927609042-anxi14-90ff130e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927609042-anxi14-90ff130e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927609042-anxi14-90ff130e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927609042-anxi14-90ff130e.jpg"
+        },
+        "type": "damages-1782927609042-anxi14",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-b814-712f-b6b1-ffcdf87f79d2",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927625270-1n4zfn-d5e2a9a6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927625270-1n4zfn-d5e2a9a6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927625270-1n4zfn-d5e2a9a6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927625270-1n4zfn-d5e2a9a6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927625270-1n4zfn-d5e2a9a6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927625270-1n4zfn-d5e2a9a6.jpg"
+        },
+        "type": "damages-1782927625270-1n4zfn",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f1ec7-c19f-7d13-912e-31a39b04699a",
+        "filename": "chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927654855-nhxmfa-8372bd5b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927654855-nhxmfa-8372bd5b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927654855-nhxmfa-8372bd5b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927654855-nhxmfa-8372bd5b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927654855-nhxmfa-8372bd5b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/chevrolet-prisma-1-4-mpfi-lt-8v-flex-4p-automatico-damages-1782927654855-nhxmfa-8372bd5b.jpg"
+        },
+        "type": "damages-1782927654855-nhxmfa",
+        "isPublic": true,
+        "description": "Avarias 12",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2014,
+    "yearManufacture": 2013,
+    "color": "Vermelha",
+    "mileage": 157523,
+    "licensePlate": "I*****6"
+  },
+  "observation": "NECESSÁRIA LIMPEZA INTERNA ESPECIALIZADA ( POR CONTA DO COMPRADOR), SEM CHAVES( IMPOSSIBILITANDO DE DAR PARTIDA E ABRIR O PORTA MALAS). LAUDO REPROVADO VEICULO POSSUI ALGUMAS PEÇAS COM REPINTURAS E MASSA . CONSTA LEILAO CONSTA OUTROS ALERTAS. CONSTA SINISTRO RECUPERADO. QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **\n",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Sem chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Vermelha"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "157523"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "NECESSÁRIA LIMPEZA INTERNA ESPECIALIZADA ( POR CONTA DO COMPRADOR), SEM CHAVES( IMPOSSIBILITANDO DE DAR PARTIDA E ABRIR O PORTA MALAS). LAUDO REPROVADO VEICULO POSSUI ALGUMAS PEÇAS COM REPINTURAS E MASSA . CONSTA LEILAO CONSTA OUTROS ALERTAS. CONSTA SINISTRO RECUPERADO. QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **\n"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "6"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "LAUDO REPROVADO VEICULO POSSUI ALGUMAS PEÇAS COM REPINTURAS E MASSA . CONSTA LEILAO CONSTA OUTROS ALERTAS."
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "19/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Anchieta - Porto Alegre - RS",
+      "url": "https://maps.google.com/?q=Rua+Giusepe+Mandeli%2C+265+-+Porto+Alegre%2C+RS"
+    }
+  },
+  "terms": {
+    "id": 3069
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

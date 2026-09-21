@@ -1,0 +1,993 @@
+{
+  "id": 169036,
+  "number": 71,
+  "description": "VOLKSWAGEN KOMBI 1.4 MI FURGÃO 8V FLEX 3P MANUAL 2012/2013",
+  "status": "aberto_para_lance",
+  "classification": 5,
+  "isFinancing": false,
+  "closingDate": "2026-09-22 11:58:20",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60101684,
+    "brand": "VOLKSWAGEN",
+    "model": "KOMBI",
+    "version": "1.4 MI FURGÃO 8V FLEX 3P MANUAL",
+    "category": "carros",
+    "fipePrice": 44352,
+    "webmotorsPrice": 45850,
+    "images": [
+      {
+        "uuid": "019ff0c6-9456-783a-a98d-93951dee8062",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-motorista-2654e405.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-motorista-2654e405.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-motorista-2654e405.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-motorista-2654e405.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-motorista-2654e405.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-motorista-2654e405.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-8333-7294-89b1-20e1be86c07a",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-motor-de28e04b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-motor-de28e04b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-motor-de28e04b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-motor-de28e04b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-motor-de28e04b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-motor-de28e04b.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-9fac-78f9-b066-1154068309e9",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-motorista-7ba250a2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-motorista-7ba250a2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-motorista-7ba250a2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-motorista-7ba250a2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-motorista-7ba250a2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-motorista-7ba250a2.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-a7c7-7eab-b17d-afc18caea955",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-km-8ea7cc55.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-km-8ea7cc55.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-km-8ea7cc55.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-km-8ea7cc55.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-km-8ea7cc55.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-km-8ea7cc55.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-b1a9-7ab6-9379-d85110954aa4",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-kit-multimidia-4c71f5db.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-kit-multimidia-4c71f5db.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-kit-multimidia-4c71f5db.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-kit-multimidia-4c71f5db.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-kit-multimidia-4c71f5db.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-kit-multimidia-4c71f5db.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-bb68-71c1-aabc-92d3942129f3",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-completo-bec3effb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-completo-bec3effb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-completo-bec3effb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-completo-bec3effb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-completo-bec3effb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-painel-completo-bec3effb.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-c5b1-7878-ac5e-1d25f18d5d8e",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-bancos-traseiros-05d546de.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-bancos-traseiros-05d546de.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-bancos-traseiros-05d546de.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-bancos-traseiros-05d546de.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-bancos-traseiros-05d546de.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-bancos-traseiros-05d546de.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-cd88-7ec3-9ae8-7e46f4a980a5",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-motorista-6dba44cc.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-motorista-6dba44cc.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-motorista-6dba44cc.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-motorista-6dba44cc.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-motorista-6dba44cc.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-motorista-6dba44cc.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-d8ad-7702-a0a7-9591d7c0169f",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-malas-051b1e99.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-malas-051b1e99.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-malas-051b1e99.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-malas-051b1e99.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-malas-051b1e99.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-malas-051b1e99.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-e0c3-726b-b37d-81283b708175",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-estepe-36133a8d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-estepe-36133a8d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-estepe-36133a8d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-estepe-36133a8d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-estepe-36133a8d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-estepe-36133a8d.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-e816-7865-a6de-e8ffafd41558",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-passageiro-9f016547.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-passageiro-9f016547.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-passageiro-9f016547.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-passageiro-9f016547.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-passageiro-9f016547.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-traseira-passageiro-9f016547.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c6-f92a-71a9-b1fc-a2bfda884f29",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-passageiro-a8bc4add.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-passageiro-a8bc4add.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-passageiro-a8bc4add.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-passageiro-a8bc4add.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-passageiro-a8bc4add.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-e-interior-passageiro-a8bc4add.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-047f-729c-8424-ff3a7a6a7896",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-passageiro-c07d29d9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-passageiro-c07d29d9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-passageiro-c07d29d9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-passageiro-c07d29d9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-passageiro-c07d29d9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-frente-passageiro-c07d29d9.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-15fe-7da6-964a-44631cf7d183",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-capo-44c12309.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-capo-44c12309.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-capo-44c12309.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-capo-44c12309.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-capo-44c12309.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-capo-44c12309.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-1d9f-73c3-956a-64e0464dfd24",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-esquerda-4ed8d405.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-esquerda-4ed8d405.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-esquerda-4ed8d405.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-esquerda-4ed8d405.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-esquerda-4ed8d405.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-esquerda-4ed8d405.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-23b2-74b6-837e-d2b179fea4df",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-frente-eb6f58a9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-frente-eb6f58a9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-frente-eb6f58a9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-frente-eb6f58a9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-frente-eb6f58a9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-frente-eb6f58a9.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-2b7b-76c8-ac7d-119a852ff2ae",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-traseira-f212df0c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-traseira-f212df0c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-traseira-f212df0c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-traseira-f212df0c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-traseira-f212df0c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-teto-traseira-f212df0c.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-317b-7f52-9baf-3501e17b2e6c",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-esquerda-a1d681a7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-esquerda-a1d681a7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-esquerda-a1d681a7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-esquerda-a1d681a7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-esquerda-a1d681a7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-esquerda-a1d681a7.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-381b-78a8-91a5-7ad35655c984",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-tampa-do-porta-malas-0c3d233d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-tampa-do-porta-malas-0c3d233d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-tampa-do-porta-malas-0c3d233d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-tampa-do-porta-malas-0c3d233d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-tampa-do-porta-malas-0c3d233d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-tampa-do-porta-malas-0c3d233d.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-3e91-72bf-b5bd-de1ce0c47c18",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-direita-aadbc7ab.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-direita-aadbc7ab.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-direita-aadbc7ab.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-direita-aadbc7ab.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-direita-aadbc7ab.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-lateral-traseira-direita-aadbc7ab.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-4562-7af3-9a9a-9c4db427ffd4",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-direita-19ff0767.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-direita-19ff0767.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-direita-19ff0767.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-direita-19ff0767.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-direita-19ff0767.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-direita-19ff0767.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-4c32-7a5f-b1d8-c71a47275fb6",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-direita-f0bcc1f4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-direita-f0bcc1f4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-direita-f0bcc1f4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-direita-f0bcc1f4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-direita-f0bcc1f4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-dianteira-direita-f0bcc1f4.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-54a1-727e-8003-4f55897ab5f7",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-direito-d30b987e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-direito-d30b987e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-direito-d30b987e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-direito-d30b987e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-direito-d30b987e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-direito-d30b987e.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-626f-7244-9cb7-206946c45ea2",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-direito-cac06627.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-direito-cac06627.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-direito-cac06627.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-direito-cac06627.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-direito-cac06627.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-direito-cac06627.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-69d0-7f20-8744-b78280057bfa",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-esquerdo-052a0d8f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-esquerdo-052a0d8f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-esquerdo-052a0d8f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-esquerdo-052a0d8f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-esquerdo-052a0d8f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-traseiro-esquerdo-052a0d8f.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-7011-71e3-8784-2811b66f0923",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-esquerdo-58669efb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-esquerdo-58669efb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-esquerdo-58669efb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-esquerdo-58669efb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-esquerdo-58669efb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-pneu-dianteiro-esquerdo-58669efb.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-770d-71de-a987-06cb98071b78",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450841857-xz2ak7-da0de5c4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450841857-xz2ak7-da0de5c4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450841857-xz2ak7-da0de5c4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450841857-xz2ak7-da0de5c4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450841857-xz2ak7-da0de5c4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450841857-xz2ak7-da0de5c4.jpg"
+        },
+        "type": "damages-1786450841857-xz2ak7",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-7f96-73c8-af32-1e389e297430",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450845694-tu6m0b-7a664416.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450845694-tu6m0b-7a664416.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450845694-tu6m0b-7a664416.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450845694-tu6m0b-7a664416.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450845694-tu6m0b-7a664416.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450845694-tu6m0b-7a664416.jpg"
+        },
+        "type": "damages-1786450845694-tu6m0b",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-89e5-784e-b450-738544017ffa",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450849932-42adnm-541926a3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450849932-42adnm-541926a3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450849932-42adnm-541926a3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450849932-42adnm-541926a3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450849932-42adnm-541926a3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450849932-42adnm-541926a3.jpg"
+        },
+        "type": "damages-1786450849932-42adnm",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-91b4-725e-858d-3d6cbe909039",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450856540-n1tmm3-1cf697ce.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450856540-n1tmm3-1cf697ce.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450856540-n1tmm3-1cf697ce.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450856540-n1tmm3-1cf697ce.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450856540-n1tmm3-1cf697ce.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450856540-n1tmm3-1cf697ce.jpg"
+        },
+        "type": "damages-1786450856540-n1tmm3",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-9924-732c-9d6e-5992572f95ed",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450864797-poduls-c61959d0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450864797-poduls-c61959d0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450864797-poduls-c61959d0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450864797-poduls-c61959d0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450864797-poduls-c61959d0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450864797-poduls-c61959d0.jpg"
+        },
+        "type": "damages-1786450864797-poduls",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-a2e5-739d-86d6-8c25afde0c3e",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450871376-lh0nmr-ccad303a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450871376-lh0nmr-ccad303a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450871376-lh0nmr-ccad303a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450871376-lh0nmr-ccad303a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450871376-lh0nmr-ccad303a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450871376-lh0nmr-ccad303a.jpg"
+        },
+        "type": "damages-1786450871376-lh0nmr",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-abc8-7428-a757-5f34d23ef849",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450877661-tlb984-aa550aa7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450877661-tlb984-aa550aa7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450877661-tlb984-aa550aa7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450877661-tlb984-aa550aa7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450877661-tlb984-aa550aa7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450877661-tlb984-aa550aa7.jpg"
+        },
+        "type": "damages-1786450877661-tlb984",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-b9b5-72e7-bbd4-55f66d855f6c",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450882937-ookhxw-7babc685.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450882937-ookhxw-7babc685.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450882937-ookhxw-7babc685.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450882937-ookhxw-7babc685.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450882937-ookhxw-7babc685.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450882937-ookhxw-7babc685.jpg"
+        },
+        "type": "damages-1786450882937-ookhxw",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-c267-7dd3-9ce6-4ac86790db61",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450888850-7skcc8-fdeb2661.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450888850-7skcc8-fdeb2661.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450888850-7skcc8-fdeb2661.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450888850-7skcc8-fdeb2661.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450888850-7skcc8-fdeb2661.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450888850-7skcc8-fdeb2661.jpg"
+        },
+        "type": "damages-1786450888850-7skcc8",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-cb39-700e-8e1f-ea7247511032",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450892297-t5u8gz-690c0316.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450892297-t5u8gz-690c0316.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450892297-t5u8gz-690c0316.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450892297-t5u8gz-690c0316.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450892297-t5u8gz-690c0316.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450892297-t5u8gz-690c0316.jpg"
+        },
+        "type": "damages-1786450892297-t5u8gz",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-d6a8-724d-91ae-3dffe056f16d",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450898190-5zh5bk-0f16f19c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450898190-5zh5bk-0f16f19c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450898190-5zh5bk-0f16f19c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450898190-5zh5bk-0f16f19c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450898190-5zh5bk-0f16f19c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450898190-5zh5bk-0f16f19c.jpg"
+        },
+        "type": "damages-1786450898190-5zh5bk",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-de15-70b7-840b-5974b5c609d6",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450905620-5pv344-8c3490da.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450905620-5pv344-8c3490da.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450905620-5pv344-8c3490da.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450905620-5pv344-8c3490da.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450905620-5pv344-8c3490da.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-damages-1786450905620-5pv344-8c3490da.jpg"
+        },
+        "type": "damages-1786450905620-5pv344",
+        "isPublic": true,
+        "description": "Avarias 12",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-e7b1-7b08-bb93-7cc9cc2c13a6",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-esquerdo-3973d648.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-esquerdo-3973d648.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-esquerdo-3973d648.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-esquerdo-3973d648.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-esquerdo-3973d648.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-esquerdo-3973d648.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-eddb-7377-8ab0-660430f51bf7",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-esquerda-d0f8baef.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-esquerda-d0f8baef.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-esquerda-d0f8baef.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-esquerda-d0f8baef.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-esquerda-d0f8baef.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-porta-traseira-esquerda-d0f8baef.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019ff0c7-f426-7ce0-a972-c96f82a053a9",
+        "filename": "volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-direito-67a3392a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-direito-67a3392a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-direito-67a3392a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-direito-67a3392a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-direito-67a3392a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/volkswagen-kombi-1-4-mi-furgao-8v-flex-3p-manual-paralama-dianteiro-direito-67a3392a.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      }
+    ],
+    "videoUrl": null,
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Manual",
+    "fuel": "Gasolina",
+    "yearModel": 2013,
+    "yearManufacture": 2012,
+    "color": "Branca",
+    "mileage": null,
+    "licensePlate": "I*****6"
+  },
+  "observation": "Riscos e amassados na lataria em geral porta lateral solta veiculo com várias avarias em geral  AVARIAS: COLUNA CENTRAL ESQUERDA: REPARADO. COLUNA DIANTEIRA ESQUERDA COM REPAROS E CORROSÃO. PARA CHOQUE DIANTEIRO: AVARIADO E REPARADO. VIDRO DIANTEIRO DIREITO AUSENTE. ASSOALHO E SOLEIRA COM CORROSÃO. CAIXA DE RODA DIANTEIRA DIREITA COM CORROSÃO. ASSOALHO COM CORROSÃO E REPAROS. TETO E ESTRUTURA COM REPAROS E CORROSÃO. CAIXA DE RODA TRASEIRA ESQUERDA COM REPAROS E CORROSÃO. CAIXA DE RODA E ASSOALHO COM REPAROS E CORROSÃO. PORTA TRASEIRA DIREITA: AVARIADO. PARA CHOQUE TRASEIRO: AVARIADO. PAINEL TRASEIRO: AVARIADO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Branca"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "2"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Não funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Van"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Ruim"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de ferro"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "Riscos e amassados na lataria em geral porta lateral solta veiculo com várias avarias em geral  AVARIAS: COLUNA CENTRAL ESQUERDA: REPARADO. COLUNA DIANTEIRA ESQUERDA COM REPAROS E CORROSÃO. PARA CHOQUE DIANTEIRO: AVARIADO E REPARADO. VIDRO DIANTEIRO DIREITO AUSENTE. ASSOALHO E SOLEIRA COM CORROSÃO. CAIXA DE RODA DIANTEIRA DIREITA COM CORROSÃO. ASSOALHO COM CORROSÃO E REPAROS. TETO E ESTRUTURA COM REPAROS E CORROSÃO. CAIXA DE RODA TRASEIRA ESQUERDA COM REPAROS E CORROSÃO. CAIXA DE RODA E ASSOALHO COM REPAROS E CORROSÃO. PORTA TRASEIRA DIREITA: AVARIADO. PARA CHOQUE TRASEIRO: AVARIADO. PAINEL TRASEIRO: AVARIADO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não avaliado"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Veículo sem bateria"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "5"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Manual"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "AVARIAS: COLUNA CENTRAL ESQUERDA: REPARADO. COLUNA DIANTEIRA ESQUERDA COM REPAROS E CORROSÃO. PARA CHOQUE DIANTEIRO: AVARIADO E REPARADO. VIDRO DIANTEIRO DIREITO AUSENTE. ASSOALHO E SOLEIRA COM CORROSÃO. CAIXA DE RODA DIANTEIRA DIREITA COM CORROSÃO. ASSOALHO COM CORROSÃO E REPAROS. TETO E ESTRUTURA COM REPAROS E CORROSÃO. CAIXA DE RODA TRASEIRA ESQUERDA COM REPAROS E CORROSÃO. CAIXA DE RODA E ASSOALHO COM REPAROS E CORROSÃO. PORTA TRASEIRA DIREITA: AVARIADO. PARA CHOQUE TRASEIRO: AVARIADO. PAINEL TRASEIRO: AVARIADO"
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Anchieta - Porto Alegre - RS",
+      "url": "https://maps.google.com/?q=Rua+Giusepe+Mandeli%2C+265+-+Porto+Alegre%2C+RS"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

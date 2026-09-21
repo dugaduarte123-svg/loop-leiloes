@@ -1,0 +1,18 @@
+{
+  "name": "loop-leilao-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Copia local executavel da home da Loop Leiloes e das APIs capturadas.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test",
+    "sync": "node scripts/sync-public-site.js",
+    "sync:metadata": "node scripts/sync-public-site.js --metadata-only",
+    "sync:refresh": "node scripts/sync-public-site.js --metadata-only --refresh",
+    "sync:images": "node scripts/sync-public-site.js --images-only"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

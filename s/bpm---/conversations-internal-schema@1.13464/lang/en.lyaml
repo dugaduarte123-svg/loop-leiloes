@@ -1,0 +1,6 @@
+export const visit = (vm, at) => {
+vm(require("./availability/en.lyaml"));
+vm(require("./typical-response-time/en.lyaml"));
+vm(require("./default/en.lyaml"));
+at({ "en": { "conversations-internal-schema": { "we-wont-use-this-key-in-the-product-but-this-file-wont-update-with-new-languages-without-a-key": "okay" } } });
+};

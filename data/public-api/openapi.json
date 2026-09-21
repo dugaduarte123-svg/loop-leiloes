@@ -1,0 +1,2652 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Auction API",
+    "description": "Documentação de rotas da Auction API",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "{protocol}://api.loopleiloes.com.br",
+      "variables": {
+        "protocol": {
+          "enum": [
+            "http",
+            "https"
+          ],
+          "default": "https"
+        }
+      }
+    }
+  ],
+  "paths": {
+    "/auction/lots/{lotId}/bookmarks": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "adiciona o lote nos favoritos do usuário",
+        "operationId": "bd60b5555a7c2ea5006aff82f0c7e56d",
+        "parameters": [
+          {
+            "name": "lotId",
+            "in": "path",
+            "description": "id do lote",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "remove o lote dos favoritos do usuário",
+        "operationId": "90577c32a66a14d2d0c1b45fd9a62534",
+        "parameters": [
+          {
+            "name": "lotId",
+            "in": "path",
+            "description": "id do lote",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/lot/{lotId}/bid/{bidId}/schedule": {
+      "delete": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Delete a scheduled bid",
+        "operationId": "1d1e4ac095fc944e54e580bb7beeeb37",
+        "responses": {
+          "200": {
+            "description": "Success!"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/vehicle/interest": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get user vehicle interest",
+        "description": "Get user vehicle interest",
+        "operationId": "55d0584121993b0bb0e10e6833171f92",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Insert user vehicle interest",
+        "description": "Insert user vehicle interest",
+        "operationId": "4101d52d3d9ea374e39242a267048ebc",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "veiculo_id": {
+                    "type": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Delete user vehicle interest",
+        "description": "Delete user vehicle interest",
+        "operationId": "4b01c6ed5453ef62cb15d57393c40da5",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "veiculo_id": {
+                    "type": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/events/{eventId}/terms/{termsId}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "verifica se o usuário aceitou os termos do leilão",
+        "operationId": "cf889f33bac4ae505abce6fdf9017a6f",
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "description": "id do leilão",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          },
+          {
+            "name": "termsId",
+            "in": "path",
+            "description": "id dos termos",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "marca o aceite dos termos do leilão para o usuário",
+        "operationId": "b527047e9b9363b108944cdb00ea0589",
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "description": "id do leilão",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          },
+          {
+            "name": "termsId",
+            "in": "path",
+            "description": "id dos termos",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/reports/auctioneer-invoice/{token}": {
+      "get": {
+        "tags": [
+          "reports"
+        ],
+        "summary": "Obtém a nota do leiloeiro",
+        "operationId": "6f48ff999d163499554946d1960ff616",
+        "parameters": [
+          {
+            "name": "token",
+            "in": "path",
+            "description": "token de acesso ao relatório",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/authorized-user/{partner}/{key}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get partner authorized user",
+        "description": "Get event by id",
+        "operationId": "7136968f732394f6932fbd5f8882f62c",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/users/bookmarks": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get all favorite lots by user",
+        "description": "Get favorite lots list by userId",
+        "operationId": "0fc10679e0d41916f2a6eed4d99e405e",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/events/conditional/{eventId}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get conditional event by id",
+        "description": "Get conditional event by id",
+        "operationId": "d59fe06a2e617dab3e18d2f2c73ab125",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/events/conditionals": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get conditional events list",
+        "description": "Get events list",
+        "operationId": "9838f71ea3a9ce70c937fb1748703270",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/confirm-sms/{code}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "realiza a confirmação do cadastro por sms",
+        "operationId": "3b967773b2dfbfd2002afc3ffb825f22",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/events/{eventId}/current-lot": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "obtém o lote e informações relacionadas para livestream",
+        "operationId": "5355d1375d447285337ebff18ec959f1",
+        "parameters": [
+          {
+            "name": "lotId",
+            "in": "path",
+            "description": "id do lote",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/events/{eventId}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get event by id",
+        "description": "Get event by id",
+        "operationId": "77ceef04298fb5bd89e1269fdff37f96",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/events/live": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get current event live",
+        "description": "Get current event live",
+        "operationId": "8f13613135177074d541a62b322ae23c",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/events/{eventId}/bookmarks": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "retorna o estado de favorito dos lotes de um evento",
+        "operationId": "a21f65b67852253dce593d02e60c1930",
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "description": "id do evento",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/events/terms/{termsId}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "obtém os termos e condições de um evento",
+        "operationId": "336d050cfe2453ce08d7ff5a33f803cf",
+        "parameters": [
+          {
+            "name": "termsId",
+            "in": "path",
+            "description": "id dos termos",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/events": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get events list",
+        "description": "Get events list",
+        "operationId": "e8710273853e7d4d9baaa2cb9d721293",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/lots/featured": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get featured lots",
+        "description": "Get featured lots",
+        "operationId": "edbf57ac9b1c59c6d7e0dbec51be7b3b",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/holidays": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get holidays",
+        "description": "Get holidays",
+        "operationId": "c21d3cd37660e3f90798f5899e127afd",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/reports/invoice/{key}": {
+      "get": {
+        "tags": [
+          "reports"
+        ],
+        "summary": "Obtém a fatura do lote",
+        "operationId": "3d7ee394a7639dbf498893528a57e7e6",
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "description": "chave de acesso ao relatório",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/lots/{lotId}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "obtém o lote e informações relacionadas",
+        "operationId": "aedd60f00aec68ae14be7fe285225a00",
+        "parameters": [
+          {
+            "name": "lotId",
+            "in": "path",
+            "description": "id do lote",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/lots/{lotId}/bids": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get bids from lot",
+        "description": "Get bids from lot",
+        "operationId": "956b68803b56041ea1217696e99d50f6",
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not found"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "registra o lance do usuário para o lote",
+        "operationId": "292fbe51b8b7023edbd7e8d2e4f911e1",
+        "parameters": [
+          {
+            "name": "lotId",
+            "in": "path",
+            "description": "id do lote",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "bid_value": {
+                    "type": "number"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/events/{eventId}/lots/summary": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get lot summaries by event",
+        "operationId": "8246b9cd05ad5b9601c8073f7b4c7dc8",
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "description": "id do leilão",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/events/{eventId}/lots": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get lots by event",
+        "operationId": "145fd5dd3dd33caf99273269301045a3",
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "description": "id do leilão",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/lot/{lotId}/user/{userId}/bid/schedule": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get scheduled bid by lot and user",
+        "description": "Get scheduled bid by lot and user",
+        "operationId": "64a3c62d848159519d809fb0c6661652",
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not found"
+          }
+        }
+      }
+    },
+    "/search/{key}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "operationId": "4a88014c15e64f2b791572e3dc6afeed",
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "description": "Indice do EL",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/storage/images/size/{size}/{hash}": {
+      "get": {
+        "tags": [
+          "storage"
+        ],
+        "summary": "Get image from storage",
+        "description": "Get image from storage",
+        "operationId": "d2f2187d485bed18b1cf2693790535d3",
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "404": {
+            "description": "Not found"
+          }
+        }
+      }
+    },
+    "/reports/ticket/{key}": {
+      "get": {
+        "tags": [
+          "reports"
+        ],
+        "summary": "Obtém a carta TED",
+        "operationId": "e82b37527845ac1ac11a81924244ea29",
+        "parameters": [
+          {
+            "name": "key",
+            "in": "path",
+            "description": "chave de acesso ao relatório",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/users/account": {
+      "get": {
+        "tags": [
+          "auth"
+        ],
+        "summary": "Request user data",
+        "description": "Request user data",
+        "operationId": "67e03e9704d20aec7bebf74368a91db7",
+        "responses": {
+          "200": {
+            "description": "Success!"
+          },
+          "401": {
+            "description": "Unautorized"
+          },
+          "404": {
+            "description": "Not found"
+          }
+        }
+      }
+    },
+    "/auction/users/account/purchase/{vehicleId}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get detail of purchase",
+        "operationId": "09f86f60f1509f0d0352dc10c6a501e8",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/users/account/purchases": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Get user purchases",
+        "operationId": "a74f0cc79e0f1255b79a5fecef391d6c",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/vehicles/{slug}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "obtém o veículo não loteado e informações relacionadas",
+        "operationId": "5a0a55d27aadd209e2019f7b344f2971",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "description": "slug contendo o id do veículo",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/vehicles/price/{fipeCode}/{modelYear}": {
+      "get": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "obtém o valor do veículo de acrodo com o código fipe e o ano de fabricacao",
+        "operationId": "b354a8005c8e0f932414f1f6419d45d6",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/vehicles/scheduling/recovery": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "cria um agendamento de retirada (remoção) do veículo",
+        "description": "Cria um registro de agendamento de retirada do veículo vinculado a uma solicitação de remoção.",
+        "operationId": "f1c1a1e6f6d8e2f3a4b5c6d7e8f9a0b1",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "properties": {
+                  "customer_name": {
+                    "type": "string",
+                    "example": "João da Silva"
+                  },
+                  "customer_email": {
+                    "type": "string",
+                    "format": "email",
+                    "example": "joao.silva@email.com"
+                  },
+                  "customer_phone": {
+                    "type": "string",
+                    "example": "11999999999"
+                  },
+                  "origin": {
+                    "type": "integer",
+                    "description": "id do comitente (tabela comitente, banco sig) usado para buscar nu_dias_documentacao",
+                    "example": 1234
+                  },
+                  "store_id": {
+                    "type": "integer",
+                    "example": 1
+                  },
+                  "vehicle_license_plate": {
+                    "type": "string",
+                    "example": "ABC-1D23"
+                  },
+                  "vehicle_maker": {
+                    "type": "string",
+                    "example": "Volkswagen"
+                  },
+                  "vehicle_model": {
+                    "type": "string",
+                    "example": "Gol"
+                  },
+                  "vehicle_version": {
+                    "type": "string",
+                    "example": "1.6 MSI"
+                  },
+                  "vehicle_renavam": {
+                    "type": "string",
+                    "example": "12345678901"
+                  },
+                  "created_at": {
+                    "type": "string",
+                    "format": "datetime",
+                    "example": "2024-04-05 16:00:00"
+                  },
+                  "contract_code": {
+                    "type": "string",
+                    "example": "CT-00123"
+                  },
+                  "scheduling_date": {
+                    "type": "string",
+                    "format": "datetime",
+                    "example": "2024-04-10 09:00:00"
+                  },
+                  "status": {
+                    "type": "string",
+                    "example": "pending"
+                  },
+                  "stock_status": {
+                    "type": "string",
+                    "example": "remocao_pendente"
+                  },
+                  "withdraw_id": {
+                    "type": "integer",
+                    "description": "id da solicitação de remoção, gravado como recovery_id",
+                    "example": 123
+                  }
+                },
+                "required": [
+                  "customer_name",
+                  "customer_email",
+                  "customer_phone",
+                  "origin",
+                  "store_id",
+                  "vehicle_license_plate",
+                  "vehicle_maker",
+                  "vehicle_model",
+                  "vehicle_version",
+                  "vehicle_renavam",
+                  "created_at",
+                  "contract_code",
+                  "scheduling_date",
+                  "status",
+                  "stock_status",
+                  "withdraw_id"
+                ],
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "status": {
+                      "type": "string",
+                      "example": "ok"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/send-email-approved": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "envia o e-mail de documentação aprovada",
+        "operationId": "ea4dc20eae7f340608df2ed3921372a3",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "userId": {
+                    "type": "number",
+                    "format": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "email": {
+                      "type": "string",
+                      "format": "email"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/auth": {
+      "post": {
+        "tags": [
+          "auth"
+        ],
+        "summary": "Verify user credentials",
+        "operationId": "c25275447b979f1491c07fb9294621a0",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "username": {
+                    "type": "string"
+                  },
+                  "password": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Bad Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/automatic-auth": {
+      "post": {
+        "tags": [
+          "auth"
+        ],
+        "summary": "Authenticate user automatically",
+        "description": "Authenticate user automatically",
+        "operationId": "668deb79ff6d04a68864ce129e17d022",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "uuid": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/lot/{lotId}/bid/schedule": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Register an auction scheduled bid",
+        "operationId": "c6366593a1825fe8d186c3c901b0d6b1",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "user_id": {
+                    "type": "number"
+                  },
+                  "bid_value": {
+                    "type": "number"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Scheduled bid successful"
+          },
+          "400": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auction/broadcast-topic": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Broadcast topic",
+        "description": "Broadcast topic",
+        "operationId": "205e4f80580ca641cfffe9d1674581cb",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "topic": {
+                    "type": "string"
+                  },
+                  "others": {
+                    "type": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Broadcast succesful"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auction/confirm-email": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "realiza a confirmação do e-mail durante o cadastro",
+        "operationId": "1427c53a749bc877971e41ff52be02d5",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "userId": {
+                    "type": "number",
+                    "format": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/send-email": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "envia o e-mail de confirmação de cadastro",
+        "operationId": "7c49205ef7d3951a3b3fee4cb1e366ef",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "userId": {
+                    "type": "number",
+                    "format": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "email": {
+                      "type": "string",
+                      "format": "email"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/send-email-disapproved": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "envia o e-mail de documentação reprovada",
+        "operationId": "2281b8d20753659496cae42cc283ebbf",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "userId": {
+                    "type": "number",
+                    "format": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "email": {
+                      "type": "string",
+                      "format": "email"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/forgot-password": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Forgot Password",
+        "description": "Send link to create a new password",
+        "operationId": "7b36b577bd04a04c13be51fad58684ba",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "email": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "We sent you a link to reset your password by email."
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "User not found"
+          }
+        }
+      }
+    },
+    "/auction/notify/lot/{lotId}/invoice-available": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Notify auction lot buyer that invoice is available",
+        "operationId": "e0c7ad2c8a64812473d2c0b74f941312",
+        "responses": {
+          "200": {
+            "description": "Succesful"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auction/notify/lot/{lotId}/buyer": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Notify auction lot buyer",
+        "operationId": "dcef4657584379ff2e32db9a939007ed",
+        "responses": {
+          "200": {
+            "description": "Succesful"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auction/notify/lot/{lotId}/buyer/conditional": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Notify auction lot buyer in conditional",
+        "operationId": "ee1a88c11e0c0aa54fe81bc612e19193",
+        "responses": {
+          "200": {
+            "description": "Succesful"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auction/notify/lot/{lotId}/rejected-payment-receipt": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Notify auction lot buyer when rejected the payment receipt",
+        "operationId": "c1619a1b3ffc6fa79b8de6a4d008d171",
+        "responses": {
+          "200": {
+            "description": "Succesful"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auction/notify/lot/{lotId}/withdrawal-available": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Notify auction lot buyer that Withdrawal is available",
+        "operationId": "f34632ac69d3d5ebfa51594f3a9343d5",
+        "responses": {
+          "200": {
+            "description": "Succesful"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auction/lots/{lotId}/payer-bank-account": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Cadastra os dados da conta do pagador do lote",
+        "operationId": "731bea964aabcfcad83eef1b90db4d6e",
+        "parameters": [
+          {
+            "name": "lotId",
+            "in": "path",
+            "description": "id do lote",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "paymentMethod": {
+                    "type": "string",
+                    "enum": [
+                      "pix",
+                      "ted"
+                    ]
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "bankCode": {
+                    "type": "string"
+                  },
+                  "bank": {
+                    "type": "string"
+                  },
+                  "agency": {
+                    "type": "string"
+                  },
+                  "account": {
+                    "type": "string"
+                  },
+                  "document": {
+                    "type": "string"
+                  },
+                  "pixKey": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/lots/{lotId}/payment-receipt": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Change or submit payment receipt",
+        "operationId": "524d7d9f199564adc90d56d6f2de5dc3",
+        "parameters": [
+          {
+            "name": "lotId",
+            "in": "path",
+            "description": "id do lote",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "integer"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "paymentReceipt": {
+                    "type": "file"
+                  },
+                  "buyerName": {
+                    "type": "string"
+                  },
+                  "buyerDocument": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/search/{index}": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "search on index",
+        "description": "Search on index",
+        "operationId": "a3478d036181a2a3b4d0c2cb714a208d",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "from": {
+                    "type": "integer"
+                  },
+                  "size": {
+                    "type": "integer"
+                  },
+                  "query": {
+                    "type": "array",
+                    "items": {
+                      "properties": {
+                        "fuzzy": {
+                          "type": "array",
+                          "items": {
+                            "properties": {
+                              "name": {
+                                "type": "string"
+                              },
+                              "fuzziness": {
+                                "type": "string"
+                              }
+                            },
+                            "type": "object"
+                          }
+                        }
+                      },
+                      "type": "object"
+                    }
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          }
+        }
+      }
+    },
+    "/auction/users/send-validation-email": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "envia e-mail de validação de e-mail",
+        "description": "Envia um e-mail com um token de validação para o usuário identificado por e-mail ou documento (CPF/CNPJ), permitindo confirmar o endereço de e-mail cadastrado.",
+        "operationId": "e2f42cb842b9a078cd2f1080f4135050",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "key": {
+                    "description": "e-mail ou documento (CPF/CNPJ) do usuário",
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "key"
+                ],
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found (usuário não encontrado ou e-mail já validado)"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/send-sms": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "envia sms de confirmação de cadastro",
+        "operationId": "60853b7eab7e4cd339c2c3d92c207691",
+        "responses": {
+          "201": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/users/send-validation-sms": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "envia sms de validação de telefone",
+        "operationId": "e46982dc61e81c719edb065dd0286611",
+        "responses": {
+          "201": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/simulation": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "realiza o envia do e-mail de simulação",
+        "operationId": "5723c779477f4db7e69b467a33a52255",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "type": {
+                    "type": "string",
+                    "enum": [
+                      "pf",
+                      "pj",
+                      "revendedor"
+                    ]
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "document": {
+                    "type": "string"
+                  },
+                  "phone": {
+                    "type": "string"
+                  },
+                  "zipcode": {
+                    "type": "string"
+                  },
+                  "street": {
+                    "type": "string"
+                  },
+                  "district": {
+                    "type": "string"
+                  },
+                  "number": {
+                    "type": "string"
+                  },
+                  "complement": {
+                    "type": "string"
+                  },
+                  "city": {
+                    "type": "string"
+                  },
+                  "state": {
+                    "type": "string"
+                  },
+                  "shippingCost": {
+                    "type": "number"
+                  },
+                  "vehicleData": {
+                    "type": "string"
+                  },
+                  "vehicleType": {
+                    "type": "string"
+                  },
+                  "originCity": {
+                    "type": "string"
+                  },
+                  "destinationCity": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/users": {
+      "put": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Update user",
+        "description": "Update user",
+        "operationId": "aeb93d77ebf53ecec2e1375995b4aad8",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "name": {
+                    "type": "string"
+                  },
+                  "email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "emailConfirmation": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "phone": {
+                    "type": "string"
+                  },
+                  "phoneConfirmation": {
+                    "type": "string"
+                  },
+                  "document": {
+                    "type": "string"
+                  },
+                  "dateOfBirth": {
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "cep": {
+                    "type": "string"
+                  },
+                  "street": {
+                    "type": "string"
+                  },
+                  "district": {
+                    "type": "string"
+                  },
+                  "number": {
+                    "type": "string"
+                  },
+                  "complement": {
+                    "type": "string"
+                  },
+                  "city": {
+                    "type": "string"
+                  },
+                  "state": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "cria um novo usuário",
+        "description": "Cria um novo usuário (pessoa física, jurídica ou revendedor), validando dados cadastrais, aceite dos termos e, opcionalmente, enviando documentos de comprovação.",
+        "operationId": "9b3418a4d442e637b40d3a04ec1af8ad",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "properties": {
+                  "type": {
+                    "type": "string",
+                    "enum": [
+                      "pf",
+                      "pj",
+                      "revendedor"
+                    ]
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "document": {
+                    "description": "CPF ou CNPJ, de acordo com o tipo de usuário",
+                    "type": "string"
+                  },
+                  "email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "emailConfirmation": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "password": {
+                    "type": "string",
+                    "format": "password",
+                    "minLength": 6
+                  },
+                  "passwordConfirmation": {
+                    "type": "string",
+                    "format": "password"
+                  },
+                  "dateOfBirth": {
+                    "type": "string",
+                    "format": "date",
+                    "nullable": true
+                  },
+                  "phone": {
+                    "type": "string"
+                  },
+                  "phoneConfirmation": {
+                    "type": "string"
+                  },
+                  "cep": {
+                    "type": "string"
+                  },
+                  "street": {
+                    "type": "string"
+                  },
+                  "district": {
+                    "type": "string"
+                  },
+                  "number": {
+                    "type": "string"
+                  },
+                  "complement": {
+                    "type": "string",
+                    "nullable": true,
+                    "maxLength": 50
+                  },
+                  "city": {
+                    "type": "string"
+                  },
+                  "state": {
+                    "type": "string"
+                  },
+                  "hasAcceptedEmails": {
+                    "type": "boolean"
+                  },
+                  "hasAcceptedTerms": {
+                    "type": "boolean"
+                  },
+                  "origin": {
+                    "type": "string",
+                    "nullable": true
+                  },
+                  "*": {
+                    "description": "Arquivos de documentação do usuário (pdf, png, jpg ou jpeg, até 10MB cada), enviados por tipo de documento, ex: rg, cnh, comprovante_residencia",
+                    "type": "string",
+                    "format": "binary"
+                  }
+                },
+                "required": [
+                  "type",
+                  "name",
+                  "document",
+                  "email",
+                  "emailConfirmation",
+                  "password",
+                  "passwordConfirmation",
+                  "phone",
+                  "phoneConfirmation",
+                  "cep",
+                  "street",
+                  "district",
+                  "number",
+                  "city",
+                  "state",
+                  "hasAcceptedEmails",
+                  "hasAcceptedTerms"
+                ],
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/users/document": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Update user",
+        "description": "Update user",
+        "operationId": "839959c2cd308d114c6bb5619e6d3a6c",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "documentFront": {
+                    "type": "file"
+                  },
+                  "documentSelfie": {
+                    "type": "file"
+                  },
+                  "proofOfResidence": {
+                    "type": "file"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/users/document-sig": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Update user",
+        "description": "Update user",
+        "operationId": "3dacdd73559ed6433b8a98eec1cf28e0",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "file"
+                  },
+                  "type_id": {
+                    "type": "integer"
+                  },
+                  "user_id": {
+                    "type": "integer"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/auction/user/validate-email/{token}": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "realiza a validação do e-mail",
+        "operationId": "745dddddc4abad66206f66905db45c56",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/user/validate-telephone/{token}": {
+      "post": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "realiza a validação do telephone do usuário",
+        "operationId": "dabf292cd629ebc5e2d799c2a80dd55f",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/change-password": {
+      "put": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Verify token and update user password",
+        "description": "Verify token and update user password",
+        "operationId": "2e0e9d6533f1d935b06c1aaa9339eaa9",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "token": {
+                    "type": "string"
+                  },
+                  "password": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/scheduling/withdrawal/{sku}": {
+      "put": {
+        "tags": [
+          "scheduling"
+        ],
+        "summary": "altera agendamento de retirada do veículo",
+        "operationId": "9ef2ecabf7e42aed06891ceab44ec88b",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "date": {
+                    "type": "string",
+                    "format": "datetime",
+                    "example": "2024-04-05 16:00:00"
+                  },
+                  "name": {
+                    "type": "string",
+                    "example": "João da Silva"
+                  },
+                  "document": {
+                    "type": "string",
+                    "example": "928.015.400-13"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "422": {
+            "description": "Unprocessable Entity"
+          }
+        }
+      }
+    },
+    "/search/update-stock": {
+      "put": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "atualiza o estoque de veículos",
+        "operationId": "e507c46306aeaa12cfcc2f00b312d101",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/users/{userId}/step/{step}": {
+      "put": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Change user step",
+        "operationId": "52f9378ed277e68634857d905657a869",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "userId": {
+                    "type": "number"
+                  },
+                  "step": {
+                    "type": "string",
+                    "enum": [
+                      "send-sms",
+                      "read-information",
+                      "send-email",
+                      "finish-registration"
+                    ]
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/auction/users/new-password": {
+      "put": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Verify old password and update to new password",
+        "description": "Verify old password and update to new password",
+        "operationId": "de3bfaa31e17bce61dde02a5dce274fe",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "currentPassword": {
+                    "type": "string"
+                  },
+                  "newPassword": {
+                    "type": "string"
+                  },
+                  "newPasswordConfirmation": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auction/users/viewed-modal": {
+      "put": {
+        "tags": [
+          "auction"
+        ],
+        "summary": "Update modal viewed status",
+        "operationId": "4db968d7c4f83411fa8b2b3a6f13a1fa",
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/auth/forgot-password": {
+      "post": {
+        "tags": [
+          "auth"
+        ],
+        "summary": "Forgot Password",
+        "description": "Forgot Password",
+        "operationId": "cc2d49f747202f7126dc5e2d9f868667",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "email": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "We sent you a link to reset your password by email."
+          },
+          "404": {
+            "description": "User not found"
+          },
+          "422": {
+            "description": "Invalid email value"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/auth/policy-consent": {
+      "post": {
+        "tags": [
+          "auth"
+        ],
+        "summary": "Accepted cookies by user",
+        "description": "Accepted cookies by user",
+        "operationId": "5203c45b30af4169dc2777139aacb789",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "origin": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success!"
+          },
+          "401": {
+            "description": "Unautorized"
+          }
+        }
+      }
+    },
+    "/post-officer/newsletter/subscribe": {
+      "post": {
+        "tags": [
+          "post-officer"
+        ],
+        "summary": "Subscribe email to newsletter list",
+        "operationId": "bfd25780f642d30074b0b86fb4c45074",
+        "requestBody": [],
+        "responses": {
+          "200": {
+            "description": "Subscribe succesful"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/post-officer/send-sms": {
+      "post": {
+        "tags": [
+          "post-officer"
+        ],
+        "summary": "Send SMS",
+        "operationId": "98d9ffd96abd4340286619f4f91b708f",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "mobile": {
+                    "type": "string"
+                  },
+                  "message": {
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Sms enviado com sucesso"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    }
+  },
+  "components": []
+}

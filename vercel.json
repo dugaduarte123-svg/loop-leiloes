@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "functions": {
+    "api/index.js": {
+      "runtime": "nodejs20.x",
+      "maxDuration": 60,
+      "includeFiles": [
+        "app/**",
+        "data/public-api/**",
+        "s/loopleiloes.com.br/**",
+        "s/api.loopleiloes.com.br/**",
+        "s/strapi.loopbrasil.com/**",
+        "s/objectstorage.sa-saopaulo-1.oraclecloud.com/**"
+      ]
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index.js" }
+  ]
+}

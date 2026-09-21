@@ -1,0 +1,1355 @@
+{
+  "id": 168828,
+  "number": 25,
+  "description": "PEUGEOT 207 1.6 XS 16V FLEX 4P AUTOMÁTICO 2012/2013",
+  "status": "aberto_para_lance",
+  "classification": 5,
+  "isFinancing": false,
+  "closingDate": "2026-09-22 11:20:00",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60105724,
+    "brand": "PEUGEOT",
+    "model": "207",
+    "version": "1.6 XS 16V FLEX 4P AUTOMÁTICO",
+    "category": "carros",
+    "fipePrice": 29664,
+    "webmotorsPrice": 29900,
+    "images": [
+      {
+        "uuid": "019f42e3-dcaf-7abf-ab40-8c30f222b43a",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-motorista-8a96ccc3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-motorista-8a96ccc3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-motorista-8a96ccc3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-motorista-8a96ccc3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-motorista-8a96ccc3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-motorista-8a96ccc3.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-524d-7b71-998a-cccfd5e69e4a",
+        "filename": "painel-km-eac872a6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/painel-km-eac872a6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/painel-km-eac872a6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/painel-km-eac872a6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/painel-km-eac872a6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/painel-km-eac872a6.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-5801-7f3c-866c-b3843bc168b5",
+        "filename": "kit-multimidia-fba7f241.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/kit-multimidia-fba7f241.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/kit-multimidia-fba7f241.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/kit-multimidia-fba7f241.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/kit-multimidia-fba7f241.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/kit-multimidia-fba7f241.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-5d82-707e-bb89-7093dd4da693",
+        "filename": "motor-41c205be.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/motor-41c205be.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/motor-41c205be.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/motor-41c205be.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/motor-41c205be.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/motor-41c205be.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-6228-7d2a-a908-6fc4146e710e",
+        "filename": "porta-e-interior-motorista-e129162d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/porta-e-interior-motorista-e129162d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/porta-e-interior-motorista-e129162d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/porta-e-interior-motorista-e129162d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/porta-e-interior-motorista-e129162d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/porta-e-interior-motorista-e129162d.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-66b7-73f8-b766-cbbb2ef77f67",
+        "filename": "bancos-traseiros-f089c3d7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/bancos-traseiros-f089c3d7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/bancos-traseiros-f089c3d7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/bancos-traseiros-f089c3d7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/bancos-traseiros-f089c3d7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/bancos-traseiros-f089c3d7.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-6b78-7952-afcc-e3362262b40a",
+        "filename": "painel-completo-687c28c3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/painel-completo-687c28c3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/painel-completo-687c28c3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/painel-completo-687c28c3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/painel-completo-687c28c3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/painel-completo-687c28c3.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-704c-7f22-bc1b-0558a02dd5b1",
+        "filename": "porta-malas-c87f0133.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/porta-malas-c87f0133.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/porta-malas-c87f0133.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/porta-malas-c87f0133.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/porta-malas-c87f0133.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/porta-malas-c87f0133.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e1-753c-71c1-b4a4-ffbf3db892d3",
+        "filename": "estepe-5c5a80e5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/estepe-5c5a80e5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/estepe-5c5a80e5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/estepe-5c5a80e5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/estepe-5c5a80e5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/estepe-5c5a80e5.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e3-cd81-7f3e-bfc1-ed7b0e515d01",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-e-interior-passageiro-0fd5ee89.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-e-interior-passageiro-0fd5ee89.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-e-interior-passageiro-0fd5ee89.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-e-interior-passageiro-0fd5ee89.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-e-interior-passageiro-0fd5ee89.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-e-interior-passageiro-0fd5ee89.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e3-e143-7b78-abed-e339ef3f6a9b",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-passageiro-df54fc66.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-passageiro-df54fc66.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-passageiro-df54fc66.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-passageiro-df54fc66.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-passageiro-df54fc66.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-frente-passageiro-df54fc66.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e3-e5ff-7f2a-80b0-e1c635831f0b",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-passageiro-1d3378c7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-passageiro-1d3378c7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-passageiro-1d3378c7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-passageiro-1d3378c7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-passageiro-1d3378c7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-passageiro-1d3378c7.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e3-ea8f-7532-b225-141800f77ab9",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-motorista-dd950d07.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-motorista-dd950d07.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-motorista-dd950d07.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-motorista-dd950d07.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-motorista-dd950d07.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-traseira-motorista-dd950d07.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-b6f9-7934-8f1e-406ecd6ded07",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-esquerdo-3c0baa69.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-esquerdo-3c0baa69.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-esquerdo-3c0baa69.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-esquerdo-3c0baa69.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-esquerdo-3c0baa69.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-esquerdo-3c0baa69.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-bd91-778a-8c43-c165c2bbb620",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-esquerdo-fc132cb9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-esquerdo-fc132cb9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-esquerdo-fc132cb9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-esquerdo-fc132cb9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-esquerdo-fc132cb9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-esquerdo-fc132cb9.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-c274-7c05-b0ec-1c88073ebccf",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-direito-b03389a0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-direito-b03389a0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-direito-b03389a0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-direito-b03389a0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-direito-b03389a0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-traseiro-direito-b03389a0.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-c796-7a59-9dd2-7b2e3404cee9",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-direito-a025028d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-direito-a025028d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-direito-a025028d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-direito-a025028d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-direito-a025028d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-pneu-dianteiro-direito-a025028d.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-ccd1-768c-a539-a1a5f6de770d",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-capo-e143dd5d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-capo-e143dd5d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-capo-e143dd5d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-capo-e143dd5d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-capo-e143dd5d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-capo-e143dd5d.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-d18f-7638-b7b7-8ca0a7ffa42a",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-esquerdo-7467176c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-esquerdo-7467176c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-esquerdo-7467176c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-esquerdo-7467176c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-esquerdo-7467176c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-esquerdo-7467176c.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-d5f7-72a0-803e-469101b662c3",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-esquerda-be799b9a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-esquerda-be799b9a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-esquerda-be799b9a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-esquerda-be799b9a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-esquerda-be799b9a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-esquerda-be799b9a.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-dab8-7a7a-b33c-11679ec850c9",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-esquerda-67688b75.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-esquerda-67688b75.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-esquerda-67688b75.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-esquerda-67688b75.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-esquerda-67688b75.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-esquerda-67688b75.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-defa-732f-916c-e9de6407725b",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-esquerda-a352c419.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-esquerda-a352c419.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-esquerda-a352c419.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-esquerda-a352c419.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-esquerda-a352c419.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-esquerda-a352c419.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-e392-77de-a89a-337bb2d599b7",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-tampa-do-porta-malas-7fb616ee.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-tampa-do-porta-malas-7fb616ee.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-tampa-do-porta-malas-7fb616ee.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-tampa-do-porta-malas-7fb616ee.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-tampa-do-porta-malas-7fb616ee.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-tampa-do-porta-malas-7fb616ee.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-e80e-76c8-a8a9-be3992520884",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-direita-f88253fa.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-direita-f88253fa.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-direita-f88253fa.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-direita-f88253fa.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-direita-f88253fa.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-lateral-traseira-direita-f88253fa.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-ed04-7f84-871f-bde3f430909e",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-direita-9f565782.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-direita-9f565782.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-direita-9f565782.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-direita-9f565782.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-direita-9f565782.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-traseira-direita-9f565782.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-f1fe-7c6b-9d78-bd7e3aaf2f0b",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-direita-c27c75fc.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-direita-c27c75fc.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-direita-c27c75fc.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-direita-c27c75fc.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-direita-c27c75fc.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-porta-dianteira-direita-c27c75fc.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-f728-7e5f-8f5d-4db403fee46c",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-direito-b3e5a805.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-direito-b3e5a805.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-direito-b3e5a805.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-direito-b3e5a805.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-direito-b3e5a805.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-paralama-dianteiro-direito-b3e5a805.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e5-fbc5-7e6a-9c46-964b7552afce",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-frente-fe44ea29.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-frente-fe44ea29.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-frente-fe44ea29.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-frente-fe44ea29.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-frente-fe44ea29.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-frente-fe44ea29.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42e6-00d2-7e23-91bd-63142c4e3d2b",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-traseira-5d5ae0f1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-traseira-5d5ae0f1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-traseira-5d5ae0f1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-traseira-5d5ae0f1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-traseira-5d5ae0f1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-teto-traseira-5d5ae0f1.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-8f07-7387-bed6-12b339355d8f",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533792500-q06r7c-5e7bf074.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533792500-q06r7c-5e7bf074.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533792500-q06r7c-5e7bf074.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533792500-q06r7c-5e7bf074.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533792500-q06r7c-5e7bf074.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533792500-q06r7c-5e7bf074.jpg"
+        },
+        "type": "damages-1783533792500-q06r7c",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-93e9-7806-9696-e65276eda90f",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533797555-qqyafi-0c5b901f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533797555-qqyafi-0c5b901f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533797555-qqyafi-0c5b901f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533797555-qqyafi-0c5b901f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533797555-qqyafi-0c5b901f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533797555-qqyafi-0c5b901f.jpg"
+        },
+        "type": "damages-1783533797555-qqyafi",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-98cb-7b7c-a0bc-58e6d4fbd449",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533802871-lw1vkv-cd27ef8f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533802871-lw1vkv-cd27ef8f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533802871-lw1vkv-cd27ef8f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533802871-lw1vkv-cd27ef8f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533802871-lw1vkv-cd27ef8f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533802871-lw1vkv-cd27ef8f.jpg"
+        },
+        "type": "damages-1783533802871-lw1vkv",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-9dfa-73c4-8dba-8cf584efc276",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533809785-4skgru-0e4ed7f7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533809785-4skgru-0e4ed7f7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533809785-4skgru-0e4ed7f7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533809785-4skgru-0e4ed7f7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533809785-4skgru-0e4ed7f7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533809785-4skgru-0e4ed7f7.jpg"
+        },
+        "type": "damages-1783533809785-4skgru",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-a2fa-7876-91fa-5229a80ef8b5",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533819727-dms409-cf77d6ef.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533819727-dms409-cf77d6ef.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533819727-dms409-cf77d6ef.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533819727-dms409-cf77d6ef.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533819727-dms409-cf77d6ef.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533819727-dms409-cf77d6ef.jpg"
+        },
+        "type": "damages-1783533819727-dms409",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-a78e-7039-8745-b1dc80fd9e8a",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533828095-gheyd5-1f416dab.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533828095-gheyd5-1f416dab.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533828095-gheyd5-1f416dab.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533828095-gheyd5-1f416dab.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533828095-gheyd5-1f416dab.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533828095-gheyd5-1f416dab.jpg"
+        },
+        "type": "damages-1783533828095-gheyd5",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-acd9-7592-93ee-94a4e460e896",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533832463-1gh9w8-5154a24f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533832463-1gh9w8-5154a24f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533832463-1gh9w8-5154a24f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533832463-1gh9w8-5154a24f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533832463-1gh9w8-5154a24f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533832463-1gh9w8-5154a24f.jpg"
+        },
+        "type": "damages-1783533832463-1gh9w8",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-b181-78af-ae11-7624a01e6466",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533837946-erqbaz-276ba7f9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533837946-erqbaz-276ba7f9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533837946-erqbaz-276ba7f9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533837946-erqbaz-276ba7f9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533837946-erqbaz-276ba7f9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533837946-erqbaz-276ba7f9.jpg"
+        },
+        "type": "damages-1783533837946-erqbaz",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-b63a-766c-bec1-d7f32bec5278",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533845763-cq56l8-d06edbb2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533845763-cq56l8-d06edbb2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533845763-cq56l8-d06edbb2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533845763-cq56l8-d06edbb2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533845763-cq56l8-d06edbb2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533845763-cq56l8-d06edbb2.jpg"
+        },
+        "type": "damages-1783533845763-cq56l8",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-ba9f-7f54-9ce7-0ae6b58a5b62",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533852270-qivr97-b0c13816.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533852270-qivr97-b0c13816.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533852270-qivr97-b0c13816.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533852270-qivr97-b0c13816.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533852270-qivr97-b0c13816.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533852270-qivr97-b0c13816.jpg"
+        },
+        "type": "damages-1783533852270-qivr97",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-bf3e-7f2f-9c65-89e032d7b7a4",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533857042-5vtsw0-1f75bf7e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533857042-5vtsw0-1f75bf7e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533857042-5vtsw0-1f75bf7e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533857042-5vtsw0-1f75bf7e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533857042-5vtsw0-1f75bf7e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533857042-5vtsw0-1f75bf7e.jpg"
+        },
+        "type": "damages-1783533857042-5vtsw0",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-c451-7669-8ddc-68f4c7705f17",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533864691-8keipn-4efe5db1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533864691-8keipn-4efe5db1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533864691-8keipn-4efe5db1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533864691-8keipn-4efe5db1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533864691-8keipn-4efe5db1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533864691-8keipn-4efe5db1.jpg"
+        },
+        "type": "damages-1783533864691-8keipn",
+        "isPublic": true,
+        "description": "Avarias 12",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-c953-76c4-af8e-f90abe933991",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533870130-8zuap6-e9416ac1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533870130-8zuap6-e9416ac1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533870130-8zuap6-e9416ac1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533870130-8zuap6-e9416ac1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533870130-8zuap6-e9416ac1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533870130-8zuap6-e9416ac1.jpg"
+        },
+        "type": "damages-1783533870130-8zuap6",
+        "isPublic": true,
+        "description": "Avarias 13",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-ce11-78d9-9b16-eaf7d75956c0",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533876931-t1bnc7-08592db4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533876931-t1bnc7-08592db4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533876931-t1bnc7-08592db4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533876931-t1bnc7-08592db4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533876931-t1bnc7-08592db4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533876931-t1bnc7-08592db4.jpg"
+        },
+        "type": "damages-1783533876931-t1bnc7",
+        "isPublic": true,
+        "description": "Avarias 14",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-d322-7d88-af9f-f3eba9923457",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533883679-35oqm7-a7e48e5c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533883679-35oqm7-a7e48e5c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533883679-35oqm7-a7e48e5c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533883679-35oqm7-a7e48e5c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533883679-35oqm7-a7e48e5c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533883679-35oqm7-a7e48e5c.jpg"
+        },
+        "type": "damages-1783533883679-35oqm7",
+        "isPublic": true,
+        "description": "Avarias 15",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-d783-7a90-95cf-00533c567ca1",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533888964-ziwzy6-2825c4b1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533888964-ziwzy6-2825c4b1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533888964-ziwzy6-2825c4b1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533888964-ziwzy6-2825c4b1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533888964-ziwzy6-2825c4b1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533888964-ziwzy6-2825c4b1.jpg"
+        },
+        "type": "damages-1783533888964-ziwzy6",
+        "isPublic": true,
+        "description": "Avarias 16",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-dc47-7a2b-9385-94c4cf1bbeea",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533896736-1glvag-84972a70.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533896736-1glvag-84972a70.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533896736-1glvag-84972a70.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533896736-1glvag-84972a70.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533896736-1glvag-84972a70.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533896736-1glvag-84972a70.jpg"
+        },
+        "type": "damages-1783533896736-1glvag",
+        "isPublic": true,
+        "description": "Avarias 17",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-e0b5-78c1-8534-3ef300131e93",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533902686-tpj8b2-0aeeff44.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533902686-tpj8b2-0aeeff44.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533902686-tpj8b2-0aeeff44.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533902686-tpj8b2-0aeeff44.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533902686-tpj8b2-0aeeff44.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533902686-tpj8b2-0aeeff44.jpg"
+        },
+        "type": "damages-1783533902686-tpj8b2",
+        "isPublic": true,
+        "description": "Avarias 18",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-e5ce-70a7-8de2-ad4878a23da0",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533910416-qf3zma-89b0c8e0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533910416-qf3zma-89b0c8e0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533910416-qf3zma-89b0c8e0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533910416-qf3zma-89b0c8e0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533910416-qf3zma-89b0c8e0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533910416-qf3zma-89b0c8e0.jpg"
+        },
+        "type": "damages-1783533910416-qf3zma",
+        "isPublic": true,
+        "description": "Avarias 19",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-ea7d-7955-9702-3ff0ce16c0dc",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533916540-uq7ev8-b7b8e088.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533916540-uq7ev8-b7b8e088.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533916540-uq7ev8-b7b8e088.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533916540-uq7ev8-b7b8e088.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533916540-uq7ev8-b7b8e088.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533916540-uq7ev8-b7b8e088.jpg"
+        },
+        "type": "damages-1783533916540-uq7ev8",
+        "isPublic": true,
+        "description": "Avarias 20",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-eede-70f3-8f78-2894474d906e",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533921813-2oko2t-e7977683.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533921813-2oko2t-e7977683.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533921813-2oko2t-e7977683.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533921813-2oko2t-e7977683.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533921813-2oko2t-e7977683.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533921813-2oko2t-e7977683.jpg"
+        },
+        "type": "damages-1783533921813-2oko2t",
+        "isPublic": true,
+        "description": "Avarias 21",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-f32e-7b3d-9935-e2c3e9423699",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533933215-szq4a1-8e3a5664.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533933215-szq4a1-8e3a5664.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533933215-szq4a1-8e3a5664.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533933215-szq4a1-8e3a5664.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533933215-szq4a1-8e3a5664.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533933215-szq4a1-8e3a5664.jpg"
+        },
+        "type": "damages-1783533933215-szq4a1",
+        "isPublic": true,
+        "description": "Avarias 22",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-f782-7db8-94ac-4951e2701f29",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533938355-yk4fbn-d8717cc1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533938355-yk4fbn-d8717cc1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533938355-yk4fbn-d8717cc1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533938355-yk4fbn-d8717cc1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533938355-yk4fbn-d8717cc1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533938355-yk4fbn-d8717cc1.jpg"
+        },
+        "type": "damages-1783533938355-yk4fbn",
+        "isPublic": true,
+        "description": "Avarias 23",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42ea-fd3a-7a5f-a9ea-e71fce44d3e0",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533944729-t0ad77-c7cc6a7f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533944729-t0ad77-c7cc6a7f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533944729-t0ad77-c7cc6a7f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533944729-t0ad77-c7cc6a7f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533944729-t0ad77-c7cc6a7f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533944729-t0ad77-c7cc6a7f.jpg"
+        },
+        "type": "damages-1783533944729-t0ad77",
+        "isPublic": true,
+        "description": "Avarias 24",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-027b-75c6-8003-86ba9828ade8",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533950798-ry29vz-a55d45d7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533950798-ry29vz-a55d45d7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533950798-ry29vz-a55d45d7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533950798-ry29vz-a55d45d7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533950798-ry29vz-a55d45d7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533950798-ry29vz-a55d45d7.jpg"
+        },
+        "type": "damages-1783533950798-ry29vz",
+        "isPublic": true,
+        "description": "Avarias 25",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-0739-7ade-860e-ca3868698da7",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533957564-zgghbw-3c4da28b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533957564-zgghbw-3c4da28b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533957564-zgghbw-3c4da28b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533957564-zgghbw-3c4da28b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533957564-zgghbw-3c4da28b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533957564-zgghbw-3c4da28b.jpg"
+        },
+        "type": "damages-1783533957564-zgghbw",
+        "isPublic": true,
+        "description": "Avarias 26",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-0bf0-785f-80d1-c1aeff51eb08",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533962390-ix1n8c-f9c84b21.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533962390-ix1n8c-f9c84b21.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533962390-ix1n8c-f9c84b21.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533962390-ix1n8c-f9c84b21.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533962390-ix1n8c-f9c84b21.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533962390-ix1n8c-f9c84b21.jpg"
+        },
+        "type": "damages-1783533962390-ix1n8c",
+        "isPublic": true,
+        "description": "Avarias 27",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-1115-7637-a7b9-d3a61d69248c",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533974721-b5b1kc-76f93108.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533974721-b5b1kc-76f93108.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533974721-b5b1kc-76f93108.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533974721-b5b1kc-76f93108.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533974721-b5b1kc-76f93108.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533974721-b5b1kc-76f93108.jpg"
+        },
+        "type": "damages-1783533974721-b5b1kc",
+        "isPublic": true,
+        "description": "Avarias 28",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-1604-7b4d-a64e-e06da22edf1b",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533979411-1qx5nj-f3bed1ca.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533979411-1qx5nj-f3bed1ca.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533979411-1qx5nj-f3bed1ca.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533979411-1qx5nj-f3bed1ca.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533979411-1qx5nj-f3bed1ca.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533979411-1qx5nj-f3bed1ca.jpg"
+        },
+        "type": "damages-1783533979411-1qx5nj",
+        "isPublic": true,
+        "description": "Avarias 29",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-1af2-7d85-a2e4-7357bd35f9c9",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533986790-yjj0gk-01a7a67a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533986790-yjj0gk-01a7a67a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533986790-yjj0gk-01a7a67a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533986790-yjj0gk-01a7a67a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533986790-yjj0gk-01a7a67a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533986790-yjj0gk-01a7a67a.jpg"
+        },
+        "type": "damages-1783533986790-yjj0gk",
+        "isPublic": true,
+        "description": "Avarias 30",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-1fe3-7932-8f4b-80525100155b",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533996936-luc0t8-77546006.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533996936-luc0t8-77546006.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533996936-luc0t8-77546006.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533996936-luc0t8-77546006.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533996936-luc0t8-77546006.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783533996936-luc0t8-77546006.jpg"
+        },
+        "type": "damages-1783533996936-luc0t8",
+        "isPublic": true,
+        "description": "Avarias 31",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-24db-7d4a-bc00-5770e0ab1386",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534036525-1bfxn3-e06c2600.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534036525-1bfxn3-e06c2600.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534036525-1bfxn3-e06c2600.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534036525-1bfxn3-e06c2600.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534036525-1bfxn3-e06c2600.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534036525-1bfxn3-e06c2600.jpg"
+        },
+        "type": "damages-1783534036525-1bfxn3",
+        "isPublic": true,
+        "description": "Avarias 32",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-2acd-73a9-aa5a-efca2dc9ce2e",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534070630-hluw4q-888055e4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534070630-hluw4q-888055e4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534070630-hluw4q-888055e4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534070630-hluw4q-888055e4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534070630-hluw4q-888055e4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534070630-hluw4q-888055e4.jpg"
+        },
+        "type": "damages-1783534070630-hluw4q",
+        "isPublic": true,
+        "description": "Avarias 33",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "019f42eb-723c-79c2-a3a3-54166fa71f02",
+        "filename": "peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534151118-h4tgb5-72fd985b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534151118-h4tgb5-72fd985b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534151118-h4tgb5-72fd985b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534151118-h4tgb5-72fd985b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534151118-h4tgb5-72fd985b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/peugeot-207-1-6-xs-16v-flex-4p-automatico-damages-1783534151118-h4tgb5-72fd985b.jpg"
+        },
+        "type": "damages-1783534151118-h4tgb5",
+        "isPublic": true,
+        "description": "Avarias 34",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": "https://youtu.be/FptGsHn83Qw?is=2egIMsCKsy_a6Fc7",
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2013,
+    "yearManufacture": 2012,
+    "color": "Prata",
+    "mileage": 103710,
+    "licensePlate": "N*****9"
+  },
+  "observation": "VEÍCULO COM LATARIA E PINTURA COM RISCOS E AMASSADOS, PARABRISA TRINCADO. Observações: VEICULO COM A GRAVAÇÃO DO CAMBIO OBSTRUIDA/SEM ACESSO. POSSUI REPARO DE FUNILARIA E PINTURA EM TODA EXTENSAO DA CARROCERIA. PARA-BRISA NAO ORIGINAL. CAIXA DE RODA DIANTEIRA LADO DIREITO COM INICIO DE OXIDAÇÃO. PARA-CHOQUES ARRANHADOS. PORTA TRASEIRA LADO DIREITO AMASSADA. FOLHA TRASEIRA LADO ESQUERDO TROCADA. POSSUI HISTORICO DE COMERCIALIZAÇÃO EM LEILAO. QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Prata"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "103710"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": "https://youtu.be/FptGsHn83Qw?is=2egIMsCKsy_a6Fc7"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Não possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO COM LATARIA E PINTURA COM RISCOS E AMASSADOS, PARABRISA TRINCADO. Observações: VEICULO COM A GRAVAÇÃO DO CAMBIO OBSTRUIDA/SEM ACESSO. POSSUI REPARO DE FUNILARIA E PINTURA EM TODA EXTENSAO DA CARROCERIA. PARA-BRISA NAO ORIGINAL. CAIXA DE RODA DIANTEIRA LADO DIREITO COM INICIO DE OXIDAÇÃO. PARA-CHOQUES ARRANHADOS. PORTA TRASEIRA LADO DIREITO AMASSADA. FOLHA TRASEIRA LADO ESQUERDO TROCADA. POSSUI HISTORICO DE COMERCIALIZAÇÃO EM LEILAO. QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Não funciona"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Aprovado com apontamento"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "5"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "Observações: VEICULO COM A GRAVAÇÃO DO CAMBIO OBSTRUIDA/SEM ACESSO. POSSUI REPARO DE FUNILARIA E PINTURA EM TODA EXTENSAO DA CARROCERIA. PARA-BRISA NAO ORIGINAL. CAIXA DE RODA DIANTEIRA LADO DIREITO COM INICIO DE OXIDAÇÃO. PARA-CHOQUES ARRANHADOS. PORTA TRASEIRA LADO DIREITO AMASSADA. FOLHA TRASEIRA LADO ESQUERDO TROCADA. POSSUI HISTORICO DE COMERCIALIZAÇÃO EM LEILAO."
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Sim, não funciona"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Outros",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Penha Circular - Rio De Janeiro - RJ",
+      "url": "https://maps.google.com/?q=RUA+DO+ALHO%2C+1421+-+Rio+De+Janeiro%2C+RJ"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}

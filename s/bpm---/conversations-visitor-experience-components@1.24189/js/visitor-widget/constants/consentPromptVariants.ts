@@ -1,0 +1,3 @@
+export const WELCOME_MESSAGE = 'WELCOME_MESSAGE';
+export const CHAT_THREAD = 'CHAT_THREAD';
+export const SPOTLIGHT = 'SPOTLIGHT';

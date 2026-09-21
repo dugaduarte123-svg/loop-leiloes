@@ -1,0 +1,1 @@
+export const isInPreview = () => new URLSearchParams(window.location.search).get('preview') === 'true';

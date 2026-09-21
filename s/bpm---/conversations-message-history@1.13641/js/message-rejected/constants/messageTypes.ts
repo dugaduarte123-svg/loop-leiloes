@@ -1,0 +1,1 @@
+export const MESSAGE_REJECTED = 'MESSAGE_REJECTED';

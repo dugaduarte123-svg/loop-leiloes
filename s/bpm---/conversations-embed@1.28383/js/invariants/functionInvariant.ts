@@ -1,0 +1,2 @@
+import invariant from '../utils/invariant';
+export const functionInvariant = potentialFunction => invariant(typeof potentialFunction === 'function' && potentialFunction !== null, `Expected %s to be a function`, potentialFunction);

@@ -1,0 +1,1 @@
+export const SPOTLIGHT_FORM_FACTOR_GATE = 'LiveChat:SpotlightFormFactor';

@@ -1,0 +1,11 @@
+export const CARD_ID = 'cardId';
+export const CARD_INSTANCE_ID = 'cardInstanceId';
+export const CONTEXT = 'context';
+export const DYNAMIC_TEXTS = 'dynamicTexts';
+export const ERROR_REASON = 'errorReason';
+export const LOCALE = 'locale';
+export const STATE_NAME = 'stateName';
+export const TEMPLATE = 'template';
+export const TEMPLATE_VERSION = 'templateVersion';
+export const CARD_INSTANCE_VERSION = 'cardInstanceVersion';
+export const ID = 'id';

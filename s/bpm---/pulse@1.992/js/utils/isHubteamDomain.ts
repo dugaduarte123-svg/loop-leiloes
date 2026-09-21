@@ -1,0 +1,3 @@
+// Matches hub-http-janus/loadBalancers.ts and rpc-client-utils/chirp-quick-fetch.ts
+const HUBTEAM_DOMAIN = /\.hubteam(qa)?\.com$/;
+export const isHubteamDomain = (hostname = typeof window !== 'undefined' ? ((_window$location$host, _window$location) => (_window$location$host = (_window$location = window.location) === null || _window$location === void 0 ? void 0 : _window$location.hostname) !== null && _window$location$host !== void 0 ? _window$location$host : '')() : '') => HUBTEAM_DOMAIN.test(hostname);

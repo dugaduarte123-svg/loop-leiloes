@@ -1,0 +1,3 @@
+export const visit = (vm, at) => {
+at({ "en": { "conversations-internal-schema": { "availability": { "awayMessage": { "defaultMessageText": "We're away right now, but we'll get back to you as soon as we can." }, "awayInOfficeHoursAutoReply": { "defaultMessageText": "Thanks for reaching out. We're now offline, we will respond as soon as we're back." }, "teamMembersAwayAutoReply": { "defaultMessageText": "Thanks for reaching out. We're now offline, we will respond as soon as we're back." }, "outsideOfficeHoursMessage": { "defaultMessageText": "We're away right now, but we'll get back to you as soon as we can." }, "outsideOfficeHoursAutoReply": { "defaultMessageText": "Thanks for reaching out. We're now offline, we will respond as soon as we're back." } } } } });
+};

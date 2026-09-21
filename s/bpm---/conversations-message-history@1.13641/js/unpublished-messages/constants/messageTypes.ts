@@ -1,0 +1,3 @@
+export const MESSAGE_TYPE_ID = '@type';
+export const ACTIVELY_PUBLISHING = 'ACTIVELY_PUBLISHING';
+export const FAILED_TO_PUBLISH = 'FAILED_TO_PUBLISH';

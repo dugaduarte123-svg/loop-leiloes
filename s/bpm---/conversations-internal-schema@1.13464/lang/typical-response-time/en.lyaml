@@ -1,0 +1,3 @@
+export const visit = (vm, at) => {
+at({ "en": { "conversations-internal-schema": { "typicalResponseTime": { "standardResponses": { "FEW_MINUTES": "We typically reply in a few minutes", "FEW_HOURS": "We typically reply in a few hours", "WITHIN_DAY": "We typically reply in a day" }, "customResponses": { "MINUTES": { "one": "We typically reply in {{ count }} minute", "other": "We typically reply in {{ count }} minutes" }, "HOURS": { "one": "We typically reply in {{ count }} hour", "other": "We typically reply in {{ count }} hours" }, "DAYS": { "one": "We typically reply in {{ count }} day", "other": "We typically reply in {{ count }} days" } } } } } });
+};

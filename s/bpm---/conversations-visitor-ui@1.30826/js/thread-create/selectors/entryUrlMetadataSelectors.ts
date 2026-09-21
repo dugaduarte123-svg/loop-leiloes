@@ -1,0 +1,1 @@
+export const getEntryUrlMetadata = state => state.entryUrlMetadata;

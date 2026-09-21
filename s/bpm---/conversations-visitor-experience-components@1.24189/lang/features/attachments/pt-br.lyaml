@@ -1,0 +1,3 @@
+export const visit = (vm, at) => {
+at({ "pt-br": { "conversations-visitor-experience-components": { "stagedAttachment": { "uploadProgress": "{{uploadedBytes}} de {{totalBytes}}" }, "fileSizeLimit": "O arquivo n\xE3o pode ser maior que {{size}}", "screenCapture": "Captura de tela", "attachFile": "Anexar arquivo", "screenshotDisabledTooltip": "Para fazer uma captura de tela, envie uma mensagem primeiro.", "attachmentDisabledTooltip": "Para anexar um arquivo, envie uma mensagem primeiro.", "threadPreview": "Um anexo foi enviado" } } });
+};

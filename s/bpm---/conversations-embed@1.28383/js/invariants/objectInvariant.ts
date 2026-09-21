@@ -1,0 +1,2 @@
+import invariant from '../utils/invariant';
+export const objectInvariant = (potentialObject, objectName = '') => invariant(typeof potentialObject === 'object' && potentialObject !== null, `Expected %s to be an object`, objectName || potentialObject);

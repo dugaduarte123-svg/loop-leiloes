@@ -1,0 +1,2 @@
+export const LEFT_ALIGNED = 'LEFT_ALIGNED';
+export const RIGHT_ALIGNED = 'RIGHT_ALIGNED';

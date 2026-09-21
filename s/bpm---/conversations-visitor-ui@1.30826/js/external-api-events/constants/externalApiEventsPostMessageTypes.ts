@@ -1,0 +1,1 @@
+export const EXTERNAL_API_EVENT = 'external-api-event';

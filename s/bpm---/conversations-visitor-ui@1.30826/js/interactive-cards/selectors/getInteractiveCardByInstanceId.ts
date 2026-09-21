@@ -1,0 +1,1 @@
+export const getInteractiveCardByInstanceId = (state, cardInstanceId) => state.interactiveCards.byInstanceId[cardInstanceId];

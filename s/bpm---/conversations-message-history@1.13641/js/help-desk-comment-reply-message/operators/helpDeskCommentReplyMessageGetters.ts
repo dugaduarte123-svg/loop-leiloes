@@ -1,0 +1,18 @@
+import getIn from 'transmute/getIn';
+import { NOTE_CREATED_BY_AGENT_ID, NOTE_CREATED_BY_AGENT_TYPE, COMMENT_CREATED_BY_AGENT_ID, COMMENT_CREATED_BY_AGENT_TYPE, NOTE_ID, SENDER, MESSAGE_DELETED_STATUS, COMMENT_CREATED_BY_ACTOR_ID, COMMENT_CREATED_AT_TIMESTAMP, CLIENT_TYPE, COMMENT_ID, ABLY_TS, TIMESTAMP, ID, TYPE, IS_MULTIPLE_SENDERS } from '../constants/keyPaths';
+export const getNoteCreatedByAgentId = getIn(NOTE_CREATED_BY_AGENT_ID);
+export const getNoteCreatedByAgentType = getIn(NOTE_CREATED_BY_AGENT_TYPE);
+export const getCommentCreatedByAgentId = getIn(COMMENT_CREATED_BY_AGENT_ID);
+export const getCommentCreatedByAgentType = getIn(COMMENT_CREATED_BY_AGENT_TYPE);
+export const getNoteId = getIn(NOTE_ID);
+export const getSender = getIn(SENDER);
+export const getMessageDeletedStatus = getIn(MESSAGE_DELETED_STATUS);
+export const getTimestamp = getIn(TIMESTAMP);
+export const getId = getIn(ID);
+export const getType = getIn(TYPE);
+export const getCommentCreatedByActorId = getIn(COMMENT_CREATED_BY_ACTOR_ID);
+export const getCommentCreatedAtTimestamp = getIn(COMMENT_CREATED_AT_TIMESTAMP);
+export const getClientType = getIn(CLIENT_TYPE);
+export const getCommentId = getIn(COMMENT_ID);
+export const getAblyTs = getIn(ABLY_TS);
+export const getIsMultipleSenders = getIn(IS_MULTIPLE_SENDERS);

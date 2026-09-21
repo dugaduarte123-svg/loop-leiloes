@@ -1,0 +1,989 @@
+{
+  "id": 169172,
+  "number": 116,
+  "description": "HYUNDAI TUCSON 2.0 MPFI GLS 16V 143CV 2WD FLEX 4P AUTOMÁTICO 2015/2016",
+  "status": "aberto_para_lance",
+  "classification": 6,
+  "isFinancing": false,
+  "closingDate": "2026-09-22 12:35:50",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 54029,
+    "description": "LOOP - VENDA EXPRESS"
+  },
+  "vehicle": {
+    "id": 60109576,
+    "brand": "HYUNDAI",
+    "model": "TUCSON",
+    "version": "2.0 MPFI GLS 16V 143CV 2WD FLEX 4P AUTOMÁTICO",
+    "category": "carros",
+    "fipePrice": 59709,
+    "webmotorsPrice": 59900,
+    "images": [
+      {
+        "uuid": "01a06769-d421-7736-94de-40bae704da90",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-motorista-f323fb86.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-motorista-f323fb86.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-motorista-f323fb86.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-motorista-f323fb86.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-motorista-f323fb86.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-motorista-f323fb86.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-5e8c-74de-b611-01df12853d2f",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-km-b00cc138.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-km-b00cc138.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-km-b00cc138.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-km-b00cc138.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-km-b00cc138.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-km-b00cc138.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-62aa-77df-aaad-bbd37ee317a7",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-kit-multimidia-db347fd9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-kit-multimidia-db347fd9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-kit-multimidia-db347fd9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-kit-multimidia-db347fd9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-kit-multimidia-db347fd9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-kit-multimidia-db347fd9.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-67b0-76ee-80ae-4ecec7ec97a3",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-motorista-010c34db.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-motorista-010c34db.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-motorista-010c34db.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-motorista-010c34db.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-motorista-010c34db.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-motorista-010c34db.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-6c9c-7a90-8677-09f4156ec95e",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-bancos-traseiros-765c8d17.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-bancos-traseiros-765c8d17.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-bancos-traseiros-765c8d17.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-bancos-traseiros-765c8d17.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-bancos-traseiros-765c8d17.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-bancos-traseiros-765c8d17.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-7214-7efa-bc25-4f1674a5177b",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-completo-a655c8e3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-completo-a655c8e3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-completo-a655c8e3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-completo-a655c8e3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-completo-a655c8e3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-painel-completo-a655c8e3.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-772a-7f81-a68b-186ff6d8d5a8",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-estepe-5871aff2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-estepe-5871aff2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-estepe-5871aff2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-estepe-5871aff2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-estepe-5871aff2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-estepe-5871aff2.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-7b96-7c0f-8dfb-c5a041e76714",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-malas-3704e8c3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-malas-3704e8c3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-malas-3704e8c3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-malas-3704e8c3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-malas-3704e8c3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-malas-3704e8c3.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-8073-787d-9307-56c39bc9bd94",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-passageiro-3f59751e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-passageiro-3f59751e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-passageiro-3f59751e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-passageiro-3f59751e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-passageiro-3f59751e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-e-interior-passageiro-3f59751e.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-85d1-7ce3-8483-e36c899c7096",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-motor-688dab43.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-motor-688dab43.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-motor-688dab43.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-motor-688dab43.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-motor-688dab43.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-motor-688dab43.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-d8bc-7dc8-9893-03101ea71ab4",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-passageiro-31e951e1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-passageiro-31e951e1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-passageiro-31e951e1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-passageiro-31e951e1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-passageiro-31e951e1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-frente-passageiro-31e951e1.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-e1ad-7a82-8748-4611f3b79f4f",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-passageiro-257c0466.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-passageiro-257c0466.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-passageiro-257c0466.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-passageiro-257c0466.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-passageiro-257c0466.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-passageiro-257c0466.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-e607-7140-8f80-a41c4f2bc881",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-motorista-8a40935f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-motorista-8a40935f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-motorista-8a40935f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-motorista-8a40935f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-motorista-8a40935f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-traseira-motorista-8a40935f.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-89ae-7473-b6de-c1b94474b12c",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-capo-adb04e5a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-capo-adb04e5a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-capo-adb04e5a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-capo-adb04e5a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-capo-adb04e5a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-capo-adb04e5a.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-8e98-7ed0-b9f6-e9b7e7832b15",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-esquerdo-5df5f9bb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-esquerdo-5df5f9bb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-esquerdo-5df5f9bb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-esquerdo-5df5f9bb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-esquerdo-5df5f9bb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-esquerdo-5df5f9bb.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-92e2-7139-b68e-c4e6138ced8c",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-esquerda-27c39105.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-esquerda-27c39105.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-esquerda-27c39105.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-esquerda-27c39105.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-esquerda-27c39105.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-esquerda-27c39105.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-97d8-71ef-8a6b-91f9b921ff2e",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-esquerda-23546be8.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-esquerda-23546be8.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-esquerda-23546be8.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-esquerda-23546be8.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-esquerda-23546be8.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-esquerda-23546be8.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-9bf0-7631-9432-8325e53d56c8",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-esquerda-ba3cee85.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-esquerda-ba3cee85.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-esquerda-ba3cee85.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-esquerda-ba3cee85.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-esquerda-ba3cee85.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-esquerda-ba3cee85.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-a050-74f9-a539-3429177971a4",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-tampa-do-porta-malas-4380b0c5.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-tampa-do-porta-malas-4380b0c5.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-tampa-do-porta-malas-4380b0c5.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-tampa-do-porta-malas-4380b0c5.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-tampa-do-porta-malas-4380b0c5.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-tampa-do-porta-malas-4380b0c5.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-a4a4-794c-972e-788ca6b64284",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-direita-29954f91.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-direita-29954f91.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-direita-29954f91.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-direita-29954f91.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-direita-29954f91.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-lateral-traseira-direita-29954f91.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-a8db-7e17-97e9-d2dc4b11ef65",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-direita-419345bb.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-direita-419345bb.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-direita-419345bb.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-direita-419345bb.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-direita-419345bb.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-traseira-direita-419345bb.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-ad0a-7aab-9eb7-922f078a4884",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-direita-794ebec3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-direita-794ebec3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-direita-794ebec3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-direita-794ebec3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-direita-794ebec3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-porta-dianteira-direita-794ebec3.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-b272-7381-8833-8a2ea4640252",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-direito-f7713138.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-direito-f7713138.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-direito-f7713138.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-direito-f7713138.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-direito-f7713138.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-paralama-dianteiro-direito-f7713138.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-b677-7ee6-aa83-53430dc0ae61",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-frente-821bfb39.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-frente-821bfb39.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-frente-821bfb39.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-frente-821bfb39.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-frente-821bfb39.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-frente-821bfb39.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-bb1b-74b3-8901-17d551045880",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-traseira-6b5bae33.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-traseira-6b5bae33.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-traseira-6b5bae33.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-traseira-6b5bae33.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-traseira-6b5bae33.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-teto-traseira-6b5bae33.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-bfbc-77d5-aab3-a5858ec2a092",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-direito-3d5b2fcd.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-direito-3d5b2fcd.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-direito-3d5b2fcd.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-direito-3d5b2fcd.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-direito-3d5b2fcd.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-direito-3d5b2fcd.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-c515-7ac2-a6d1-0cbb6065184f",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-direito-4ec30408.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-direito-4ec30408.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-direito-4ec30408.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-direito-4ec30408.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-direito-4ec30408.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-direito-4ec30408.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-ca11-781a-b9d0-bd5ea4b62884",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-esquerdo-2caf7440.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-esquerdo-2caf7440.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-esquerdo-2caf7440.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-esquerdo-2caf7440.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-esquerdo-2caf7440.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-traseiro-esquerdo-2caf7440.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a06769-cf1d-7e72-952f-99676522928a",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-esquerdo-826c0ca0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-esquerdo-826c0ca0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-esquerdo-826c0ca0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-esquerdo-826c0ca0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-esquerdo-826c0ca0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-pneu-dianteiro-esquerdo-826c0ca0.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676a-ea21-7b80-9375-7ffa8a82c5cc",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441367900-kd47ki-9aca8080.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441367900-kd47ki-9aca8080.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441367900-kd47ki-9aca8080.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441367900-kd47ki-9aca8080.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441367900-kd47ki-9aca8080.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441367900-kd47ki-9aca8080.jpg"
+        },
+        "type": "damages-1788441367900-kd47ki",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676a-ee40-7945-a9cb-3fd18eec60a4",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441372577-eizsre-f198b7c0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441372577-eizsre-f198b7c0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441372577-eizsre-f198b7c0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441372577-eizsre-f198b7c0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441372577-eizsre-f198b7c0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441372577-eizsre-f198b7c0.jpg"
+        },
+        "type": "damages-1788441372577-eizsre",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676a-f2ef-7e73-949d-12c649f0f0fe",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441380586-do0gpq-33ffa60b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441380586-do0gpq-33ffa60b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441380586-do0gpq-33ffa60b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441380586-do0gpq-33ffa60b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441380586-do0gpq-33ffa60b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441380586-do0gpq-33ffa60b.jpg"
+        },
+        "type": "damages-1788441380586-do0gpq",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676a-f78d-76fb-a0d6-65905da5981c",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441391942-hksynz-16642d09.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441391942-hksynz-16642d09.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441391942-hksynz-16642d09.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441391942-hksynz-16642d09.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441391942-hksynz-16642d09.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441391942-hksynz-16642d09.jpg"
+        },
+        "type": "damages-1788441391942-hksynz",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676a-fc26-70a9-bcbb-e1f661f8a3a1",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441396927-ubqisz-b79e5381.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441396927-ubqisz-b79e5381.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441396927-ubqisz-b79e5381.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441396927-ubqisz-b79e5381.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441396927-ubqisz-b79e5381.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441396927-ubqisz-b79e5381.jpg"
+        },
+        "type": "damages-1788441396927-ubqisz",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676b-0077-7f1e-9b7d-ef6b0de0e6e1",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441400853-1237k0-806fa763.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441400853-1237k0-806fa763.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441400853-1237k0-806fa763.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441400853-1237k0-806fa763.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441400853-1237k0-806fa763.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441400853-1237k0-806fa763.jpg"
+        },
+        "type": "damages-1788441400853-1237k0",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676b-0565-748f-80dd-74f09f2b7108",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441405840-2xtr73-9237538b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441405840-2xtr73-9237538b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441405840-2xtr73-9237538b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441405840-2xtr73-9237538b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441405840-2xtr73-9237538b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441405840-2xtr73-9237538b.jpg"
+        },
+        "type": "damages-1788441405840-2xtr73",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676b-09e8-7a98-a075-c0084ab7e39d",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441410511-3xtvqw-08501224.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441410511-3xtvqw-08501224.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441410511-3xtvqw-08501224.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441410511-3xtvqw-08501224.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441410511-3xtvqw-08501224.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441410511-3xtvqw-08501224.jpg"
+        },
+        "type": "damages-1788441410511-3xtvqw",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676b-0e39-7b41-9881-ffb298d480a6",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441418055-3bisv4-9d26fa89.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441418055-3bisv4-9d26fa89.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441418055-3bisv4-9d26fa89.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441418055-3bisv4-9d26fa89.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441418055-3bisv4-9d26fa89.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441418055-3bisv4-9d26fa89.jpg"
+        },
+        "type": "damages-1788441418055-3bisv4",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a0676b-125b-7319-99dc-cf132f4f123d",
+        "filename": "hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441434192-xlashv-daf20864.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441434192-xlashv-daf20864.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441434192-xlashv-daf20864.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441434192-xlashv-daf20864.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441434192-xlashv-daf20864.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/hyundai-tucson-2-0-mpfi-gls-16v-143cv-2wd-flex-4p-automatico-damages-1788441434192-xlashv-daf20864.jpg"
+        },
+        "type": "damages-1788441434192-xlashv",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      }
+    ],
+    "videoUrl": "https://youtu.be/r_CsV-f66O4?is=TdGQCLshxy0m2cAj",
+    "ipvaPaid": false
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2016,
+    "yearManufacture": 2015,
+    "color": "Cinza",
+    "mileage": 163282,
+    "licensePlate": "F*****6"
+  },
+  "observation": "PINTURA COM RISCOS.  PARABRISA TRINCADO. CONSTA PASSAGEM ANTERIOR EM LEILÃO E COMERCIALIZAÇÃO POR SEGURADORAS OU FINANCEIRAS. QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **\n",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "1 Chave"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Cinza"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Tecido"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "163282"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Caminhonete"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": "https://youtu.be/r_CsV-f66O4?is=TdGQCLshxy0m2cAj"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "PINTURA COM RISCOS.  PARABRISA TRINCADO. CONSTA PASSAGEM ANTERIOR EM LEILÃO E COMERCIALIZAÇÃO POR SEGURADORAS OU FINANCEIRAS. QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **\n"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Hidráulica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, com carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "6"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "CONSTA PASSAGEM ANTERIOR EM LEILÃO E COMERCIALIZAÇÃO POR SEGURADORAS OU FINANCEIRAS."
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    }
+  ],
+  "importantInfo": {
+    "seller": "LOOP - VENDA EXPRESS",
+    "additionalCharge": 1740,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": null,
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Vila Brás Cubas - Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    },
+    {
+      "id": 9,
+      "description": "Inspeção",
+      "type": "fixed",
+      "value": 190
+    },
+    {
+      "id": 10,
+      "description": "Documentação",
+      "type": "fixed",
+      "value": 1500
+    },
+    {
+      "id": 17,
+      "description": "Despesas de Remessa",
+      "type": "fixed",
+      "value": 50
+    }
+  ]
+}

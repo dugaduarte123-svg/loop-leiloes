@@ -1,0 +1,3 @@
+export const visit = (vm, at) => {
+at({ "en": { "conversations-visitor-experience-components": { "visitorWidget": { "header": { "threadListTitle": "Your Chats" }, "threadListCard": { "YourChats": "Your Chats", "YourChatsV2": "Chat History", "oneDayAgo": "One Day ago" }, "navigation": { "kbNavigation": "knowledge base navigation tabs", "options": { "chat": "Chat", "help": "Help" } } } } } });
+};

@@ -1,0 +1,1 @@
+export const OFFICE_HOURS = 'OFFICE_HOURS';

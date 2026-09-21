@@ -1,0 +1,19 @@
+module.exports = {
+  "/": {
+    "success": {
+      "default": [
+        "VISITOR_SUCCESS"
+      ]
+    },
+    "error": [
+      "VISITOR_ERROR",
+      "UTV_ERROR",
+      "GENERIC_ERROR"
+    ],
+    "partialSuccess": {
+      "Error with retry": [
+        "ERROR_WITH_RETRY"
+      ]
+    }
+  }
+};

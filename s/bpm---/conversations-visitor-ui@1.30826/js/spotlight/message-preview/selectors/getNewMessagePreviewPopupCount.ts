@@ -1,0 +1,1 @@
+export const getNewMessagePreviewPopupCount = state => state.newMessagePreviewPopup.count;

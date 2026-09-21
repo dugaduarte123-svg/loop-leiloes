@@ -1,0 +1,12 @@
+import { getDisabledBackgroundColor, getDisabledTextColor, getPlaceholderTextColor, getInputBorderColor, getInputBackgroundColor, getPrimaryColor } from '../../theme/defaultThemeOperators';
+import { WHITE } from '../../theme/ColorConstants';
+export const getSelectBorderColor = getInputBorderColor;
+export const getSelectBackgroundColor = getInputBackgroundColor;
+export const getSelectDisabledBackgroundColor = getDisabledBackgroundColor;
+export const getSelectDisabledTextColor = getDisabledTextColor;
+export const getSelectPlaceholderColor = getPlaceholderTextColor;
+export const getSelectDropdownBackgroundColor = () => WHITE;
+export const getSelectDropdownBorderColor = getInputBorderColor;
+export const getSelectOptionActiveColor = getPrimaryColor;
+export const getSelectArrowColor = getPrimaryColor;
+export const getSelectFocusOutline = getPrimaryColor;

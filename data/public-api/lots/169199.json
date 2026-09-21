@@ -1,0 +1,1371 @@
+{
+  "id": 169199,
+  "number": 143,
+  "description": "TOYOTA COROLLA 2.0 VVT-IE FLEX XEI DIRECT SHIFT 2021/2022",
+  "status": "aberto_para_lance",
+  "classification": 5,
+  "isFinancing": true,
+  "closingDate": "2026-09-22 12:58:20",
+  "auction": {
+    "id": 2744,
+    "description": "EVENTO PRESENCIAL E ONLINE MOGI",
+    "currentLot": null,
+    "commission": 5,
+    "type": "presencial_online"
+  },
+  "principal": {
+    "id": 3110,
+    "description": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO"
+  },
+  "vehicle": {
+    "id": 60109474,
+    "brand": "TOYOTA",
+    "model": "COROLLA",
+    "version": "2.0 VVT-IE FLEX XEI DIRECT SHIFT",
+    "category": "carros",
+    "fipePrice": 122084,
+    "webmotorsPrice": 128500,
+    "images": [
+      {
+        "uuid": "01a06da4-00e2-768c-a467-06496d057c5d",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-motorista-d20ae578.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-motorista-d20ae578.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-motorista-d20ae578.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-motorista-d20ae578.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-motorista-d20ae578.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-motorista-d20ae578.jpg"
+        },
+        "type": "frente-motorista",
+        "isPublic": true,
+        "description": "Frente motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-c45a-7865-b05f-5f22d0cdf57d",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-motorista-da05b80b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-motorista-da05b80b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-motorista-da05b80b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-motorista-da05b80b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-motorista-da05b80b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-motorista-da05b80b.jpg"
+        },
+        "type": "porta-e-interior-motorista",
+        "isPublic": true,
+        "description": "Porta e interior motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-c8e0-73c9-a914-1c7c93c23ae1",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-completo-a8264728.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-completo-a8264728.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-completo-a8264728.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-completo-a8264728.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-completo-a8264728.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-completo-a8264728.jpg"
+        },
+        "type": "painel-completo",
+        "isPublic": true,
+        "description": "Painel completo",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-cd60-7915-83a1-d662d541a67d",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-bancos-traseiros-8c0da74c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-bancos-traseiros-8c0da74c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-bancos-traseiros-8c0da74c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-bancos-traseiros-8c0da74c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-bancos-traseiros-8c0da74c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-bancos-traseiros-8c0da74c.jpg"
+        },
+        "type": "bancos-traseiros",
+        "isPublic": true,
+        "description": "Bancos traseiros",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-d183-7180-b443-70ce5d023c05",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-km-411707c6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-km-411707c6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-km-411707c6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-km-411707c6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-km-411707c6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-painel-km-411707c6.jpg"
+        },
+        "type": "painel-km",
+        "isPublic": true,
+        "description": "Painel KM",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-d61e-749b-88fc-9e5566682468",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-kit-multimidia-a0e50f91.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-kit-multimidia-a0e50f91.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-kit-multimidia-a0e50f91.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-kit-multimidia-a0e50f91.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-kit-multimidia-a0e50f91.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-kit-multimidia-a0e50f91.jpg"
+        },
+        "type": "kit-multimidia",
+        "isPublic": true,
+        "description": "Kit multimídia",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-e328-74f1-9924-3d76cd3c682d",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-malas-0088c963.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-malas-0088c963.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-malas-0088c963.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-malas-0088c963.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-malas-0088c963.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-malas-0088c963.jpg"
+        },
+        "type": "porta-malas",
+        "isPublic": true,
+        "description": "Porta malas",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-e7d4-772a-b855-c1fa180b3ae7",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-estepe-f0140ff2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-estepe-f0140ff2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-estepe-f0140ff2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-estepe-f0140ff2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-estepe-f0140ff2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-estepe-f0140ff2.jpg"
+        },
+        "type": "estepe",
+        "isPublic": true,
+        "description": "Estepe",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-ecbd-7ee7-a208-30f368e1a90c",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-motorista-dfe1d485.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-motorista-dfe1d485.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-motorista-dfe1d485.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-motorista-dfe1d485.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-motorista-dfe1d485.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-motorista-dfe1d485.jpg"
+        },
+        "type": "traseira-motorista",
+        "isPublic": true,
+        "description": "Traseira motorista",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-f211-7595-82fb-485cc4878e88",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-passageiro-04bb5e1a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-passageiro-04bb5e1a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-passageiro-04bb5e1a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-passageiro-04bb5e1a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-passageiro-04bb5e1a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-traseira-passageiro-04bb5e1a.jpg"
+        },
+        "type": "traseira-passageiro",
+        "isPublic": true,
+        "description": "Traseira Passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-f6ad-7b3f-8cc4-f27261371a8c",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-passageiro-4fdd21ee.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-passageiro-4fdd21ee.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-passageiro-4fdd21ee.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-passageiro-4fdd21ee.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-passageiro-4fdd21ee.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-e-interior-passageiro-4fdd21ee.jpg"
+        },
+        "type": "porta-e-interior-passageiro",
+        "isPublic": true,
+        "description": "Porta e interior passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da3-fb9a-73e2-808a-9b18c995c072",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-passageiro-e494c6c4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-passageiro-e494c6c4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-passageiro-e494c6c4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-passageiro-e494c6c4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-passageiro-e494c6c4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-frente-passageiro-e494c6c4.jpg"
+        },
+        "type": "frente-passageiro",
+        "isPublic": true,
+        "description": "Frente passageiro",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-f655-7d5c-b10f-f70f777bfb3d",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-motor-8fafdfea.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-motor-8fafdfea.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-motor-8fafdfea.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-motor-8fafdfea.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-motor-8fafdfea.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-motor-8fafdfea.jpg"
+        },
+        "type": "motor",
+        "isPublic": true,
+        "description": "Motor",
+        "category": "main",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-0abd-720c-8f40-4004fc322577",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-capo-0c094ded.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-capo-0c094ded.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-capo-0c094ded.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-capo-0c094ded.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-capo-0c094ded.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-capo-0c094ded.jpg"
+        },
+        "type": "capo",
+        "isPublic": true,
+        "description": "Capô",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-0f3c-7d11-8043-fc66b1efed17",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-esquerdo-2ce1ce64.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-esquerdo-2ce1ce64.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-esquerdo-2ce1ce64.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-esquerdo-2ce1ce64.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-esquerdo-2ce1ce64.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-esquerdo-2ce1ce64.jpg"
+        },
+        "type": "paralama-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Paralama dianteiro esquerdo",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-141f-743f-9f0f-6830bea63706",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-esquerda-d37371a0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-esquerda-d37371a0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-esquerda-d37371a0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-esquerda-d37371a0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-esquerda-d37371a0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-esquerda-d37371a0.jpg"
+        },
+        "type": "porta-dianteira-esquerda",
+        "isPublic": true,
+        "description": "Porta dianteira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-17ce-7870-8247-579469ad3cb3",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-esquerda-7b1129e7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-esquerda-7b1129e7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-esquerda-7b1129e7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-esquerda-7b1129e7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-esquerda-7b1129e7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-esquerda-7b1129e7.jpg"
+        },
+        "type": "porta-traseira-esquerda",
+        "isPublic": true,
+        "description": "Porta traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-1c9d-7ab1-92cd-4880224a8b23",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-esquerda-7acd537a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-esquerda-7acd537a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-esquerda-7acd537a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-esquerda-7acd537a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-esquerda-7acd537a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-esquerda-7acd537a.jpg"
+        },
+        "type": "lateral-traseira-esquerda",
+        "isPublic": true,
+        "description": "Lateral traseira esquerda",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-20d2-77fc-a3c1-b14d3f5c1f98",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-tampa-do-porta-malas-fd80a3b2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-tampa-do-porta-malas-fd80a3b2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-tampa-do-porta-malas-fd80a3b2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-tampa-do-porta-malas-fd80a3b2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-tampa-do-porta-malas-fd80a3b2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-tampa-do-porta-malas-fd80a3b2.jpg"
+        },
+        "type": "tampa-do-porta-malas",
+        "isPublic": true,
+        "description": "Tampa do porta malas",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-255b-7aa1-96a6-10b1e0a7c23e",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-direita-ae075bd1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-direita-ae075bd1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-direita-ae075bd1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-direita-ae075bd1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-direita-ae075bd1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-lateral-traseira-direita-ae075bd1.jpg"
+        },
+        "type": "lateral-traseira-direita",
+        "isPublic": true,
+        "description": "Lateral traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-29cc-71d1-b436-bc30e3587364",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-direita-65e64819.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-direita-65e64819.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-direita-65e64819.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-direita-65e64819.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-direita-65e64819.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-traseira-direita-65e64819.jpg"
+        },
+        "type": "porta-traseira-direita",
+        "isPublic": true,
+        "description": "Porta traseira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-2df5-7c27-b22a-82908cb6099f",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-direita-15afbf6b.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-direita-15afbf6b.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-direita-15afbf6b.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-direita-15afbf6b.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-direita-15afbf6b.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-porta-dianteira-direita-15afbf6b.jpg"
+        },
+        "type": "porta-dianteira-direita",
+        "isPublic": true,
+        "description": "Porta dianteira direita",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-3255-7e97-81b9-0a40643eeb99",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-direito-b353dcd0.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-direito-b353dcd0.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-direito-b353dcd0.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-direito-b353dcd0.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-direito-b353dcd0.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-paralama-dianteiro-direito-b353dcd0.jpg"
+        },
+        "type": "paralama-dianteiro-direito",
+        "isPublic": true,
+        "description": "Paralama dianteiro direito",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-363a-7963-9be0-94cae4d7f2bb",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-frente-80868800.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-frente-80868800.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-frente-80868800.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-frente-80868800.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-frente-80868800.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-frente-80868800.jpg"
+        },
+        "type": "teto-frente",
+        "isPublic": true,
+        "description": "Teto frente",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-3a6f-723c-a5ef-db0c5f556dfb",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-traseira-016a4514.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-traseira-016a4514.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-traseira-016a4514.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-traseira-016a4514.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-traseira-016a4514.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-teto-traseira-016a4514.jpg"
+        },
+        "type": "teto-traseira",
+        "isPublic": true,
+        "description": "Teto traseira",
+        "category": "paint",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-3e38-714f-b141-2a7d04d21e63",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-direito-563aae71.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-direito-563aae71.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-direito-563aae71.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-direito-563aae71.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-direito-563aae71.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-direito-563aae71.jpg"
+        },
+        "type": "pneu-traseiro-direito",
+        "isPublic": true,
+        "description": "Pneu traseiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-4308-7578-ac07-cdaf185eaf5f",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-direito-04366d03.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-direito-04366d03.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-direito-04366d03.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-direito-04366d03.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-direito-04366d03.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-direito-04366d03.jpg"
+        },
+        "type": "pneu-dianteiro-direito",
+        "isPublic": true,
+        "description": "Pneu dianteiro direito",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-4769-75f4-8a7c-ccebb1c5ecb2",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-esquerdo-4b601849.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-esquerdo-4b601849.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-esquerdo-4b601849.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-esquerdo-4b601849.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-esquerdo-4b601849.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-dianteiro-esquerdo-4b601849.jpg"
+        },
+        "type": "pneu-dianteiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu dianteiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-4bca-7176-b278-10cdadea195c",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-esquerdo-a9d09156.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-esquerdo-a9d09156.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-esquerdo-a9d09156.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-esquerdo-a9d09156.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-esquerdo-a9d09156.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-pneu-traseiro-esquerdo-a9d09156.jpg"
+        },
+        "type": "pneu-traseiro-esquerdo",
+        "isPublic": true,
+        "description": "Pneu traseiro esquerdo",
+        "category": "tires",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-503c-7490-9701-71a88aa7b685",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545384808-5v3fzr-e9ede82e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545384808-5v3fzr-e9ede82e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545384808-5v3fzr-e9ede82e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545384808-5v3fzr-e9ede82e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545384808-5v3fzr-e9ede82e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545384808-5v3fzr-e9ede82e.jpg"
+        },
+        "type": "damages-1788545384808-5v3fzr",
+        "isPublic": true,
+        "description": "Avarias 1",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-5875-7b21-bc46-d59475ccdc44",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545388284-kjky1l-5d657ee7.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545388284-kjky1l-5d657ee7.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545388284-kjky1l-5d657ee7.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545388284-kjky1l-5d657ee7.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545388284-kjky1l-5d657ee7.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545388284-kjky1l-5d657ee7.jpg"
+        },
+        "type": "damages-1788545388284-kjky1l",
+        "isPublic": true,
+        "description": "Avarias 2",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-5c99-72a8-aa4f-2f369d84795d",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545391292-qql60q-9aed1c8d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545391292-qql60q-9aed1c8d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545391292-qql60q-9aed1c8d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545391292-qql60q-9aed1c8d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545391292-qql60q-9aed1c8d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545391292-qql60q-9aed1c8d.jpg"
+        },
+        "type": "damages-1788545391292-qql60q",
+        "isPublic": true,
+        "description": "Avarias 3",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-605d-7074-a99a-1e0789229808",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545394188-xuj999-01e4878d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545394188-xuj999-01e4878d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545394188-xuj999-01e4878d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545394188-xuj999-01e4878d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545394188-xuj999-01e4878d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545394188-xuj999-01e4878d.jpg"
+        },
+        "type": "damages-1788545394188-xuj999",
+        "isPublic": true,
+        "description": "Avarias 4",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-65dd-7c0b-9df4-d1cf7bdea007",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545397156-dzi0v2-8a50809f.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545397156-dzi0v2-8a50809f.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545397156-dzi0v2-8a50809f.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545397156-dzi0v2-8a50809f.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545397156-dzi0v2-8a50809f.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545397156-dzi0v2-8a50809f.jpg"
+        },
+        "type": "damages-1788545397156-dzi0v2",
+        "isPublic": true,
+        "description": "Avarias 5",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-6ac3-73a3-85e6-44fa13d7ea0a",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545402376-s9fz10-e5a1b7c3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545402376-s9fz10-e5a1b7c3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545402376-s9fz10-e5a1b7c3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545402376-s9fz10-e5a1b7c3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545402376-s9fz10-e5a1b7c3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545402376-s9fz10-e5a1b7c3.jpg"
+        },
+        "type": "damages-1788545402376-s9fz10",
+        "isPublic": true,
+        "description": "Avarias 6",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-6f8a-71a8-b8bc-c06f6d1bb935",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545405644-pn6bxr-42acd962.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545405644-pn6bxr-42acd962.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545405644-pn6bxr-42acd962.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545405644-pn6bxr-42acd962.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545405644-pn6bxr-42acd962.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545405644-pn6bxr-42acd962.jpg"
+        },
+        "type": "damages-1788545405644-pn6bxr",
+        "isPublic": true,
+        "description": "Avarias 7",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-73bc-7482-8bea-a36019b74cc9",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545408447-48a548-37595aa6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545408447-48a548-37595aa6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545408447-48a548-37595aa6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545408447-48a548-37595aa6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545408447-48a548-37595aa6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545408447-48a548-37595aa6.jpg"
+        },
+        "type": "damages-1788545408447-48a548",
+        "isPublic": true,
+        "description": "Avarias 8",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-785c-7c7a-8a03-3950af48997c",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545411302-2d9zw8-c75851b1.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545411302-2d9zw8-c75851b1.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545411302-2d9zw8-c75851b1.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545411302-2d9zw8-c75851b1.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545411302-2d9zw8-c75851b1.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545411302-2d9zw8-c75851b1.jpg"
+        },
+        "type": "damages-1788545411302-2d9zw8",
+        "isPublic": true,
+        "description": "Avarias 9",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-7d78-7235-a9e3-5fddb6830c7e",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545414277-9d1t33-f54bd302.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545414277-9d1t33-f54bd302.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545414277-9d1t33-f54bd302.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545414277-9d1t33-f54bd302.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545414277-9d1t33-f54bd302.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545414277-9d1t33-f54bd302.jpg"
+        },
+        "type": "damages-1788545414277-9d1t33",
+        "isPublic": true,
+        "description": "Avarias 10",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-81e1-77d8-a4f9-15b7f4b1705b",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545416761-yex6ul-b557fc7e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545416761-yex6ul-b557fc7e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545416761-yex6ul-b557fc7e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545416761-yex6ul-b557fc7e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545416761-yex6ul-b557fc7e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545416761-yex6ul-b557fc7e.jpg"
+        },
+        "type": "damages-1788545416761-yex6ul",
+        "isPublic": true,
+        "description": "Avarias 11",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-865c-7358-8b3d-07be55933dde",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545420863-shiqm5-299f4937.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545420863-shiqm5-299f4937.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545420863-shiqm5-299f4937.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545420863-shiqm5-299f4937.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545420863-shiqm5-299f4937.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545420863-shiqm5-299f4937.jpg"
+        },
+        "type": "damages-1788545420863-shiqm5",
+        "isPublic": true,
+        "description": "Avarias 12",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-8b71-77c7-ba94-7703819297bd",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545423848-2wq5h6-33cb92de.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545423848-2wq5h6-33cb92de.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545423848-2wq5h6-33cb92de.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545423848-2wq5h6-33cb92de.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545423848-2wq5h6-33cb92de.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545423848-2wq5h6-33cb92de.jpg"
+        },
+        "type": "damages-1788545423848-2wq5h6",
+        "isPublic": true,
+        "description": "Avarias 13",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-8f4f-7706-9a6f-343154359943",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545427112-0oe7pe-0ae027df.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545427112-0oe7pe-0ae027df.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545427112-0oe7pe-0ae027df.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545427112-0oe7pe-0ae027df.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545427112-0oe7pe-0ae027df.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545427112-0oe7pe-0ae027df.jpg"
+        },
+        "type": "damages-1788545427112-0oe7pe",
+        "isPublic": true,
+        "description": "Avarias 14",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-935c-7270-ac92-f24e27c9fc59",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545431011-eqj1pz-07406644.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545431011-eqj1pz-07406644.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545431011-eqj1pz-07406644.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545431011-eqj1pz-07406644.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545431011-eqj1pz-07406644.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545431011-eqj1pz-07406644.jpg"
+        },
+        "type": "damages-1788545431011-eqj1pz",
+        "isPublic": true,
+        "description": "Avarias 15",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-985e-7634-8205-8c8b6230d858",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545434543-q9jxvn-270ba68d.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545434543-q9jxvn-270ba68d.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545434543-q9jxvn-270ba68d.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545434543-q9jxvn-270ba68d.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545434543-q9jxvn-270ba68d.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545434543-q9jxvn-270ba68d.jpg"
+        },
+        "type": "damages-1788545434543-q9jxvn",
+        "isPublic": true,
+        "description": "Avarias 16",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-9c95-7c8e-98c2-deb0c871236e",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545437447-dikiv0-9c6a48e2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545437447-dikiv0-9c6a48e2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545437447-dikiv0-9c6a48e2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545437447-dikiv0-9c6a48e2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545437447-dikiv0-9c6a48e2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545437447-dikiv0-9c6a48e2.jpg"
+        },
+        "type": "damages-1788545437447-dikiv0",
+        "isPublic": true,
+        "description": "Avarias 17",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-a0cc-7c66-b047-aba52bed82cf",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545440891-qtciur-778ac367.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545440891-qtciur-778ac367.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545440891-qtciur-778ac367.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545440891-qtciur-778ac367.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545440891-qtciur-778ac367.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545440891-qtciur-778ac367.jpg"
+        },
+        "type": "damages-1788545440891-qtciur",
+        "isPublic": true,
+        "description": "Avarias 18",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-a5e3-783c-a081-84e2708fb8b4",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545446374-l4ji6m-efa589f9.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545446374-l4ji6m-efa589f9.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545446374-l4ji6m-efa589f9.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545446374-l4ji6m-efa589f9.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545446374-l4ji6m-efa589f9.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545446374-l4ji6m-efa589f9.jpg"
+        },
+        "type": "damages-1788545446374-l4ji6m",
+        "isPublic": true,
+        "description": "Avarias 19",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-aafb-7868-825e-04d123dc9044",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545488407-8arhi0-2722827a.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545488407-8arhi0-2722827a.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545488407-8arhi0-2722827a.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545488407-8arhi0-2722827a.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545488407-8arhi0-2722827a.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545488407-8arhi0-2722827a.jpg"
+        },
+        "type": "damages-1788545488407-8arhi0",
+        "isPublic": true,
+        "description": "Avarias 20",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-af24-7b04-a4a7-392a8a7c6c78",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545491995-oyjnzs-8e7241ff.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545491995-oyjnzs-8e7241ff.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545491995-oyjnzs-8e7241ff.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545491995-oyjnzs-8e7241ff.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545491995-oyjnzs-8e7241ff.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545491995-oyjnzs-8e7241ff.jpg"
+        },
+        "type": "damages-1788545491995-oyjnzs",
+        "isPublic": true,
+        "description": "Avarias 21",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-b41c-75d8-86d4-215c9baa4784",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545502306-lvpl3h-b1381cf2.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545502306-lvpl3h-b1381cf2.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545502306-lvpl3h-b1381cf2.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545502306-lvpl3h-b1381cf2.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545502306-lvpl3h-b1381cf2.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545502306-lvpl3h-b1381cf2.jpg"
+        },
+        "type": "damages-1788545502306-lvpl3h",
+        "isPublic": true,
+        "description": "Avarias 22",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-b833-70a5-9ea7-a8a1d1b2bb5a",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545505771-0m6kdu-760294fd.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545505771-0m6kdu-760294fd.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545505771-0m6kdu-760294fd.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545505771-0m6kdu-760294fd.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545505771-0m6kdu-760294fd.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545505771-0m6kdu-760294fd.jpg"
+        },
+        "type": "damages-1788545505771-0m6kdu",
+        "isPublic": true,
+        "description": "Avarias 23",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-bc8a-7658-9c0a-9af8d72d8a72",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545509906-hua9ca-f1fd1953.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545509906-hua9ca-f1fd1953.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545509906-hua9ca-f1fd1953.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545509906-hua9ca-f1fd1953.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545509906-hua9ca-f1fd1953.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545509906-hua9ca-f1fd1953.jpg"
+        },
+        "type": "damages-1788545509906-hua9ca",
+        "isPublic": true,
+        "description": "Avarias 24",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-c12d-7798-9f26-21fab2b2b9f2",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545514265-2pb3sr-b851d5fd.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545514265-2pb3sr-b851d5fd.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545514265-2pb3sr-b851d5fd.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545514265-2pb3sr-b851d5fd.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545514265-2pb3sr-b851d5fd.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545514265-2pb3sr-b851d5fd.jpg"
+        },
+        "type": "damages-1788545514265-2pb3sr",
+        "isPublic": true,
+        "description": "Avarias 25",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-c56e-7033-b61e-43ff3caa9f72",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545519364-go6t5z-f9b1fa2c.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545519364-go6t5z-f9b1fa2c.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545519364-go6t5z-f9b1fa2c.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545519364-go6t5z-f9b1fa2c.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545519364-go6t5z-f9b1fa2c.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545519364-go6t5z-f9b1fa2c.jpg"
+        },
+        "type": "damages-1788545519364-go6t5z",
+        "isPublic": true,
+        "description": "Avarias 26",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-c9ea-7427-9fe4-eccfb963cb2b",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545523142-mows94-0137fe97.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545523142-mows94-0137fe97.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545523142-mows94-0137fe97.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545523142-mows94-0137fe97.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545523142-mows94-0137fe97.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545523142-mows94-0137fe97.jpg"
+        },
+        "type": "damages-1788545523142-mows94",
+        "isPublic": true,
+        "description": "Avarias 27",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-ce2c-7c04-ae08-69e7c5dd23f7",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545525956-jpr8d3-e5c7a174.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545525956-jpr8d3-e5c7a174.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545525956-jpr8d3-e5c7a174.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545525956-jpr8d3-e5c7a174.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545525956-jpr8d3-e5c7a174.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545525956-jpr8d3-e5c7a174.jpg"
+        },
+        "type": "damages-1788545525956-jpr8d3",
+        "isPublic": true,
+        "description": "Avarias 28",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-d333-7041-b5b5-07d4bdedfb63",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545528454-crmhjt-c81f689e.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545528454-crmhjt-c81f689e.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545528454-crmhjt-c81f689e.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545528454-crmhjt-c81f689e.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545528454-crmhjt-c81f689e.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545528454-crmhjt-c81f689e.jpg"
+        },
+        "type": "damages-1788545528454-crmhjt",
+        "isPublic": true,
+        "description": "Avarias 29",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-d729-7209-b74a-4b84a35dc740",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545531105-q27dei-4c7cc6a3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545531105-q27dei-4c7cc6a3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545531105-q27dei-4c7cc6a3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545531105-q27dei-4c7cc6a3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545531105-q27dei-4c7cc6a3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545531105-q27dei-4c7cc6a3.jpg"
+        },
+        "type": "damages-1788545531105-q27dei",
+        "isPublic": true,
+        "description": "Avarias 30",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-dbdd-7dbf-8b26-e226932cdc97",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545542650-cpan4y-2f5f6634.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545542650-cpan4y-2f5f6634.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545542650-cpan4y-2f5f6634.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545542650-cpan4y-2f5f6634.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545542650-cpan4y-2f5f6634.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545542650-cpan4y-2f5f6634.jpg"
+        },
+        "type": "damages-1788545542650-cpan4y",
+        "isPublic": true,
+        "description": "Avarias 31",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-e09f-7a68-92dd-d97e9802842c",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545548695-254qxq-55ab91f6.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545548695-254qxq-55ab91f6.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545548695-254qxq-55ab91f6.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545548695-254qxq-55ab91f6.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545548695-254qxq-55ab91f6.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545548695-254qxq-55ab91f6.jpg"
+        },
+        "type": "damages-1788545548695-254qxq",
+        "isPublic": true,
+        "description": "Avarias 32",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-e638-7dd5-8a9d-1d4e593346aa",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545551608-fkxaon-2484cbb3.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545551608-fkxaon-2484cbb3.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545551608-fkxaon-2484cbb3.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545551608-fkxaon-2484cbb3.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545551608-fkxaon-2484cbb3.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545551608-fkxaon-2484cbb3.jpg"
+        },
+        "type": "damages-1788545551608-fkxaon",
+        "isPublic": true,
+        "description": "Avarias 33",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-eb94-7f06-b394-1e2ab9a05a8f",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545554497-6kh9ns-35a15053.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545554497-6kh9ns-35a15053.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545554497-6kh9ns-35a15053.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545554497-6kh9ns-35a15053.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545554497-6kh9ns-35a15053.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-damages-1788545554497-6kh9ns-35a15053.jpg"
+        },
+        "type": "damages-1788545554497-6kh9ns",
+        "isPublic": true,
+        "description": "Avarias 34",
+        "category": "damages",
+        "properties": null
+      },
+      {
+        "uuid": "01a06da4-f117-7ee1-a20f-5e47c323c0c2",
+        "filename": "toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-extra-1788545572879-9mw5ok-e3ed1bb4.jpg",
+        "sizes": {
+          "xs": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xs/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-extra-1788545572879-9mw5ok-e3ed1bb4.jpg",
+          "sm": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/sm/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-extra-1788545572879-9mw5ok-e3ed1bb4.jpg",
+          "md": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-extra-1788545572879-9mw5ok-e3ed1bb4.jpg",
+          "lg": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/lg/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-extra-1788545572879-9mw5ok-e3ed1bb4.jpg",
+          "xl": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/xl/toyota-corolla-2-0-vvt-ie-flex-xei-direct-shift-extra-1788545572879-9mw5ok-e3ed1bb4.jpg"
+        },
+        "type": "extra-1788545572879-9mw5ok",
+        "isPublic": true,
+        "description": "Extras 1",
+        "category": "extra",
+        "properties": null
+      }
+    ],
+    "videoUrl": "https://youtu.be/JgIy3-s-zUo?is=drZX1ZEEFihS2t0d",
+    "ipvaPaid": true
+  },
+  "mainInfo": {
+    "transmission": "Automatico",
+    "fuel": "Álcool/Gasolina",
+    "yearModel": 2022,
+    "yearManufacture": 2021,
+    "color": "Preta",
+    "mileage": 96069,
+    "licensePlate": "R*****4"
+  },
+  "observation": "VEÍCULO POSSUI RISCOS E AMASSADOS LEVES.  VEÍCULO COM GRAVAÇÃO DO CÂMBIO OBSTRUÍDO/SEM ACESSO. PARA-BRISA NÃO ORIGINAL. CARROCERIA COM REPAROS DE PINTURA. REGIÃO FRONTAL, PAINEL FRONTAL E ESTRUTURAS INTERNAS DIANTEIRA ESQUERDA REPARADOS. TAMPA DA MALA AMASSADA. PARA-CHOQUES E LONGARINA DIANTEIRA ESQUERDA COM AVARIAS. COLUNA DIANTEIRA ESQUERDA REPARADA COM CORTE E SOLDA. ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **",
+  "inspectionInfo": [
+    {
+      "label": "Combustível",
+      "type": "vehicle",
+      "description": "Álcool/Gasolina"
+    },
+    {
+      "label": "Chaves",
+      "type": "vehicle",
+      "description": "Com chave reserva"
+    },
+    {
+      "label": "Cor",
+      "type": "cautioninspection",
+      "description": "Preta"
+    },
+    {
+      "label": "Número de portas",
+      "type": "vehicle",
+      "description": "4"
+    },
+    {
+      "label": "Rádio",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Bancos",
+      "type": "optional",
+      "description": "Couro/Sintético"
+    },
+    {
+      "label": "Airbag",
+      "type": "optional",
+      "description": "Possui"
+    },
+    {
+      "label": "Freios",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Embreagem",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Possui abs",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Sucata",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Quilometragem",
+      "type": "vehicle",
+      "description": "96069"
+    },
+    {
+      "label": "Funcionando/ligando (motor)",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Teto solar",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Categoria do veículo",
+      "type": "main",
+      "description": "Leve"
+    },
+    {
+      "label": "Possui placa",
+      "type": "optional",
+      "description": "Sim, as duas"
+    },
+    {
+      "label": "Interior",
+      "type": "inspection",
+      "description": "Normal"
+    },
+    {
+      "label": "Direção",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Url do vídeo",
+      "type": "vehicle",
+      "description": "https://youtu.be/JgIy3-s-zUo?is=drZX1ZEEFihS2t0d"
+    },
+    {
+      "label": "Kitgás",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui manual do proprietário",
+      "type": "inspection",
+      "description": "Não"
+    },
+    {
+      "label": "Blindado",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Estepe",
+      "type": "inspection",
+      "description": "Possui"
+    },
+    {
+      "label": "Placa preta",
+      "type": "optional",
+      "description": "Não"
+    },
+    {
+      "label": "Possui carregador",
+      "type": "vehicle",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo de roda",
+      "type": "optional",
+      "description": "Roda de liga leve"
+    },
+    {
+      "label": "Observações gerais",
+      "type": "result",
+      "description": "VEÍCULO POSSUI RISCOS E AMASSADOS LEVES.  VEÍCULO COM GRAVAÇÃO DO CÂMBIO OBSTRUÍDO/SEM ACESSO. PARA-BRISA NÃO ORIGINAL. CARROCERIA COM REPAROS DE PINTURA. REGIÃO FRONTAL, PAINEL FRONTAL E ESTRUTURAS INTERNAS DIANTEIRA ESQUERDA REPARADOS. TAMPA DA MALA AMASSADA. PARA-CHOQUES E LONGARINA DIANTEIRA ESQUERDA COM AVARIAS. COLUNA DIANTEIRA ESQUERDA REPARADA COM CORTE E SOLDA. ALERTAS: LEILAO: CONSTA — CONSTAM REGISTRO(S) DE LEILAO QUALQUER REGULARIZAÇÃO, PLACA MERCOSUL, FALTA DE PEÇAS E PEÇAS DANIFICADAS, SERÁ POR CONTA DO COMPRADOR. **"
+    },
+    {
+      "label": "Tipo de direção",
+      "type": "optional",
+      "description": "Direção Elétrica"
+    },
+    {
+      "label": "Câmbio",
+      "type": "inspection",
+      "description": "Funciona"
+    },
+    {
+      "label": "Bateria (carga)",
+      "type": "inspection",
+      "description": "Sim, sem carga"
+    },
+    {
+      "label": "Status do laudo",
+      "type": "cautioninspection",
+      "description": "Reprovado"
+    },
+    {
+      "label": "Trava elétrica",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Câmera de estacionamento",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Classificação",
+      "type": "result",
+      "description": "5"
+    },
+    {
+      "label": "Ar condicionado",
+      "type": "inspection",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Capota conversível",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Possui acesso ao paínel de km",
+      "type": "vehicle",
+      "description": "Sim"
+    },
+    {
+      "label": "Possui recall",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Chassi remarcado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Possui passagem de leilão",
+      "type": "cautioninspection",
+      "description": "Sim"
+    },
+    {
+      "label": "Central multimídia",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Chassi recuperado",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Tipo do câmbio",
+      "type": "inspection",
+      "description": "Câmbio Automático"
+    },
+    {
+      "label": "Possui sinistro com seguro",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Sensor de estacionamento traseiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Resumo do laudo",
+      "type": "cautioninspection",
+      "description": "VEÍCULO COM GRAVAÇÃO DO CÂMBIO OBSTRUÍDO/SEM ACESSO. PARA-BRISA NÃO ORIGINAL. CARROCERIA COM REPAROS DE PINTURA. REGIÃO FRONTAL, PAINEL FRONTAL E ESTRUTURAS INTERNAS DIANTEIRA ESQUERDA REPARADOS. TAMPA DA MALA AMASSADA. PARA-CHOQUES E LONGARINA DIANTEIRA ESQUERDA COM AVARIAS. COLUNA DIANTEIRA ESQUERDA REPARADA COM CORTE E SOLDA. CONSTAM REGISTRO(S) DE LEILAO."
+    },
+    {
+      "label": "Sensor de estacionamento dianteiro",
+      "type": "optional",
+      "description": "Não possui"
+    },
+    {
+      "label": "Retrovisor elétrico",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Ignição start/stop",
+      "type": "optional",
+      "description": "Sim"
+    },
+    {
+      "label": "Vidro elétrico traseiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro esquerdo",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Possui sinistro de roubo/furto",
+      "type": "cautioninspection",
+      "description": "Não"
+    },
+    {
+      "label": "Vidro elétrico traseiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    },
+    {
+      "label": "Vidro elétrico dianteiro direito",
+      "type": "optional",
+      "description": "Sim, funciona"
+    }
+  ],
+  "importantInfo": {
+    "seller": "AYMORE CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "additionalCharge": 0,
+    "withdrawal": "",
+    "withdrawalType": "Retirada Imediata",
+    "transferServiceType": "Sem exigencia (Comprador)",
+    "expeditor": "Loop",
+    "documentWithdrawal": "30 dias úteis",
+    "documentationDeadline": 30,
+    "crlv": false,
+    "dut": false,
+    "eventDate": "22/09/2026 11:00",
+    "eventLocation": {
+      "description": "Mogi Das Cruzes - SP",
+      "url": "https://maps.google.com/?q=AV.+ALMERINDA+VILLELA+FERREIRA%2C+1+-+Mogi+Das+Cruzes%2C+SP"
+    },
+    "carPickup": {
+      "description": "Vila Água Funda - São Paulo - SP",
+      "url": "https://maps.google.com/?q=Rua+Alexandre+Aliperti%2C+351+-+S%C3%A3o+Paulo%2C+SP"
+    }
+  },
+  "terms": {
+    "id": 3077
+  },
+  "fees": [
+    {
+      "id": 1,
+      "description": "Administração",
+      "type": "fixed",
+      "value": 1900
+    }
+  ]
+}
