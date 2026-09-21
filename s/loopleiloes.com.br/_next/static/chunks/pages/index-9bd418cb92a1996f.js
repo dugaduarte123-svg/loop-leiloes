@@ -1956,9 +1956,7 @@
                 ue = function() {
                     var e = (0, re.Z)((function(e) {
                         return (0, se.__generator)(this, (function(t) {
-                            return [2, ce.eE.get("/auction/lots/featured?quantityOfLots=".concat(e ? 4 * e : "8")).then((function(e) {
-                                return e.data
-                            }))]
+                            return [2, Promise.resolve(window.__FEATURED_LOTS__ || [])]
                         }))
                     }));
                     return function(t) {
@@ -2401,9 +2399,7 @@
                 Le = n(10253),
                 ze = n(12981),
                 Re = function() {
-                    return ce.eE.get("/auction/events/live").then((function(e) {
-                        return e.data
-                    }))
+                    return Promise.resolve(window.__LIVE_EVENTS__ || null)
                 },
                 _e = (0, s.Z)((function(e) {
                     return (0, g.Z)({

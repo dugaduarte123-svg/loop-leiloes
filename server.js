@@ -24,7 +24,7 @@ const ADMIN_PASSWORD = String(process.env.LOOP_ADMIN_PASSWORD || '');
 const ADMIN_PASSWORD_READY = ADMIN_PASSWORD.length >= 16;
 const WHATSAPP_NUMBERS = ['5511980867294', '5511958011799'];
 const VEHICLE_PHOTO_BASE = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/';
-const ASSET_VERSION = '20260921-1830';
+const ASSET_VERSION = '20260921-1840';
 const POSTPONE_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const AUCTION_MIN_DATE = '2026-09-22';
 const AUCTION_MAX_DATE = '2026-09-24';
@@ -176,6 +176,16 @@ function hydrateFeaturedLots(content) {
     queryHash: JSON.stringify(queryKey)
   };
   return content.replace(/("queries"\s*:\s*)\[/, `$1[${JSON.stringify(query)},`);
+}
+
+function injectFrontendData(content) {
+  if (!content.includes('Ofertas disponíveis') || content.includes('__FEATURED_LOTS__')) return content;
+  const data = JSON.stringify({
+    featured: shiftAuctionDates(publicJson('featured-lots.json', captured.featuredLots).slice(0, 8)),
+    events: shiftAuctionDates(allPublicEvents()),
+    liveEvents: shiftAuctionDates(publicJson('events-live.json', captured.liveEvents))
+  }).replaceAll('<', '\\u003c');
+  return content.replace('</head>', `<script>const __LOOP_DATA__=${data};window.__FEATURED_LOTS__=__LOOP_DATA__.featured;window.__EVENTS__=__LOOP_DATA__.events;window.__LIVE_EVENTS__=__LOOP_DATA__.liveEvents;</script></head>`);
 }
 
 function sanitizeJsonControlCharacters(source) {
@@ -719,7 +729,7 @@ function serveFile(res, filePath, rewrite = false, cacheControl = null) {
 
   if (rewrite && isText) {
     let body = rewriteExternalUrls(fs.readFileSync(filePath, 'utf8'));
-    if (extension === '.html') body = versionHtmlAssets(hydrateFeaturedLots(ensureAnonymousSession(injectFloatingWhatsapp(shiftDatesInHtml(body)))));
+    if (extension === '.html') body = versionHtmlAssets(injectFrontendData(hydrateFeaturedLots(ensureAnonymousSession(injectFloatingWhatsapp(shiftDatesInHtml(body))))));
     res.writeHead(200, {
       'Content-Type': contentType,
       'Content-Length': Buffer.byteLength(body),

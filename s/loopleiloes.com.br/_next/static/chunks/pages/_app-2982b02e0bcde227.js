@@ -28469,9 +28469,7 @@
                 l = function() {
                     var e = (0, r.Z)((function() {
                         return (0, o.__generator)(this, (function(e) {
-                            return [2, a.eE.get("/auction/events").then((function(e) {
-                                return e.data
-                            }))]
+                            return [2, Promise.resolve(window.__EVENTS__ || [])]
                         }))
                     }));
                     return function() {
