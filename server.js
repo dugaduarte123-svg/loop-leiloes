@@ -1220,6 +1220,6 @@ function startServer() {
 }
 
 const disableAutoListen = /^(1|true|yes)$/i.test(process.env.LOOP_DISABLE_AUTO_LISTEN || '');
-if (require.main === module || (process.env.PORT && !process.env.VERCEL && !disableAutoListen)) startServer();
+if (!disableAutoListen) startServer();
 
 module.exports = { createServer, rewriteExternalUrls, runAutomaticPostpone, sanitizeJsonControlCharacters, startServer };

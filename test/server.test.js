@@ -4,6 +4,7 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
+process.env.LOOP_DISABLE_AUTO_LISTEN = 'true';
 const { createServer } = require('../server');
 
 let server;
