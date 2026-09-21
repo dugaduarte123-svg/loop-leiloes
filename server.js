@@ -143,6 +143,11 @@ function versionHtmlAssets(content) {
   });
 }
 
+function ensureAnonymousSession(content) {
+  if (/"pageProps"\s*:\s*\{\s*"session"\s*:/.test(content)) return content;
+  return content.replace(/("pageProps"\s*:\s*)\{/, '$1{"session":null,');
+}
+
 function sanitizeJsonControlCharacters(source) {
   let output = '';
   let insideString = false;
@@ -684,7 +689,7 @@ function serveFile(res, filePath, rewrite = false, cacheControl = null) {
 
   if (rewrite && isText) {
     let body = rewriteExternalUrls(fs.readFileSync(filePath, 'utf8'));
-    if (extension === '.html') body = versionHtmlAssets(injectFloatingWhatsapp(shiftDatesInHtml(body)));
+    if (extension === '.html') body = versionHtmlAssets(ensureAnonymousSession(injectFloatingWhatsapp(shiftDatesInHtml(body))));
     res.writeHead(200, {
       'Content-Type': contentType,
       'Content-Length': Buffer.byteLength(body),
