@@ -1170,27 +1170,34 @@ function createServer() {
           return;
         }
 
-        const local = findCapturedFile(PUBLIC_MEDIA_ROOT, indexed.relativePath);
-        if (local) {
-          serveFile(res, local, false);
-          return;
-        }
+        const candidates = [indexed];
+        const fallbackFilename = imageByVehicleCache.get(vehicleId);
+        const fallback = fallbackFilename ? imageByFilename(fallbackFilename) : null;
+        if (fallback && fallback.relativePath !== indexed.relativePath) candidates.push(fallback);
 
-        try {
-          const remote = await fetch(indexed.source, { signal: AbortSignal.timeout(15000) });
-          if (!remote.ok) throw new Error(`HTTP ${remote.status}`);
-          const body = Buffer.from(await remote.arrayBuffer());
-          res.writeHead(200, {
-            'Content-Type': mimeTypes[path.extname(filename).toLowerCase()] || 'image/jpeg',
-            'Content-Length': body.length,
-            'Cache-Control': 'public, max-age=86400, stale-while-revalidate=604800',
-            'X-Content-Type-Options': 'nosniff'
-          });
-          if (req.method === 'HEAD') res.end();
-          else res.end(body);
-        } catch {
-          json(res, 502, { error: 'Falha ao carregar imagem' });
+        for (const candidate of candidates) {
+          const local = findCapturedFile(PUBLIC_MEDIA_ROOT, candidate.relativePath);
+          if (local) {
+            serveFile(res, local, false);
+            return;
+          }
+
+          try {
+            const remote = await fetch(candidate.source, { signal: AbortSignal.timeout(15000) });
+            if (!remote.ok) continue;
+            const body = Buffer.from(await remote.arrayBuffer());
+            res.writeHead(200, {
+              'Content-Type': mimeTypes[path.extname(candidate.relativePath).toLowerCase()] || 'image/jpeg',
+              'Content-Length': body.length,
+              'Cache-Control': 'public, max-age=86400, stale-while-revalidate=604800',
+              'X-Content-Type-Options': 'nosniff'
+            });
+            if (req.method === 'HEAD') res.end();
+            else res.end(body);
+            return;
+          } catch {}
         }
+        json(res, 502, { error: 'Falha ao carregar imagem' });
         return;
       }
 
