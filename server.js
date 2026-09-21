@@ -23,6 +23,7 @@ const rateLimitBuckets = new Map();
 const ADMIN_PASSWORD = String(process.env.LOOP_ADMIN_PASSWORD || '');
 const ADMIN_PASSWORD_READY = ADMIN_PASSWORD.length >= 16;
 const WHATSAPP_NUMBERS = ['5511980867294', '5511958011799'];
+const VEHICLE_PHOTO_BASE = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/';
 const POSTPONE_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const AUCTION_MIN_DATE = '2026-09-22';
 const AUCTION_MAX_DATE = '2026-09-24';
@@ -221,7 +222,6 @@ function allPublicEvents() {
 function catalog() {
   if (!catalogCache) {
     const search = publicJson('search-all.json', { hits: { hits: [] } });
-    ensureImageSourceCache();
     const slugs = vehicleSlugs();
     const vehicles = search.hits?.hits?.map((hit) => hit._source).filter(Boolean) || [];
     const existingLots = new Set(vehicles.map((vehicle) => String(vehicle.lotId || '')).filter(Boolean));
@@ -249,11 +249,7 @@ function catalog() {
       }
     }
     catalogCache = vehicles.map((vehicle) => {
-      const detailId = slugs[vehicle.slug] || vehicle.id || vehicle.sku;
-      const image = vehicle.image && imageFilenameCache.has(String(vehicle.image).toLocaleLowerCase('pt-BR'))
-        ? vehicle.image
-        : imageByVehicleCache.get(String(detailId));
-      return { ...vehicle, image: image || null };
+      return { ...vehicle, image: vehicle.image || null };
     });
     const modelImages = new Map(catalogCache.filter((vehicle) => vehicle.image).map((vehicle) => [`${vehicle.brand}|${vehicle.model}`, vehicle.image]));
     const brandImages = new Map(catalogCache.filter((vehicle) => vehicle.image).map((vehicle) => [vehicle.brand, vehicle.image]));
@@ -262,7 +258,6 @@ function catalog() {
     catalogCache = catalogCache.map((vehicle) => vehicle.image ? vehicle : {
       ...vehicle,
       image: modelImages.get(`${vehicle.brand}|${vehicle.model}`)
-        || imageByVehicleCache.get(String(slugs[vehicle.slug] || vehicle.id || vehicle.sku))
         || brandImages.get(vehicle.brand)
         || categoryImages.get(vehicle.category || vehicle.type)
         || fallbackImage
@@ -301,18 +296,6 @@ function ensureImageSourceCache() {
     imageSourceCache = new Map();
     imageFilenameCache = new Map();
     imageByVehicleCache = new Map();
-    const compactIndexes = fs.readdirSync(PUBLIC_DATA_ROOT)
-      .filter((name) => /^images-index-\d+\.json$/.test(name))
-      .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
-    const indexFiles = compactIndexes.length ? compactIndexes : ['images-index.json'];
-    for (const indexFile of indexFiles) for (const image of publicJson(indexFile, [])) {
-      const source = image.displayUrl || image.sourceUrls?.[2] || image.sourceUrl;
-      if (!image.vehicleId || !image.filename) continue;
-      const relativePath = `vehicles/${image.vehicleId}/${image.filename}`;
-      if (!imageByVehicleCache.has(String(image.vehicleId))) imageByVehicleCache.set(String(image.vehicleId), image.filename);
-      imageFilenameCache.set(image.filename.toLocaleLowerCase('pt-BR'), { relativePath, source });
-      if (source) imageSourceCache.set(relativePath.toLocaleLowerCase('pt-BR'), source);
-    }
   }
 }
 
@@ -322,19 +305,16 @@ function imageSource(relativePath) {
   let decoded;
   try { decoded = decodeURIComponent(relativePath).replaceAll('\\', '/'); }
   catch { return null; }
-  const source = imageSourceCache.get(decoded.toLocaleLowerCase('pt-BR'));
-  if (!source) return null;
-  try {
-    const url = new URL(source);
-    return url.protocol === 'https:' && url.hostname.endsWith('.oraclecloud.com') ? url.href : null;
-  } catch {
-    return null;
-  }
+  const filename = path.basename(decoded);
+  return imageByFilename(filename)?.source || null;
 }
 
 function imageByFilename(filename) {
-  ensureImageSourceCache();
-  return imageFilenameCache.get(filename.toLocaleLowerCase('pt-BR')) || null;
+  if (!filename || path.basename(filename) !== filename || !/\.(?:jpe?g|png|webp|gif)$/i.test(filename)) return null;
+  return {
+    relativePath: `vehicles/shared/${filename}`,
+    source: `${VEHICLE_PHOTO_BASE}${encodeURIComponent(filename)}`
+  };
 }
 
 function readLocalDb() {
@@ -1164,9 +1144,14 @@ function createServer() {
           return;
         }
 
-        let indexed = imageByFilename(filename);
-        const fallbackFilename = imageByVehicleCache.get(vehicleId);
-        if (!indexed && fallbackFilename) indexed = imageByFilename(fallbackFilename);
+        const exactLocal = findCapturedFile(PUBLIC_MEDIA_ROOT, `vehicles/${vehicleId}/${filename}`);
+        if (exactLocal) {
+          serveFile(res, exactLocal, false);
+          return;
+        }
+
+        const indexed = imageByFilename(filename);
+        const fallbackFilename = null;
         if (!indexed) {
           json(res, 404, { error: 'Imagem nao encontrada' });
           return;
