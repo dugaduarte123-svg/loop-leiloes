@@ -1,6 +1,7 @@
 'use strict';
 
 const http = require('node:http');
+const https = require('node:https');
 const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
@@ -1184,9 +1185,21 @@ function createServer() {
           }
 
           try {
-            const remote = await fetch(candidate.source, { signal: AbortSignal.timeout(15000) });
-            if (!remote.ok) continue;
-            const body = Buffer.from(await remote.arrayBuffer());
+            const body = await new Promise((resolve, reject) => {
+              const request = https.get(candidate.source, { family: 4, timeout: 15000 }, (remote) => {
+                if (remote.statusCode !== 200) {
+                  remote.resume();
+                  reject(new Error(`HTTP ${remote.statusCode}`));
+                  return;
+                }
+                const chunks = [];
+                remote.on('data', (chunk) => chunks.push(chunk));
+                remote.on('end', () => resolve(Buffer.concat(chunks)));
+                remote.on('error', reject);
+              });
+              request.on('timeout', () => request.destroy(new Error('Timeout')));
+              request.on('error', reject);
+            });
             res.writeHead(200, {
               'Content-Type': mimeTypes[path.extname(candidate.relativePath).toLowerCase()] || 'image/jpeg',
               'Content-Length': body.length,
@@ -1198,8 +1211,7 @@ function createServer() {
             return;
           } catch {}
         }
-        res.writeHead(302, { Location: indexed.source, 'Cache-Control': 'no-store' });
-        res.end();
+        json(res, 502, { error: 'Falha ao carregar imagem' });
         return;
       }
 
