@@ -24,7 +24,7 @@ const ADMIN_PASSWORD = String(process.env.LOOP_ADMIN_PASSWORD || '');
 const ADMIN_PASSWORD_READY = ADMIN_PASSWORD.length >= 16;
 const WHATSAPP_NUMBERS = ['5511980867294', '5511958011799'];
 const VEHICLE_PHOTO_BASE = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/';
-const ASSET_VERSION = '20260921-1815';
+const ASSET_VERSION = '20260921-1820';
 const POSTPONE_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const AUCTION_MIN_DATE = '2026-09-22';
 const AUCTION_MAX_DATE = '2026-09-24';
