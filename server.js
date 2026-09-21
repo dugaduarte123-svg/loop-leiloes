@@ -1120,7 +1120,8 @@ function createServer() {
       if (url.pathname.startsWith('/_next/')) {
         const file = findCapturedFile(SITE_ROOT, url.pathname);
         if (file) {
-          serveFile(res, file, true);
+          const isLargeAppBundle = path.basename(file).startsWith('_app-') && path.extname(file) === '.js';
+          serveFile(res, file, !isLargeAppBundle);
           return;
         }
       }

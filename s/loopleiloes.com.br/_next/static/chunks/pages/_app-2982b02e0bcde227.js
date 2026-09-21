@@ -25680,7 +25680,7 @@
                     dsn: "https://e743cff82fbe80b3afa8a90af89b39f7@sentry.loopbrasil.com/7",
                     integrations: [Ml({
                         maskAllText: !1,
-                        networkDetailAllowUrls: ["https://api.loopleiloes.com.br"]
+                        networkDetailAllowUrls: ["/api"]
                     })],
                     tracesSampleRate: .1,
                     replaysSessionSampleRate: 0,
@@ -27401,7 +27401,7 @@
                 i = n.n(r),
                 o = n(33299),
                 a = i().create({
-                    baseURL: "https://api.loopleiloes.com.br",
+                    baseURL: "/api",
                     headers: {
                         Authorization: "Bearer ".concat("JDJ5JDEyJGwxZmUxRVhzYkg5ME5hbmpFRE9EbS5aZXZXLk10SXg5MjVDR0FjY2lQS2N3Lzd5ZGhxcEF5")
                     }
@@ -27434,7 +27434,7 @@
                     baseURL: "/api"
                 })),
                 l = i().create({
-                    baseURL: "https://strapi.loopbrasil.com"
+                    baseURL: "/cms"
                 }),
                 d = function(e, t, n) {
                     var r = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : a;
@@ -30499,7 +30499,7 @@
                                 label: "Sair",
                                 onClick: function() {
                                     return (0, k.signOut)({
-                                        callbackUrl: "https://minhaconta.loopbrasil.com/usuario/logoff?url=".concat("https://www.loopleiloes.com.br")
+                                        callbackUrl: "https://minhaconta.loopbrasil.com/usuario/logoff?url=".concat("")
                                     })
                                 },
                                 Icon: Ke.Z
