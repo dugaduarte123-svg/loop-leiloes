@@ -1212,7 +1212,6 @@ function startServer() {
   server.listen(port, host, () => {
     console.log(`Loop Leiloes: http://${host}:${port}`);
     if (!ADMIN_PASSWORD_READY) console.warn('Painel /admin desativado: configure LOOP_ADMIN_PASSWORD com pelo menos 16 caracteres.');
-    if (IS_PRODUCTION && !process.env.LOOP_DB_FILE) console.warn('LOOP_DB_FILE não configurado: dados locais podem ser substituídos em um novo deploy.');
   });
   const automaticPostponeTimer = setInterval(runAutomaticPostpone, 60_000);
   automaticPostponeTimer.unref();
