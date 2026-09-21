@@ -103,6 +103,14 @@ test('entrega fotos de veiculos por uma rota aceita pela Hostinger', async () =>
   assert.equal(response.status, 200);
   assert.match(response.headers.get('content-type'), /image\/jpeg/);
   assert.ok((await response.arrayBuffer()).byteLength > 1000);
+
+  const fallbackParams = new URLSearchParams({
+    vehicle: '60086395',
+    file: 'renault-master13m3-25dci-frente-motorista-831b7064.jpg'
+  });
+  const fallback = await fetch(`${origin}/vehicle-image?${fallbackParams}`);
+  assert.equal(fallback.status, 200);
+  assert.match(fallback.headers.get('content-type'), /image\/jpeg/);
 });
 
 test('entrega as novas paginas publicas e o catalogo completo', async () => {

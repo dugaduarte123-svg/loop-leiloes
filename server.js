@@ -1164,14 +1164,15 @@ function createServer() {
           return;
         }
 
-        const indexed = imageByFilename(filename);
+        let indexed = imageByFilename(filename);
+        const fallbackFilename = imageByVehicleCache.get(vehicleId);
+        if (!indexed && fallbackFilename) indexed = imageByFilename(fallbackFilename);
         if (!indexed) {
           json(res, 404, { error: 'Imagem nao encontrada' });
           return;
         }
 
         const candidates = [indexed];
-        const fallbackFilename = imageByVehicleCache.get(vehicleId);
         const fallback = fallbackFilename ? imageByFilename(fallbackFilename) : null;
         if (fallback && fallback.relativePath !== indexed.relativePath) candidates.push(fallback);
 
