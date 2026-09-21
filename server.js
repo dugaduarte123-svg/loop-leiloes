@@ -1205,16 +1205,21 @@ function createServer() {
   });
 }
 
-if (require.main === module) {
+function startServer() {
   const port = Number(process.env.PORT) || 3000;
   const host = process.env.HOST || '0.0.0.0';
-  createServer().listen(port, host, () => {
+  const server = createServer();
+  server.listen(port, host, () => {
     console.log(`Loop Leiloes: http://${host}:${port}`);
     if (!ADMIN_PASSWORD_READY) console.warn('Painel /admin desativado: configure LOOP_ADMIN_PASSWORD com pelo menos 16 caracteres.');
     if (IS_PRODUCTION && !process.env.LOOP_DB_FILE) console.warn('LOOP_DB_FILE não configurado: dados locais podem ser substituídos em um novo deploy.');
   });
   const automaticPostponeTimer = setInterval(runAutomaticPostpone, 60_000);
   automaticPostponeTimer.unref();
+  return server;
 }
 
-module.exports = { createServer, rewriteExternalUrls, runAutomaticPostpone, sanitizeJsonControlCharacters };
+const disableAutoListen = /^(1|true|yes)$/i.test(process.env.LOOP_DISABLE_AUTO_LISTEN || '');
+if (require.main === module || (process.env.PORT && !process.env.VERCEL && !disableAutoListen)) startServer();
+
+module.exports = { createServer, rewriteExternalUrls, runAutomaticPostpone, sanitizeJsonControlCharacters, startServer };
