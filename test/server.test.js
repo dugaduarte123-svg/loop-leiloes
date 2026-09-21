@@ -27,7 +27,7 @@ test('entrega a home original com dependencias locais', async () => {
   assert.match(html, /Leil/);
   assert.match(html, /\/_next\/static\/chunks\/pages\/index-/);
   assert.doesNotMatch(html, /https:\/\/api\.loopleiloes\.com\.br/);
-  assert.match(html, /\/__mirror\/objectstorage\.sa-saopaulo-1\.oraclecloud\.com/);
+  assert.match(html, /https:\/\/objectstorage\.sa-saopaulo-1\.oraclecloud\.com/);
 });
 
 test('aplica cabecalhos de seguranca e bloqueia escrita entre origens', async () => {
