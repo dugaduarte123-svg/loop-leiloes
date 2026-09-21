@@ -8,7 +8,7 @@ repositório; quando uma foto local não existe, o servidor usa a URL pública i
 1. No hPanel, escolha **Adicionar site → Aplicação web Node.js → Importar GitHub**.
 2. Selecione `dugaduarte123-svg/loop-leiloes`, branch `main`.
 3. Use o tipo **Other**, Node.js 20 ou superior e a raiz do repositório.
-4. Arquivo de entrada: `server.js`.
+4. Arquivo de entrada: `hostinger.js`.
 5. Comando inicial: `npm start`.
 6. O projeto não possui etapa de build nem dependências externas.
 

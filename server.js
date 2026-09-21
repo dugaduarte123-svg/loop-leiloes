@@ -1217,4 +1217,4 @@ if (require.main === module) {
   automaticPostponeTimer.unref();
 }
 
-module.exports = { createServer, rewriteExternalUrls, sanitizeJsonControlCharacters };
+module.exports = { createServer, rewriteExternalUrls, runAutomaticPostpone, sanitizeJsonControlCharacters };
