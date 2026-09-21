@@ -4,6 +4,7 @@ const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
+const zlib = require('node:zlib');
 
 const ROOT = __dirname;
 const SNAPSHOT_ROOT = path.join(ROOT, 's');
@@ -20,11 +21,12 @@ const FORCE_SECURE_COOKIES = IS_PRODUCTION || /^(1|true|yes)$/i.test(process.env
 const localSessions = new Map();
 const adminSessions = new Map();
 const rateLimitBuckets = new Map();
+const compressedAssetCache = new Map();
 const ADMIN_PASSWORD = String(process.env.LOOP_ADMIN_PASSWORD || '');
 const ADMIN_PASSWORD_READY = ADMIN_PASSWORD.length >= 16;
 const WHATSAPP_NUMBERS = ['5511980867294', '5511958011799'];
 const VEHICLE_PHOTO_BASE = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/';
-const ASSET_VERSION = '20260921-1850';
+const ASSET_VERSION = '20260921-1855';
 const POSTPONE_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const AUCTION_MIN_DATE = '2026-09-22';
 const AUCTION_MAX_DATE = '2026-09-24';
@@ -748,6 +750,28 @@ function serveFile(res, filePath, rewrite = false, cacheControl = null) {
   fs.createReadStream(filePath).pipe(res);
 }
 
+function serveCompressedBundle(req, res, filePath) {
+  if (!/\bbr\b/.test(String(req.headers['accept-encoding'] || ''))) {
+    serveFile(res, filePath, false);
+    return;
+  }
+  let body = compressedAssetCache.get(filePath);
+  if (!body) {
+    body = zlib.brotliCompressSync(fs.readFileSync(filePath), {
+      params: { [zlib.constants.BROTLI_PARAM_QUALITY]: 6 }
+    });
+    compressedAssetCache.set(filePath, body);
+  }
+  res.writeHead(200, {
+    'Content-Type': 'text/javascript; charset=utf-8',
+    'Content-Encoding': 'br',
+    'Content-Length': body.length,
+    'Cache-Control': 'public, max-age=31536000, immutable',
+    'Vary': 'Accept-Encoding'
+  });
+  res.end(body);
+}
+
 async function handleApi(req, res, url) {
   if (req.method === 'OPTIONS') {
     res.writeHead(204, {
@@ -1166,7 +1190,8 @@ function createServer() {
         const file = findCapturedFile(SITE_ROOT, url.pathname);
         if (file) {
           const isLargeAppBundle = path.basename(file).startsWith('_app-') && path.extname(file) === '.js';
-          serveFile(res, file, !isLargeAppBundle);
+          if (isLargeAppBundle) serveCompressedBundle(req, res, file);
+          else serveFile(res, file, true);
           return;
         }
       }
