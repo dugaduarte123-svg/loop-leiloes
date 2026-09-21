@@ -24,6 +24,7 @@ const ADMIN_PASSWORD = String(process.env.LOOP_ADMIN_PASSWORD || '');
 const ADMIN_PASSWORD_READY = ADMIN_PASSWORD.length >= 16;
 const WHATSAPP_NUMBERS = ['5511980867294', '5511958011799'];
 const VEHICLE_PHOTO_BASE = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/';
+const ASSET_VERSION = '20260921-1815';
 const POSTPONE_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const AUCTION_MIN_DATE = '2026-09-22';
 const AUCTION_MAX_DATE = '2026-09-24';
@@ -133,6 +134,13 @@ function rewriteExternalUrls(content) {
 function injectFloatingWhatsapp(content) {
   if (content.includes('class="floating-whatsapp"')) return content;
   return content.replace('</body>', `${REMOVE_STOCK_TOGGLE}${REMOVE_ACCOUNT_LINKS}${FLOATING_WHATSAPP}</body>`);
+}
+
+function versionHtmlAssets(content) {
+  return content.replace(/\b(src|href)="(\/(?:_next\/(?:static|image)|__mirror|cms\/uploads)\/[^\"]+)"/g, (match, attribute, url) => {
+    const separator = url.includes('?') ? '&amp;' : '?';
+    return `${attribute}="${url}${separator}v=${ASSET_VERSION}"`;
+  });
 }
 
 function sanitizeJsonControlCharacters(source) {
@@ -676,7 +684,7 @@ function serveFile(res, filePath, rewrite = false, cacheControl = null) {
 
   if (rewrite && isText) {
     let body = rewriteExternalUrls(fs.readFileSync(filePath, 'utf8'));
-    if (extension === '.html') body = injectFloatingWhatsapp(shiftDatesInHtml(body));
+    if (extension === '.html') body = versionHtmlAssets(injectFloatingWhatsapp(shiftDatesInHtml(body)));
     res.writeHead(200, {
       'Content-Type': contentType,
       'Content-Length': Buffer.byteLength(body),
