@@ -29,6 +29,21 @@ test('entrega a home original com dependencias locais', async () => {
   assert.match(html, /\/__mirror\/objectstorage\.sa-saopaulo-1\.oraclecloud\.com/);
 });
 
+test('aplica cabecalhos de seguranca e bloqueia escrita entre origens', async () => {
+  const health = await fetch(`${origin}/health`);
+  assert.equal(health.status, 200);
+  assert.equal(health.headers.get('x-content-type-options'), 'nosniff');
+  assert.equal(health.headers.get('x-frame-options'), 'SAMEORIGIN');
+  assert.match(health.headers.get('content-security-policy'), /default-src 'self'/);
+
+  const blocked = await fetch(`${origin}/api/search/leilao`, {
+    method: 'POST',
+    headers: { origin: 'https://site-malicioso.example', 'content-type': 'application/json' },
+    body: '{}'
+  });
+  assert.equal(blocked.status, 403);
+});
+
 test('entrega o cadastro original da segunda captura', async () => {
   const response = await fetch(`${origin}/cadastro`, { headers: { accept: 'text/html' } });
   const html = await response.text();

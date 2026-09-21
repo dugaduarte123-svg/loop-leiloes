@@ -1,7 +1,11 @@
 node_modules/
 .env
+.env.*
+!.env.example
 npm-debug.log*
 public-media/
+data/local-db.json
+data/local-db.json.*
 data/public-api/images-local.json
 data/public-api/images-index.json
 .vercel/

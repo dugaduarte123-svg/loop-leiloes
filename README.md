@@ -25,6 +25,12 @@ Para validar o servidor, as APIs e os assets:
 npm test
 ```
 
+## Produção
+
+Não existe senha administrativa padrão. Em produção, configure no provedor as
+variáveis descritas em `.env.example`; o arquivo `.env` real nunca deve ser enviado
+ao Git. Consulte `DEPLOY_HOSTINGER.md` para o passo a passo.
+
 ## Estrutura
 
 - `s/`: copia consolidada e sem alteracoes dos 2.414 arquivos unicos das duas capturas recebidas.
