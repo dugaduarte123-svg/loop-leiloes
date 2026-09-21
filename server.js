@@ -1197,7 +1197,8 @@ function createServer() {
             return;
           } catch {}
         }
-        json(res, 502, { error: 'Falha ao carregar imagem' });
+        res.writeHead(302, { Location: indexed.source, 'Cache-Control': 'no-store' });
+        res.end();
         return;
       }
 
