@@ -28,6 +28,22 @@ const ASSET_VERSION = '20260921-1855';
 const POSTPONE_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const AUCTION_MIN_DATE = '2026-09-22';
 const AUCTION_MAX_DATE = '2026-09-24';
+const DIRECT_RESPONSE_MAX_BYTES = 1024 * 1024;
+
+// A hospedagem encerra algumas respostas transmitidas por stream antes de o
+// primeiro bloco chegar ao proxy. Manter o shell pequeno da aplicacao em
+// memoria permite entregar qualquer rota publica em uma unica resposta.
+const APP_SHELL = (() => {
+  const html = fs.readFileSync(path.join(APP_ROOT, 'index.html'), 'utf8');
+  const css = fs.readFileSync(path.join(APP_ROOT, 'app.css'), 'utf8');
+  const javascript = fs.readFileSync(path.join(APP_ROOT, 'app.js'), 'utf8');
+  const logo = fs.readFileSync(path.join(APP_ROOT, 'assets', 'logo-loop.svg'), 'utf8');
+  const logoDataUri = `data:image/svg+xml;base64,${Buffer.from(logo).toString('base64')}`;
+  return html
+    .replace(/<link rel="stylesheet" href="\/app\.css[^"]*">/, `<style>${css}</style>`)
+    .replace(/<script src="\/app\.js[^"]*" defer><\/script>/, `<script>${javascript.replaceAll('</script>', '<\\/script>')}</script>`)
+    .replaceAll('/app-assets/logo-loop.svg', logoDataUri);
+})();
 
 function clientAddress(req) {
   const forwarded = TRUST_PROXY ? req.headers['x-forwarded-for'] : '';
@@ -720,7 +736,20 @@ function serveFile(res, filePath, rewrite = false, cacheControl = null) {
     'Content-Length': stat.size,
     'Cache-Control': cacheControl || (extension === '.html' ? 'no-cache' : 'public, max-age=31536000, immutable')
   });
+  if (stat.size <= DIRECT_RESPONSE_MAX_BYTES) {
+    res.end(fs.readFileSync(filePath));
+    return;
+  }
   fs.createReadStream(filePath).pipe(res);
+}
+
+function serveAppShell(req, res) {
+  res.writeHead(200, {
+    'Content-Type': 'text/html; charset=utf-8',
+    'Content-Length': Buffer.byteLength(APP_SHELL),
+    'Cache-Control': 'no-cache'
+  });
+  res.end(req.method === 'HEAD' ? undefined : APP_SHELL);
 }
 
 function serveCompressedBundle(req, res, filePath) {
@@ -729,15 +758,15 @@ function serveCompressedBundle(req, res, filePath) {
     serveFile(res, filePath, false);
     return;
   }
-  const stat = fs.statSync(compressedPath);
+  const body = fs.readFileSync(compressedPath);
   res.writeHead(200, {
     'Content-Type': 'text/javascript; charset=utf-8',
     'Content-Encoding': 'br',
-    'Content-Length': stat.size,
+    'Content-Length': body.length,
     'Cache-Control': 'public, max-age=31536000, immutable',
     'Vary': 'Accept-Encoding'
   });
-  fs.createReadStream(compressedPath).pipe(res);
+  res.end(body);
 }
 
 async function handleApi(req, res, url) {
@@ -1248,21 +1277,8 @@ function createServer() {
         }
       }
 
-      if (req.method === 'GET' && url.pathname === '/') {
-        serveFile(res, INDEX_FILE, true);
-        return;
-      }
-
-      if (req.method === 'GET' && req.headers.accept?.includes('text/html')) {
-        const capturedPage = findCapturedFile(SITE_ROOT, url.pathname);
-        if (capturedPage && path.extname(capturedPage).toLowerCase() === '.html') {
-          serveFile(res, capturedPage, true);
-          return;
-        }
-      }
-
-      if (req.method === 'GET' && req.headers.accept?.includes('text/html')) {
-        serveFile(res, path.join(APP_ROOT, 'index.html'), false);
+      if ((req.method === 'GET' || req.method === 'HEAD') && req.headers.accept?.includes('text/html')) {
+        serveAppShell(req, res);
         return;
       }
 

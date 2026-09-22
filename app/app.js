@@ -511,6 +511,7 @@ async function router() {
   const path = decodeURIComponent(location.pathname);
   document.body.classList.toggle('auth-page', path === '/login' || path === '/cadastro');
   try {
+    if (path === '/') return await renderStock();
     if (path === '/admin') return await renderAdmin();
     if (path === '/estoque') return await renderStock();
     if (path === '/eventos') return await renderEvents();
