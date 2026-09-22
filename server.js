@@ -155,31 +155,6 @@ function ensureAnonymousSession(content) {
   return content.replace(/("pageProps"\s*:\s*)\{/, '$1{"session":null,');
 }
 
-function hydrateFeaturedLots(content) {
-  if (!content.includes('Ofertas disponíveis') || content.includes('"getFeaturedLots"')) return content;
-  const now = Date.now();
-  const queryKey = ['getFeaturedLots', { rows: 2 }];
-  const query = {
-    state: {
-      data: shiftAuctionDates(publicJson('featured-lots.json', captured.featuredLots).slice(0, 8)),
-      dataUpdateCount: 1,
-      dataUpdatedAt: now,
-      error: null,
-      errorUpdateCount: 0,
-      errorUpdatedAt: 0,
-      fetchFailureCount: 0,
-      fetchMeta: null,
-      isFetching: false,
-      isInvalidated: false,
-      isPaused: false,
-      status: 'success'
-    },
-    queryKey,
-    queryHash: JSON.stringify(queryKey)
-  };
-  return content.replace(/("queries"\s*:\s*)\[/, `$1[${JSON.stringify(query)},`);
-}
-
 function injectFrontendData(content) {
   if (!content.includes('Ofertas disponíveis') || content.includes('__FEATURED_LOTS__')) return content;
   const data = JSON.stringify({
@@ -731,7 +706,7 @@ function serveFile(res, filePath, rewrite = false, cacheControl = null) {
 
   if (rewrite && isText) {
     let body = rewriteExternalUrls(fs.readFileSync(filePath, 'utf8'));
-    if (extension === '.html') body = versionHtmlAssets(injectFrontendData(hydrateFeaturedLots(ensureAnonymousSession(injectFloatingWhatsapp(shiftDatesInHtml(body))))));
+    if (extension === '.html') body = versionHtmlAssets(injectFrontendData(ensureAnonymousSession(injectFloatingWhatsapp(shiftDatesInHtml(body)))));
     res.writeHead(200, {
       'Content-Type': contentType,
       'Content-Length': Buffer.byteLength(body),
