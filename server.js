@@ -4,7 +4,6 @@ const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
-const zlib = require('node:zlib');
 
 const ROOT = __dirname;
 const SNAPSHOT_ROOT = path.join(ROOT, 's');
@@ -21,7 +20,6 @@ const FORCE_SECURE_COOKIES = IS_PRODUCTION || /^(1|true|yes)$/i.test(process.env
 const localSessions = new Map();
 const adminSessions = new Map();
 const rateLimitBuckets = new Map();
-const compressedAssetCache = new Map();
 const ADMIN_PASSWORD = String(process.env.LOOP_ADMIN_PASSWORD || '');
 const ADMIN_PASSWORD_READY = ADMIN_PASSWORD.length >= 16;
 const WHATSAPP_NUMBERS = ['5511980867294', '5511958011799'];
@@ -726,25 +724,20 @@ function serveFile(res, filePath, rewrite = false, cacheControl = null) {
 }
 
 function serveCompressedBundle(req, res, filePath) {
-  if (!/\bbr\b/.test(String(req.headers['accept-encoding'] || ''))) {
+  const compressedPath = `${filePath}.br`;
+  if (!/\bbr\b/.test(String(req.headers['accept-encoding'] || '')) || !fs.existsSync(compressedPath)) {
     serveFile(res, filePath, false);
     return;
   }
-  let body = compressedAssetCache.get(filePath);
-  if (!body) {
-    body = zlib.brotliCompressSync(fs.readFileSync(filePath), {
-      params: { [zlib.constants.BROTLI_PARAM_QUALITY]: 6 }
-    });
-    compressedAssetCache.set(filePath, body);
-  }
+  const stat = fs.statSync(compressedPath);
   res.writeHead(200, {
     'Content-Type': 'text/javascript; charset=utf-8',
     'Content-Encoding': 'br',
-    'Content-Length': body.length,
+    'Content-Length': stat.size,
     'Cache-Control': 'public, max-age=31536000, immutable',
     'Vary': 'Accept-Encoding'
   });
-  res.end(body);
+  fs.createReadStream(compressedPath).pipe(res);
 }
 
 async function handleApi(req, res, url) {
