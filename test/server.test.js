@@ -20,15 +20,14 @@ test.after(async () => {
   await new Promise((resolve, reject) => server.close((error) => error ? reject(error) : resolve()));
 });
 
-test('entrega a home leve com estilos e aplicacao embutidos', async () => {
-  const response = await fetch(`${origin}/`, { headers: { accept: 'text/html' } });
+test('entrega a home original com dependencias locais', async () => {
+  const response = await fetch(`${origin}/`);
   const html = await response.text();
   assert.equal(response.status, 200);
   assert.match(html, /Leil/);
-  assert.match(html, /<style>/);
-  assert.match(html, /async function router/);
-  assert.doesNotMatch(html, /src="\/app\.js/);
-  assert.doesNotMatch(html, /href="\/app\.css/);
+  assert.match(html, /\/_next\/static\/chunks\/pages\/index-/);
+  assert.doesNotMatch(html, /https:\/\/api\.loopleiloes\.com\.br/);
+  assert.match(html, /https:\/\/objectstorage\.sa-saopaulo-1\.oraclecloud\.com/);
 });
 
 test('aplica cabecalhos de seguranca e bloqueia escrita entre origens', async () => {
@@ -46,12 +45,16 @@ test('aplica cabecalhos de seguranca e bloqueia escrita entre origens', async ()
   assert.equal(blocked.status, 403);
 });
 
-test('entrega o cadastro pela aplicacao leve', async () => {
+test('entrega o cadastro original da segunda captura', async () => {
   const response = await fetch(`${origin}/cadastro`, { headers: { accept: 'text/html' } });
   const html = await response.text();
 
   assert.equal(response.status, 200);
-  assert.match(html, /async function router/);
+  assert.match(html, /\/_next\/static\/chunks\/pages\/cadastro-38bba157c1a7d25f\.js/);
+  assert.doesNotMatch(html, /https:\/\/api\.loopleiloes\.com\.br/);
+
+  const pageChunk = await fetch(`${origin}/_next/static/chunks/pages/cadastro-38bba157c1a7d25f.js`);
+  assert.equal(pageChunk.status, 200);
 
   const emptyTracker = await fetch(`${origin}/__mirror/assets.adobedtm.com/extensions/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement.min.js`);
   assert.equal(emptyTracker.status, 204);
@@ -119,7 +122,7 @@ test('entrega as novas paginas publicas e o catalogo completo', async () => {
   const lots = await fetch(`${origin}/api/auction/events/${events[0].id}/lots`).then((response) => response.json());
 
   assert.equal(page.status, 200);
-  assert.match(html, /async function router/);
+  assert.match(html, /app\.js/);
   assert.ok(catalog.total > 0);
   assert.ok(catalog.items.length <= 12);
   assert.ok(catalog.facets.category.includes('Leve'));
@@ -150,7 +153,7 @@ test('entrega todas as familias de rotas do manifesto pela aplicacao local', asy
     const html = await response.text();
     assert.equal(response.status, 200, route);
     assert.match(html, /<main id="app">/, route);
-    assert.match(html, /async function router/, route);
+    assert.match(html, /app\.js/, route);
   }
 });
 
@@ -198,6 +201,6 @@ test('todos os produtos de estoque possuem detalhe e pagina publica', async () =
     const vehicle = vehicles.find((item) => item.category === category);
     const response = await fetch(`${origin}/veiculo/${vehicle.slug}`, { headers: { accept: 'text/html' } });
     assert.equal(response.status, 200, category);
-    assert.match(await response.text(), /async function router/, category);
+    assert.match(await response.text(), /app\.js\?v=20260919-3/, category);
   }
 });
