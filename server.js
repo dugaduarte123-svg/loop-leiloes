@@ -125,7 +125,7 @@ function rewriteExternalUrls(content) {
 
   // Este aviso foi personalizado localmente. A copia da CDN oficial ainda e
   // a antiga, portanto ela precisa ser entregue pelo proprio site.
-  output = output.split(ANTI_SCAM_IMAGE_SOURCE).join('/aviso-anti-golpe.png');
+  output = output.split(ANTI_SCAM_IMAGE_SOURCE).join('/aviso-anti-golpe');
 
   // Imagens ficam na CDN oficial. Servi-las diretamente evita estourar o
   // limite de requisicoes simultaneas da hospedagem Node.
@@ -1056,7 +1056,7 @@ function createServer() {
         return;
       }
 
-      if ((req.method === 'GET' || req.method === 'HEAD') && url.pathname === '/aviso-anti-golpe.png') {
+      if ((req.method === 'GET' || req.method === 'HEAD') && url.pathname === '/aviso-anti-golpe') {
         serveFile(res, ANTI_SCAM_IMAGE_FILE, false, 'public, max-age=31536000, immutable');
         return;
       }
