@@ -24,7 +24,9 @@ const ADMIN_PASSWORD = String(process.env.LOOP_ADMIN_PASSWORD || '');
 const ADMIN_PASSWORD_READY = ADMIN_PASSWORD.length >= 16;
 const WHATSAPP_NUMBERS = ['5511980867294', '5511958011799'];
 const VEHICLE_PHOTO_BASE = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/KwUyhjEv9VxIWkPo_Ql7FUmLthg8HKxwThZvvaed7_Tqz9QfJfwrzzgt_3EIvqRG/n/loopbrasil/b/vehicle-photos/o/md/';
-const ASSET_VERSION = '20260921-1855';
+const ASSET_VERSION = '20260923-anti-scam';
+const ANTI_SCAM_IMAGE_SOURCE = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/loopbrasil/b/assets/o/leilao%2Fmodal-anti-golpe.png';
+const ANTI_SCAM_IMAGE_FILE = path.join(SNAPSHOT_ROOT, 'objectstorage.sa-saopaulo-1.oraclecloud.com', 'n', 'loopbrasil', 'b', 'assets', 'o', 'leilao', 'modal-anti-golpe.png');
 const POSTPONE_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const AUCTION_MIN_DATE = '2026-09-22';
 const AUCTION_MAX_DATE = '2026-09-24';
@@ -120,6 +122,10 @@ function rewriteExternalUrls(content) {
   for (const [origin, localPath] of SPECIAL_ORIGINS) {
     output = output.split(origin).join(localPath);
   }
+
+  // Este aviso foi personalizado localmente. A copia da CDN oficial ainda e
+  // a antiga, portanto ela precisa ser entregue pelo proprio site.
+  output = output.split(ANTI_SCAM_IMAGE_SOURCE).join('/aviso-anti-golpe.png');
 
   // Imagens ficam na CDN oficial. Servi-las diretamente evita estourar o
   // limite de requisicoes simultaneas da hospedagem Node.
@@ -1047,6 +1053,11 @@ function createServer() {
 
       if (url.pathname === '/health') {
         json(res, 200, { status: 'ok', snapshotFiles: 2414 });
+        return;
+      }
+
+      if ((req.method === 'GET' || req.method === 'HEAD') && url.pathname === '/aviso-anti-golpe.png') {
+        serveFile(res, ANTI_SCAM_IMAGE_FILE, false, 'public, max-age=31536000, immutable');
         return;
       }
 
