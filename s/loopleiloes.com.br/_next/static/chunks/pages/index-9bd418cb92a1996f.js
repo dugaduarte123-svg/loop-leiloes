@@ -2586,7 +2586,14 @@
                             }), (0, a.jsx)("div", {
                                 children: (0, a.jsx)("img", {
                                     src: "/__mirror/objectstorage.sa-saopaulo-1.oraclecloud.com/n/loopbrasil/b/assets/o/leilao%2Fmodal-anti-golpe.png?v=20260923-3",
-                                    alt: "Modal de aviso anti-golpes"
+                                    alt: "Modal de aviso anti-golpes",
+                                    style: {
+                                        width: "1000px",
+                                        maxWidth: "calc(100vw - 32px)",
+                                        maxHeight: "calc(100vh - 32px)",
+                                        objectFit: "contain",
+                                        display: "block"
+                                    }
                                 })
                             })]
                         })
