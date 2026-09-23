@@ -89,10 +89,10 @@ test('entrega conteudo do CMS e imagens espelhadas', async () => {
 test('entrega o aviso anti-golpe personalizado pelo proprio site', async () => {
   const pageChunk = await fetch(`${origin}/_next/static/chunks/pages/index-9bd418cb92a1996f.js`);
   const javascript = await pageChunk.text();
-  const image = await fetch(`${origin}/aviso-anti-golpe?v=20260923-1`);
+  const image = await fetch(`${origin}/aviso-anti-golpe.png?v=20260923-1`);
 
   assert.equal(pageChunk.status, 200);
-  assert.match(javascript, /src: "\/aviso-anti-golpe\?v=20260923-1"/);
+  assert.match(javascript, /src: "\/aviso-anti-golpe\.png\?v=20260923-1"/);
   assert.doesNotMatch(javascript, /src: "https:\/\/objectstorage[^\"]+modal-anti-golpe\.png/);
   assert.equal(image.status, 200);
   assert.match(image.headers.get('content-type'), /image\/png/);
