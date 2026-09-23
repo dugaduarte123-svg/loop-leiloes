@@ -2585,7 +2585,7 @@
                                 children: (0, a.jsx)(Fe.Z, {})
                             }), (0, a.jsx)("div", {
                                 children: (0, a.jsx)("img", {
-                                    src: "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/loopbrasil/b/assets/o/leilao%2Fmodal-anti-golpe.png?v=20260921-4",
+                                    src: "/__mirror/objectstorage.sa-saopaulo-1.oraclecloud.com/n/loopbrasil/b/assets/o/leilao%2Fmodal-anti-golpe.png?v=20260923-2",
                                     alt: "Modal de aviso anti-golpes"
                                 })
                             })]
