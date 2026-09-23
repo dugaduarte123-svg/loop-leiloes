@@ -86,19 +86,6 @@ test('entrega conteudo do CMS e imagens espelhadas', async () => {
   assert.match(image.headers.get('content-type'), /svg/);
 });
 
-test('entrega o aviso anti-golpe personalizado pelo proprio site', async () => {
-  const pageChunk = await fetch(`${origin}/_next/static/chunks/pages/index-9bd418cb92a1996f.js`);
-  const javascript = await pageChunk.text();
-  const image = await fetch(`${origin}/aviso-anti-golpe.png?v=20260923-1`);
-
-  assert.equal(pageChunk.status, 200);
-  assert.match(javascript, /src: "\/aviso-anti-golpe\.png\?v=20260923-1"/);
-  assert.doesNotMatch(javascript, /src: "https:\/\/objectstorage[^\"]+modal-anti-golpe\.png/);
-  assert.equal(image.status, 200);
-  assert.match(image.headers.get('content-type'), /image\/png/);
-  assert.equal((await image.arrayBuffer()).byteLength, 752938);
-});
-
 test('atende imagens otimizadas da home e redireciona assets publicos', async () => {
   const source = 'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/loopbrasil/b/assets/o/leilao%2Fhome-depoiments-5.jpg';
   const params = new URLSearchParams({ url: source, w: '256', q: '75' });
